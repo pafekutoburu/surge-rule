@@ -1,0 +1,7 @@
+# CETV
+# Policy: DIRECT
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,centv.cn
+DOMAIN-SUFFIX,centv.net.cn
+DOMAIN-SUFFIX,cetv.cn

@@ -1,0 +1,9 @@
+# AcFun
+# Policy: DIRECT
+# Total: 5 rules
+#
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.com
+USER-AGENT,AcFun*
+DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,apilog-web.acfun.cn

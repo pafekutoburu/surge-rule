@@ -1,0 +1,7 @@
+# Vancl
+# Policy: DIRECT
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,vancl.com
+DOMAIN-SUFFIX,vanclimg.com
+DOMAIN-SUFFIX,vcimg.com

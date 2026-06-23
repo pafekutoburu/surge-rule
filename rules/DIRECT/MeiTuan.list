@@ -1,0 +1,13 @@
+# MeiTuan
+# Policy: DIRECT
+# Total: 9 rules
+#
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN,httpdns.meituan.com
+DOMAIN-SUFFIX,analytics.meituan.net
+DOMAIN-SUFFIX,report.meituan.com

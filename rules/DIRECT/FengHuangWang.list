@@ -1,0 +1,16 @@
+# FengHuangWang
+# Policy: DIRECT
+# Total: 12 rules
+#
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,fengedu.com
+DOMAIN-SUFFIX,fengzhibo.com.cn
+DOMAIN-SUFFIX,ifengweekly.com
+DOMAIN-SUFFIX,phoenixcenter.cn
+DOMAIN-SUFFIX,phoenixtv.com
+DOMAIN-SUFFIX,phoenixtv.com.cn
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,dolphin.deliver.ifeng.com
+DOMAIN-SUFFIX,err.ifengcloud.ifeng.com
+DOMAIN-SUFFIX,stadig.ifeng.com
+DOMAIN-SUFFIX,ifeng.com

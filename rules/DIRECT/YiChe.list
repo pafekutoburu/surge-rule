@@ -1,0 +1,10 @@
+# YiChe
+# Policy: DIRECT
+# Total: 6 rules
+#
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,applog.yiche.com

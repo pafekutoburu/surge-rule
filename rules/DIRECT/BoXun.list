@@ -1,0 +1,6 @@
+# BoXun
+# Policy: DIRECT
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,bowenpress.com
+DOMAIN-SUFFIX,boxun.com
