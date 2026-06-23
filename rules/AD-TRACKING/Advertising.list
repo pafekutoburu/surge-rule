@@ -1,6 +1,6 @@
 # Advertising
 # Policy: REJECT-TINYGIF
-# Total: 763 rules
+# Total: 748 rules
 #
 AND,((USER-AGENT
 DOMAIN-KEYWORD,-logging.nextmedia.com
@@ -28,7 +28,6 @@ DOMAIN-KEYWORD,ad.api.moji.com
 DOMAIN-KEYWORD,ad.ihuman.com
 DOMAIN-KEYWORD,ad.ixigua.com
 DOMAIN-KEYWORD,ad.toutiao.com
-DOMAIN-KEYWORD,adash.man.aliyuncs.com
 DOMAIN-KEYWORD,adform
 DOMAIN-KEYWORD,adjust.
 DOMAIN-KEYWORD,adktrack
@@ -58,7 +57,6 @@ DOMAIN-KEYWORD,allyes
 DOMAIN-KEYWORD,analysys
 DOMAIN-KEYWORD,analytics-cdn.
 DOMAIN-KEYWORD,analytics.
-DOMAIN-KEYWORD,android.bugly.qq.com
 DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,ap.51y5.net
 DOMAIN-KEYWORD,api.freed.so
@@ -87,7 +85,6 @@ DOMAIN-KEYWORD,c.51y5.net
 DOMAIN-KEYWORD,c.wkanx.com
 DOMAIN-KEYWORD,c1.wkanx.com
 DOMAIN-KEYWORD,c1img.ali.kugou.com
-DOMAIN-KEYWORD,caclick.baidu.com
 DOMAIN-KEYWORD,cds.51y5.net
 DOMAIN-KEYWORD,click.rum.
 DOMAIN-KEYWORD,client-dmp.suishenyun.cn
@@ -100,22 +97,18 @@ DOMAIN-KEYWORD,config.51y5.net
 DOMAIN-KEYWORD,config.y5en.com
 DOMAIN-KEYWORD,count.atm.youku.com
 DOMAIN-KEYWORD,cp-home-pl-
-DOMAIN-KEYWORD,cpu.baidu.com
 DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,dc.pimentaafricana
 DOMAIN-KEYWORD,dfkj8
 DOMAIN-KEYWORD,dlads
 DOMAIN-KEYWORD,dm.bytedance.com
-DOMAIN-KEYWORD,dm.pstatp.com
-DOMAIN-KEYWORD,dm.toutiao.com
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,dtscout
 DOMAIN-KEYWORD,dubester.
 DOMAIN-KEYWORD,e2wysbacctt1
 DOMAIN-KEYWORD,editor.sm.cn
-DOMAIN-KEYWORD,ems.youku.com
 DOMAIN-KEYWORD,exosrv
 DOMAIN-KEYWORD,extlog.snssdk.com
 DOMAIN-KEYWORD,fans.m.tmall.com
@@ -175,12 +168,9 @@ DOMAIN-KEYWORD,mifengv
 DOMAIN-KEYWORD,mighbest
 DOMAIN-KEYWORD,mmiyue
 DOMAIN-KEYWORD,mobaders
-DOMAIN-KEYWORD,mobads.baidu.com
 DOMAIN-KEYWORD,mobilead.kuwo.cn
 DOMAIN-KEYWORD,mpos-pic.helipay.com
 DOMAIN-KEYWORD,msg.push.51y5.net
-DOMAIN-KEYWORD,nbcollect.kugou.com
-DOMAIN-KEYWORD,nbcollectretry.kugou.com
 DOMAIN-KEYWORD,nbsdk-baichuan
 DOMAIN-KEYWORD,news-log.51y5.net
 DOMAIN-KEYWORD,news.51y5.net
@@ -203,7 +193,6 @@ DOMAIN-KEYWORD,pdds.ucweb.com
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,plausible.
 DOMAIN-KEYWORD,policy.jd.com
-DOMAIN-KEYWORD,puds.ucweb.com
 DOMAIN-KEYWORD,r1.ykimg.com
 DOMAIN-KEYWORD,rescn.u3.ucweb.com
 DOMAIN-KEYWORD,rich.kuwo.cn
@@ -235,7 +224,6 @@ DOMAIN-KEYWORD,tosv.byted.org
 DOMAIN-KEYWORD,track.msadcenter
 DOMAIN-KEYWORD,track.opentable.
 DOMAIN-KEYWORD,track.tiara
-DOMAIN-KEYWORD,track.uc.cn
 DOMAIN-KEYWORD,tracker.kugou.com
 DOMAIN-KEYWORD,trackercdnbj.kugou.com
 DOMAIN-KEYWORD,trkcmb.business.hsbc.
@@ -243,7 +231,6 @@ DOMAIN-KEYWORD,trkgbm.business.hsbc.
 DOMAIN-KEYWORD,trkhinv.business.hsbc.
 DOMAIN-KEYWORD,trksvg.business.hsbc.
 DOMAIN-KEYWORD,trwl1
-DOMAIN-KEYWORD,tunion-api.m.taobao.com
 DOMAIN-KEYWORD,umtrack
 DOMAIN-KEYWORD,utp-dmp.ucweb.com
 DOMAIN-KEYWORD,utp.ucweb.com
@@ -254,7 +241,6 @@ DOMAIN-KEYWORD,val.atm.youku.com
 DOMAIN-KEYWORD,vidoza
 DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com
 DOMAIN-KEYWORD,wgo.mmstat.com
-DOMAIN-KEYWORD,wixsite.com
 DOMAIN-KEYWORD,www.qmlog.cn
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,xn--2qux23c9ziyrq
@@ -764,4 +750,3 @@ URL-REGEX,^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/
 URL-REGEX,^https?:\/\/sa\d\.tuisong\.baidu\.com
 URL-REGEX,^https?:\/\/sax\w?\.sina\.com\.cn
 URL-REGEX,^https?:\/\/update\.pan\.baidu\.com\/statistics
-DOMAIN-SUFFIX,crashlytics.com

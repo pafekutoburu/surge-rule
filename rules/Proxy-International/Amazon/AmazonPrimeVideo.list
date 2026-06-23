@@ -1,11 +1,9 @@
 # AmazonPrimeVideo
 # Policy: Proxy
-# Total: 7 rules
+# Total: 5 rules
 #
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
-DOMAIN-SUFFIX,atv-ps.amazon.com
-DOMAIN-SUFFIX,fls-na.amazon.com

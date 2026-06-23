@@ -1,9 +1,8 @@
 # Cloudflare
 # Policy: Proxy
-# Total: 50 rules
+# Total: 49 rules
 #
 DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.net

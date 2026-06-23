@@ -1,6 +1,6 @@
 # BlockHttpDNS
 # Policy: REJECT-TINYGIF
-# Total: 41 rules
+# Total: 40 rules
 #
 DOMAIN,dns.jd.com
 DOMAIN,dns.weibo.cn
@@ -9,7 +9,6 @@ DOMAIN,dns.weixin.qq.com.cn
 DOMAIN,httpdns-api.aliyuncs.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns.alicdn.com
-DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.calorietech.com
 DOMAIN,httpdns.meituan.com

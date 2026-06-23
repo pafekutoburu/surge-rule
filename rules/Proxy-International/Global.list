@@ -1,6 +1,6 @@
 # Global
 # Policy: Proxy
-# Total: 121 rules
+# Total: 119 rules
 #
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,1e100
@@ -10,7 +10,6 @@ DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,jav
-DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,pinterest
@@ -122,4 +121,3 @@ USER-AGENT,com.google.ios.youtube*
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,mytv*
-DOMAIN-SUFFIX,soundcloud.com

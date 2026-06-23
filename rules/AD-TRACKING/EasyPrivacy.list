@@ -1,6 +1,6 @@
 # EasyPrivacy
 # Policy: REJECT-TINYGIF
-# Total: 39946 rules
+# Total: 39938 rules
 #
 DOMAIN,109.123.233.251
 DOMAIN,185.193.38.148
@@ -7695,7 +7695,6 @@ DOMAIN-SUFFIX,brnc.seidecor.com.br
 DOMAIN-SUFFIX,broadstreet.ai
 DOMAIN-SUFFIX,bronxvanilla.openapp.link
 DOMAIN-SUFFIX,brooklynway.openapp.link
-DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,browser-updater.yandex.net
 DOMAIN-SUFFIX,browser.covatic.io
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
@@ -8070,7 +8069,6 @@ DOMAIN-SUFFIX,cdn.net.dz.jumia.com
 DOMAIN-SUFFIX,cdn.net.elogia.net
 DOMAIN-SUFFIX,cdn.polarbyte.com
 DOMAIN-SUFFIX,cdn.ravm.tv
-DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,cdn1.skrill.com
 DOMAIN-SUFFIX,cdn7.baunetz.de
 DOMAIN-SUFFIX,cdnhst.xyz
@@ -9496,7 +9494,6 @@ DOMAIN-SUFFIX,d2tgfbvjf3q6hn.cloudfront.net
 DOMAIN-SUFFIX,d2u.dauphinquebec.com
 DOMAIN-SUFFIX,d2wa5sea6guof0.cloudfront.net
 DOMAIN-SUFFIX,d2wu036mkcz52n.cloudfront.net
-DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN-SUFFIX,d2z0bn1jv8xwtk.cloudfront.net
 DOMAIN-SUFFIX,d31y97ze264gaa.cloudfront.net
 DOMAIN-SUFFIX,d34ko97cxuv4p7.cloudfront.net
@@ -10748,7 +10745,6 @@ DOMAIN-SUFFIX,dlqxtm.sssports.com
 DOMAIN-SUFFIX,dls-account.di.atlas.samsung.com
 DOMAIN-SUFFIX,dls-b23-link.ip.twelve99.net.iberostar.com
 DOMAIN-SUFFIX,dls.guidrr.com
-DOMAIN-SUFFIX,dlswbr.baidu.com
 DOMAIN-SUFFIX,dluat.pokerbros.net
 DOMAIN-SUFFIX,dluat.supremapoker.net
 DOMAIN-SUFFIX,dlxpix.net
@@ -30306,7 +30302,6 @@ DOMAIN-SUFFIX,socialflow.branch.rocks
 DOMAIN-SUFFIX,socs.hagerty.com
 DOMAIN-SUFFIX,soejzg.efe.com.pe
 DOMAIN-SUFFIX,soelui.butosklep.pl
-DOMAIN-SUFFIX,sofire.bdstatic.com
 DOMAIN-SUFFIX,sofire.terabox.app
 DOMAIN-SUFFIX,sohiuc.sheego.de
 DOMAIN-SUFFIX,sokutei.car2828.jp
@@ -31098,7 +31093,6 @@ DOMAIN-SUFFIX,sstat.outrigger.com
 DOMAIN-SUFFIX,sstat.spreadex.com
 DOMAIN-SUFFIX,sstatistikk.telenor.no
 DOMAIN-SUFFIX,sstats.aavacations.com
-DOMAIN-SUFFIX,sstats.adobe.com
 DOMAIN-SUFFIX,sstats.adultswim.com
 DOMAIN-SUFFIX,sstats.afco.com
 DOMAIN-SUFFIX,sstats.airfarewatchdog.co.uk
@@ -32643,7 +32637,6 @@ DOMAIN-SUFFIX,sud.holidays.hrs.de
 DOMAIN-SUFFIX,sufesj.shop4runners.com
 DOMAIN-SUFFIX,sufetv.chefuniforms.com
 DOMAIN-SUFFIX,sugabyte.actonservice.com
-DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,sugs.m.sm.cn
 DOMAIN-SUFFIX,summary.bookoffonline.co.jp
 DOMAIN-SUFFIX,summary.instaread.co
@@ -36148,7 +36141,6 @@ DOMAIN-SUFFIX,tracking.medicalcloud.janssen.com.tr
 DOMAIN-SUFFIX,tracking.mediwel.net
 DOMAIN-SUFFIX,tracking.mhealthintelligence.com
 DOMAIN-SUFFIX,tracking.mindshiftonline.com
-DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.mizuhogroup.com
 DOMAIN-SUFFIX,tracking.mjbizconference.com
 DOMAIN-SUFFIX,tracking.mjbizdaily.com

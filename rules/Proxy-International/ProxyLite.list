@@ -1,6 +1,6 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 494 rules
+# Total: 491 rules
 #
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
@@ -12,13 +12,11 @@ DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,beta.music.apple.com
 DOMAIN,books.apple.com
-DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,lab.skk.moe
 DOMAIN,login.microsoftonline.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.yahoo.co.jp
-DOMAIN,tv.apple.com
 DOMAIN,wego.here.com
 DOMAIN-KEYWORD,.pinterest.
 DOMAIN-SUFFIX,1password.com
@@ -495,4 +493,3 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
-DOMAIN-SUFFIX,geni.us

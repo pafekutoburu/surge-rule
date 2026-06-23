@@ -1,6 +1,6 @@
 # Amazon
 # Policy: Proxy
-# Total: 202 rules
+# Total: 201 rules
 #
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-SUFFIX,a2z.com
@@ -105,7 +105,6 @@ DOMAIN-SUFFIX,amznl.com
 DOMAIN-SUFFIX,assoc-amazon.cn
 DOMAIN-SUFFIX,associates-amazon.com
 DOMAIN-SUFFIX,audible.com
-DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
 DOMAIN-SUFFIX,aws
 DOMAIN-SUFFIX,aws-iot-hackathon.com
 DOMAIN-SUFFIX,awsautopilot.com
