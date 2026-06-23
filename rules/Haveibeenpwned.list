@@ -1,6 +1,0 @@
-# Haveibeenpwned
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com

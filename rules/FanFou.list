@@ -1,8 +1,0 @@
-# FanFou
-# Policy: DIRECT
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,comox.cn
-DOMAIN-SUFFIX,comum.cn
-DOMAIN-SUFFIX,ifanfou.cn
-DOMAIN-SUFFIX,mlj130.cn

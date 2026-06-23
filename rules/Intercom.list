@@ -1,6 +1,0 @@
-# Intercom
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,intercom.com
-DOMAIN-SUFFIX,intercomassets.com

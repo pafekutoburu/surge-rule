@@ -1,7 +1,0 @@
-# Dood
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,dood.so
-DOMAIN-SUFFIX,dood.video
-DOMAIN-SUFFIX,doodcdn.com

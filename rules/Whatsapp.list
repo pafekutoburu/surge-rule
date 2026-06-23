@@ -1,6 +1,0 @@
-# Whatsapp
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN,graph.facebook.com
-IP-CIDR,208.43.122.128/27

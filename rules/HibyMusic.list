@@ -1,7 +1,0 @@
-# HibyMusic
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,hiby.cd
-DOMAIN-SUFFIX,hiby.com
-DOMAIN-SUFFIX,hibymusic.com

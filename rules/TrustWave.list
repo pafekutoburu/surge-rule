@@ -1,5 +1,0 @@
-# TrustWave
-# Policy: Proxy
-# Total: 1 rules
-#
-DOMAIN-SUFFIX,trustwave.com

@@ -1,8 +1,0 @@
-# MicrosoftEdge
-# Policy: Proxy
-# Total: 4 rules
-#
-DOMAIN,edge.activity.windows.com
-DOMAIN,edge.microsoft.com
-DOMAIN,iecvlist.microsoft.com
-DOMAIN,msedge.api.cdp.microsoft.com

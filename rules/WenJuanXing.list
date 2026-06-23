@@ -1,8 +1,0 @@
-# WenJuanXing
-# Policy: DIRECT
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,sojump.com
-DOMAIN-SUFFIX,wjx.cn
-DOMAIN-SUFFIX,wjx.com
-DOMAIN-SUFFIX,wjx.top

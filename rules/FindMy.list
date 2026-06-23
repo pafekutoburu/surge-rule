@@ -1,7 +1,0 @@
-# FindMy
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN,fmfmobile.icloud.com
-DOMAIN,fmipmobile.icloud.com
-DOMAIN,statici.icloud.com

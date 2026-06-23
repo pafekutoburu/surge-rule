@@ -1,6 +1,0 @@
-# HBOUSA
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,discomax.com
-DOMAIN-SUFFIX,h264.io

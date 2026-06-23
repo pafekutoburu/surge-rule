@@ -1,6 +1,0 @@
-# Contentful
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,contentful.com
-DOMAIN-SUFFIX,ctfassets.net

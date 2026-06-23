@@ -1,6 +1,0 @@
-# CyberTrust
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,cybertrust.co.jp
-DOMAIN-SUFFIX,cybertrust.ne.jp

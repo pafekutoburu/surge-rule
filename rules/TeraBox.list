@@ -1,6 +1,0 @@
-# TeraBox
-# Policy: DIRECT
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,teraboxcdn.com

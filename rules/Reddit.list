@@ -1,8 +1,0 @@
-# Reddit
-# Policy: Proxy
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,redditmail.com
-DOMAIN-SUFFIX,reddituploads.com
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
-DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com

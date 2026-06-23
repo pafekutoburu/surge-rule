@@ -1,6 +1,0 @@
-# KKTV
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN,kktv-theater.kk.stream
-DOMAIN,theater-kktv.cdn.hinet.net

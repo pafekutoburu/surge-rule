@@ -1,6 +1,0 @@
-# Linguee
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,linguee.com

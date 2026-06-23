@@ -1,8 +1,0 @@
-# DigitalOcean
-# Policy: Proxy
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,digitalocean.com
-DOMAIN-SUFFIX,digitaloceanspaces.com
-DOMAIN-SUFFIX,do.co
-DOMAIN-SUFFIX,nginxconfig.io

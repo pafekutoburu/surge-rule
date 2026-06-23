@@ -1,5 +1,0 @@
-# TelegramUS
-# Policy: Proxy
-# Total: 1 rules
-#
-IP-CIDR,91.108.12.0/22

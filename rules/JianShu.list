@@ -1,8 +1,0 @@
-# JianShu
-# Policy: DIRECT
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,baijii.com
-DOMAIN-SUFFIX,jianshu.io
-DOMAIN-SUFFIX,jianshuapi.com
-DOMAIN-SUFFIX,shengmingfa.com

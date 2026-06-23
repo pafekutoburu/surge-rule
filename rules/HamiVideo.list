@@ -1,7 +1,0 @@
-# HamiVideo
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN,hls-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,hamivideo.hinet.net
-DOMAIN-SUFFIX,ott.hinet.net

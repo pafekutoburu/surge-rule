@@ -1,5 +1,0 @@
-# Privacy
-# Policy: REJECT-TINYGIF
-# Total: 1 rules
-#
-IP-CIDR,0.0.0.1/32

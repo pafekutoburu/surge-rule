@@ -1,8 +1,0 @@
-# Jwplayer
-# Policy: Proxy
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplatform.com
-DOMAIN-SUFFIX,jwplayer.com
-DOMAIN-SUFFIX,jwpsrv.com

@@ -1,7 +1,0 @@
-# HKedcity
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,edcity.hk
-DOMAIN-SUFFIX,hkedcity.net
-DOMAIN-SUFFIX,hkreadingcity.net

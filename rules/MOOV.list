@@ -1,6 +1,0 @@
-# MOOV
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,moov.hk
-DOMAIN-SUFFIX,mtg.now.com

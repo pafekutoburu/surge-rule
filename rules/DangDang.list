@@ -1,6 +1,0 @@
-# DangDang
-# Policy: DIRECT
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,dangdang.com
-DOMAIN-SUFFIX,ddimg.cn

@@ -1,8 +1,0 @@
-# ChengTongWangPan
-# Policy: DIRECT
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,ctfile.com
-DOMAIN-SUFFIX,ctfile.net
-DOMAIN-SUFFIX,n802.com
-DOMAIN-SUFFIX,tv002.com

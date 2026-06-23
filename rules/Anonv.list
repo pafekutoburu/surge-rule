@@ -1,6 +1,0 @@
-# Anonv
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,anon-v.com
-DOMAIN-SUFFIX,anon-v.lol

@@ -1,8 +1,0 @@
-# Fiio
-# Policy: DIRECT
-# Total: 4 rules
-#
-DOMAIN-SUFFIX,fiio.cn
-DOMAIN-SUFFIX,fiio.com
-DOMAIN-SUFFIX,fiio.com.cn
-DOMAIN-SUFFIX,fiio.net

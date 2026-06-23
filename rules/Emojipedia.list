@@ -1,7 +1,0 @@
-# Emojipedia
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com

@@ -1,7 +1,0 @@
-# FOXNOW
-# Policy: Proxy
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxdcg.com
-USER-AGENT,FOX%20NOW*

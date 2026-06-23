@@ -1,6 +1,0 @@
-# LondonReal
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,freedomplatform.tv
-DOMAIN-SUFFIX,londonreal.tv

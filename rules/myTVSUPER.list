@@ -1,6 +1,0 @@
-# myTVSUPER
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN,mytvsuperlimited.hb.omtrdc.net
-DOMAIN,mytvsuperlimited.sc.omtrdc.net

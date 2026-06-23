@@ -1,6 +1,0 @@
-# Duolingo
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,duolingo.cn
-DOMAIN-SUFFIX,duolingo.com

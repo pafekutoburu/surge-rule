@@ -1,5 +1,0 @@
-# Electron
-# Policy: Proxy
-# Total: 1 rules
-#
-DOMAIN-SUFFIX,electronjs.org

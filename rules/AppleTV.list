@@ -1,6 +1,0 @@
-# AppleTV
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN,hls-amt.itunes.apple.com
-DOMAIN,hls.itunes.apple.com

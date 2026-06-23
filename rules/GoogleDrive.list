@@ -1,6 +1,0 @@
-# GoogleDrive
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,docs.google.com
-DOMAIN-SUFFIX,drive.google.com
