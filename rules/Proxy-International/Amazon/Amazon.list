@@ -203,4 +203,4 @@ IP-CIDR,54.93.0.0/16
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
+USER-AGENT,Prime Video*
