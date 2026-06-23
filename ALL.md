@@ -26,7 +26,6 @@
 | AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 1 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 26 |
 | Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 27 |
-| STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/STUN.list` | 366 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 26 |
 | EasyPrivacy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/EasyPrivacy.list` | 38902 |
 | Flurry | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Flurry.list` | 1 |
@@ -36,6 +35,12 @@
 | Pubmatic | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Pubmatic.list` | 1 |
 | PrivateTracker | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/PrivateTracker.list` | 159 |
 | ZhihuAds | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/ZhihuAds.list` | 11 |
+## STUN
+
+| 规则集 | 规则集链接 | 规则数 |
+|--------|-----------|--------|
+| STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/STUN/STUN.list` | 366 |
+
 
 ## DIRECT
 
