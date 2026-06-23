@@ -1,5 +1,5 @@
 # ZhihuAds
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 11 rules
 #
 DOMAIN,appcloud2.in.zhihu.com

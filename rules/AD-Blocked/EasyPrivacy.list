@@ -1,5 +1,5 @@
 # EasyPrivacy
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 38902 rules
 #
 DOMAIN,109.123.233.251

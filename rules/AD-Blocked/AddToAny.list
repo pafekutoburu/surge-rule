@@ -1,5 +1,5 @@
 # AddToAny
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 1 rules
 #
 DOMAIN-SUFFIX,addtoany.com

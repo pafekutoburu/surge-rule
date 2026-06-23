@@ -1,5 +1,5 @@
 # BlockHttpDNS
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 26 rules
 #
 DOMAIN,httpdns.c.cdnhwc2.com

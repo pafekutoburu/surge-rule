@@ -1,5 +1,5 @@
 # AdvertisingTest
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 27 rules
 #
 DOMAIN-KEYWORD,adashx

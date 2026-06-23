@@ -1,5 +1,5 @@
 # Hijacking
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 189 rules
 #
 DOMAIN-SUFFIX,17gouwuba.com

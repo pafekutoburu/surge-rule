@@ -1,5 +1,5 @@
 # Advertising
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 735 rules
 #
 AND,((USER-AGENT

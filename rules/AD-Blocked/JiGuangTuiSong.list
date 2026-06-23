@@ -1,5 +1,5 @@
 # JiGuangTuiSong
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 18 rules
 #
 DOMAIN-SUFFIX,42r.cn

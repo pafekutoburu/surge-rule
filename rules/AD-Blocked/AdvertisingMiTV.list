@@ -1,5 +1,5 @@
 # AdvertisingMiTV
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 165 rules
 #
 DOMAIN,519332da.rtc.youme.im

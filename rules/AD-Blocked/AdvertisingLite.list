@@ -1,5 +1,5 @@
 # AdvertisingLite
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 2 rules
 #
 IP-CIDR,101.227.200.11/32

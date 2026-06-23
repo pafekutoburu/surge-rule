@@ -1,5 +1,5 @@
 # Domob
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 26 rules
 #
 DOMAIN-SUFFIX,dmaow.com

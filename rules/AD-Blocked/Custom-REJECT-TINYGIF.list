@@ -1,4 +1,5 @@
 # Custom inline rules - policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 27 rules
 #
 DOMAIN-KEYWORD,admarvel

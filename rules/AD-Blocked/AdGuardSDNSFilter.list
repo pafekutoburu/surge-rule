@@ -1,5 +1,5 @@
 # AdGuardSDNSFilter
-# Policy: REJECT-TINYGIF
+# Policy: REJECT
 # Total: 81745 rules
 #
 DOMAIN,103.224.182.210
