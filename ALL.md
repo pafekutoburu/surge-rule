@@ -26,6 +26,7 @@
 | AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 1 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 26 |
 | Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 27 |
+| STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/STUN.list` | 366 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 26 |
 | EasyPrivacy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/EasyPrivacy.list` | 38902 |
 | Flurry | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Flurry.list` | 1 |
@@ -639,7 +640,6 @@
 | Mail | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Mail.list` | 15 |
 | NTPService | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/NTPService.list` | 82 |
 | ProxyLite | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/ProxyLite.list` | 472 |
-| STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/STUN.list` | 366 |
 | SystemOTA | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/SystemOTA.list` | 76 |
 | UKMedia | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/UKMedia.list` | 2 |
 
