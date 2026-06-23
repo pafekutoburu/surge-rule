@@ -1,0 +1,61 @@
+# AI-Direct
+# Policy: DIRECT
+# Total: 24 rules
+
+# DeepSeek / 深度求索
+DOMAIN-SUFFIX,deepseek.com
+
+# Baidu 文心一言
+DOMAIN-SUFFIX,yiyan.baidu.com
+
+# Alibaba 通义千问
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,dashscope.aliyuncs.com
+
+# ByteDance 豆包
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,ark.doubao.com
+
+# Moonshot / Kimi 月之暗面
+DOMAIN-SUFFIX,kimi.moonshot.cn
+
+# Zhipu AI / ChatGLM 智谱
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+
+# Baichuan 百川智能
+DOMAIN-SUFFIX,baichuan-ai.com
+
+# 01.AI / Yi 零一万物
+DOMAIN-SUFFIX,01.ai
+
+# StepFun 阶跃星辰
+DOMAIN-SUFFIX,stepfun.com
+
+# MiniMax 海螺AI
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,minimax.com
+
+# iFlytek 讯飞星火
+DOMAIN-SUFFIX,xinghuo.xfyun.cn
+DOMAIN-SUFFIX,xfyun.cn
+
+# Tencent 腾讯混元
+DOMAIN-SUFFIX,hunyuan.tencent.com
+
+# SenseTime 商汤
+DOMAIN-SUFFIX,sensetime.com
+
+# Huawei 华为盘古
+DOMAIN-SUFFIX,pangu.huawei.com
+
+# 昆仑万维 Skywork
+DOMAIN-SUFFIX,skywork.com
+
+# 面壁智能 ModelBest / MiniCPM
+DOMAIN-SUFFIX,modelbest.cn
+
+# Local
+IP-CIDR,127.0.0.1/32

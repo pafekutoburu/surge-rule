@@ -8,11 +8,8 @@
 
 | 规则集 | 规则集链接 | 规则数 |
 |--------|-----------|--------|
-| AI-Domains | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/AI-Domains.list` | 126 |
-| BardAI | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/BardAI.list` | 2 |
-| Copilot | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/Copilot.list` | 31 |
-| Gemini | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/Gemini.list` | 4 |
-| OpenAI | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/OpenAI.list` | 1 |
+| AI-Proxy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/AI-Proxy.list` | 159 |
+| AI-Direct | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/AI-Direct.list` | 24 |
 
 ## AD-Blocked
 

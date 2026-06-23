@@ -1,6 +1,0 @@
-# BardAI
-# Policy: Proxy
-# Total: 2 rules
-#
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN,makersuite.google.com
