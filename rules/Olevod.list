@@ -1,0 +1,9 @@
+# Olevod
+# Policy: DIRECT
+# Total: 5 rules
+#
+DOMAIN-KEYWORD,olevod
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,iole.tv
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olelive.com

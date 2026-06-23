@@ -1,0 +1,5 @@
+# Chromecast
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN-KEYWORD,pa.google

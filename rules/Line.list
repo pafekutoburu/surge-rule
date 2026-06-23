@@ -1,0 +1,13 @@
+# Line
+# Policy: Proxy
+# Total: 9 rules
+#
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,naver.jp
+DOMAIN-SUFFIX,nhncorp.jp
+IP-CIDR,125.209.252.103/32
+IP-CIDR,125.209.252.208/32

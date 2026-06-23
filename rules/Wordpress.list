@@ -1,0 +1,8 @@
+# Wordpress
+# Policy: Proxy
+# Total: 4 rules
+#
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wpvip.com

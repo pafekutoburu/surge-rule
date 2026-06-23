@@ -1,0 +1,7 @@
+# Mailru
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mycdn.me

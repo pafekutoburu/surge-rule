@@ -1,0 +1,8 @@
+# Collabora
+# Policy: Proxy
+# Total: 4 rules
+#
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

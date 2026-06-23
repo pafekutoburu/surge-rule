@@ -1,0 +1,6 @@
+# TaiWanGood
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN,hamifans.emome.net
+DOMAIN-SUFFIX,skyking.com.tw

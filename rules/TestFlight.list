@@ -1,0 +1,5 @@
+# TestFlight
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN,beta.apple.com

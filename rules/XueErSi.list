@@ -1,0 +1,7 @@
+# XueErSi
+# Policy: DIRECT
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com

@@ -1,0 +1,6 @@
+# CableTV
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,i-cable.com

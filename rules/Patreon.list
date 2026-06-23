@@ -1,0 +1,8 @@
+# Patreon
+# Policy: Proxy
+# Total: 4 rules
+#
+DOMAIN,live-patreon-marketing.pantheonsite.io
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com

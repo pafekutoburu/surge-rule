@@ -1,0 +1,6 @@
+# Identrust
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.net

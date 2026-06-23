@@ -1,0 +1,6 @@
+# Hkgolden
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,hkgolden.com
+DOMAIN-SUFFIX,hkgolden.media

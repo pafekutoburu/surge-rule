@@ -1,0 +1,6 @@
+# Reabble
+# Policy: DIRECT
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,reabble.cn
+DOMAIN-SUFFIX,reabble.com

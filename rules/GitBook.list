@@ -1,0 +1,7 @@
+# GitBook
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.zendesk.com

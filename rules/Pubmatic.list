@@ -1,0 +1,5 @@
+# Pubmatic
+# Policy: REJECT-TINYGIF
+# Total: 1 rules
+#
+DOMAIN-SUFFIX,ads.pubmatic.com

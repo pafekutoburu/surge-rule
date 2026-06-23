@@ -1,0 +1,6 @@
+# PandoraTV
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,kmplayer.com
+DOMAIN-SUFFIX,pandora.tv

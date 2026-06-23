@@ -1,0 +1,5 @@
+# Siri
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN,guzzoni.apple.com

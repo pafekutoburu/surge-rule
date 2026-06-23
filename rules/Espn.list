@@ -1,0 +1,7 @@
+# Espn
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN,espn.api.edge.bamgrid.com
+DOMAIN,espn.hb.omtrdc.net
+DOMAIN,espndotcom.tt.omtrdc.net

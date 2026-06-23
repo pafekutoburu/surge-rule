@@ -1,0 +1,6 @@
+# Afdian
+# Policy: DIRECT
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,afdian.net
+DOMAIN-SUFFIX,afdiancdn.com

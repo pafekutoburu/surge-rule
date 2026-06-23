@@ -1,0 +1,10 @@
+# CHT
+# Policy: Proxy
+# Total: 6 rules
+#
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,xuite.net

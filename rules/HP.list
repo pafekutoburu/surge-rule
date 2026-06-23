@@ -1,0 +1,8 @@
+# HP
+# Policy: Proxy
+# Total: 4 rules
+#
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpstore-china.com
+DOMAIN-SUFFIX,hpstore.com
+DOMAIN-SUFFIX,hpstore.corpmerchandise.com
