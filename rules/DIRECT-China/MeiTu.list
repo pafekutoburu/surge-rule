@@ -1,7 +1,0 @@
-# MeiTu
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,meipai.com
-DOMAIN-SUFFIX,meitu.com
-DOMAIN-SUFFIX,meitudata.com

@@ -1,7 +1,0 @@
-# PSBC
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,95580.net
-DOMAIN-SUFFIX,psbc.com
-DOMAIN-SUFFIX,psbcoa.com.cn

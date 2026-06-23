@@ -1,7 +1,0 @@
-# Coolapk
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,coolapk.com
-DOMAIN-SUFFIX,coolapkmarket.com
-DOMAIN-SUFFIX,coolapkmarket.net

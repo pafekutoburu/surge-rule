@@ -1,9 +1,0 @@
-# XiaoYuanKeJi
-# Policy: DIRECT
-# Total: 5 rules
-#
-DOMAIN-SUFFIX,10010mx.com
-DOMAIN-SUFFIX,5gimos.com
-DOMAIN-SUFFIX,bizport.cn
-DOMAIN-SUFFIX,mfexcel.com
-DOMAIN-SUFFIX,microfountain.com

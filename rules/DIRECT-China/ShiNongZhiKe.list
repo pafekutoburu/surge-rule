@@ -1,7 +1,0 @@
-# ShiNongZhiKe
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,senseagro.cn
-DOMAIN-SUFFIX,senseagro.com
-DOMAIN-SUFFIX,senseagro.com.cn

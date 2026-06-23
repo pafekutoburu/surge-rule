@@ -1,9 +1,0 @@
-# Anjuke
-# Policy: DIRECT
-# Total: 5 rules
-#
-DOMAIN-SUFFIX,aifang.com
-DOMAIN-SUFFIX,aifcdn.com
-DOMAIN-SUFFIX,ajkinclude.com
-DOMAIN-SUFFIX,anjuke.cn
-DOMAIN-SUFFIX,jikejia.cn

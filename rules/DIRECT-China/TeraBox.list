@@ -1,7 +1,0 @@
-# TeraBox
-# Policy: DIRECT
-# Total: 3 rules
-#
-DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,teraboxcdn.com
-DOMAIN-SUFFIX,sofire.terabox.app

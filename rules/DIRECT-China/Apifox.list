@@ -1,6 +1,0 @@
-# Apifox
-# Policy: DIRECT
-# Total: 2 rules
-#
-DOMAIN-SUFFIX,apifox.cn
-DOMAIN-SUFFIX,apifox.com

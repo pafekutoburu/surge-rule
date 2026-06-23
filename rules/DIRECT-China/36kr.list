@@ -1,9 +1,0 @@
-# 36kr
-# Policy: DIRECT
-# Total: 5 rules
-#
-DOMAIN-SUFFIX,36dianping.com
-DOMAIN-SUFFIX,36krcdn.com
-DOMAIN-SUFFIX,36krcnd.com
-DOMAIN-SUFFIX,36kr.com
-DOMAIN-SUFFIX,dianping.com
