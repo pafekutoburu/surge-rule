@@ -1,5 +1,5 @@
 # STUN
-# Policy: Proxy
+# Policy: REJECT
 # Total: 366 rules
 #
 DOMAIN,iphone-stun.strato-iphone.de
