@@ -1,8 +1,7 @@
 # Advertising
 # Policy: REJECT
-# Total: 735 rules
+# Total: 734 rules
 #
-AND,((USER-AGENT
 DOMAIN-KEYWORD,-logging.nextmedia.com
 DOMAIN-KEYWORD,-rtb.gravite.net
 DOMAIN-KEYWORD,-s2s.sensic.net
