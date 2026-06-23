@@ -1,6 +1,6 @@
 # Mail
 # Policy: Proxy
-# Total: 10 rules
+# Total: 15 rules
 #
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
@@ -12,3 +12,8 @@ DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,imap.yandex.com
 DOMAIN-SUFFIX,m.hotmail.com
 DOMAIN-SUFFIX,smtp.yandex.com
+DOMAIN-SUFFIX,1l-hit.mail.ru
+DOMAIN-SUFFIX,rs.mail.ru
+DOMAIN-SUFFIX,top-fwz1.mail.ru
+DOMAIN-SUFFIX,top-staging.mail.ru
+DOMAIN-SUFFIX,xray.mail.ru

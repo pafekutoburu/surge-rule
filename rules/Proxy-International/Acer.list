@@ -1,9 +1,10 @@
 # Acer
 # Policy: Proxy
-# Total: 5 rules
+# Total: 6 rules
 #
 DOMAIN-SUFFIX,acer-group.com
 DOMAIN-SUFFIX,acer.com
 DOMAIN-SUFFIX,acer.com.cn
 DOMAIN-SUFFIX,founderpc.cn
 DOMAIN-SUFFIX,founderpc.com
+DOMAIN-SUFFIX,olpmni.acer.com

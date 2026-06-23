@@ -1,6 +1,6 @@
 # SuNing
 # Policy: DIRECT
-# Total: 31 rules
+# Total: 34 rules
 #
 DOMAIN-SUFFIX,10035.com.cn
 DOMAIN-SUFFIX,chinadzfp.com
@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,suningyunyou.com
 DOMAIN-SUFFIX,wuliuyun.com
 DOMAIN-SUFFIX,yifubao.com
 DOMAIN-SUFFIX,suning.com
+DOMAIN-KEYWORD,m.suning.com
+DOMAIN-SUFFIX,dcbpm.suning.cn
+DOMAIN-SUFFIX,ssac.suning.com

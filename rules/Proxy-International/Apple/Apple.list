@@ -1,6 +1,6 @@
 # Apple
 # Policy: Proxy
-# Total: 79 rules
+# Total: 103 rules
 #
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
@@ -81,3 +81,27 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,metrics.icloud.com
+DOMAIN-SUFFIX,securemetrics-z.v.aaplimg.com
+DOMAIN-SUFFIX,supportmetrics.apple.com
+IP-CIDR,17.87.244.0/22
+DOMAIN,init.ess.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN-KEYWORD,api.smoot.apple.cn
+DOMAIN-KEYWORD,api.smoot.apple.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,ess.apple.com
+DOMAIN-KEYWORD,humb.apple.com
+DOMAIN-KEYWORD,ls.apple.com
+DOMAIN-KEYWORD,push.apple.com
+DOMAIN-KEYWORD,ssl.apple.com
+DOMAIN-KEYWORD,weather-adge.apple.com
+DOMAIN-KEYWORD,weather-edge.apple.com
+DOMAIN-SUFFIX,weather-data.apple.com
+DOMAIN-SUFFIX,weather-map.apple.com
+DOMAIN-KEYWORD,appledaily
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,beta.music.apple.com
+DOMAIN,books.apple.com
+DOMAIN-SUFFIX,smoot.apple.com

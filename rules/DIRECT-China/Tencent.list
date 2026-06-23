@@ -1,6 +1,6 @@
 # Tencent
 # Policy: DIRECT
-# Total: 23 rules
+# Total: 62 rules
 #
 IP-CIDR,101.32.104.4/32
 IP-CIDR,101.32.104.41/32
@@ -25,3 +25,42 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN-SUFFIX,beacon.cdn.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,beaconcdn.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,rcgi.video.qq.com
+DOMAIN-SUFFIX,sngmta.qq.com
+DOMAIN-SUFFIX,snowflake.qq.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,statistic.qzone.qq.com
+DOMAIN-SUFFIX,trace.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN,dldir1.qq.com
+DOMAIN,iacc.qq.com
+DOMAIN,ios.video.mpush.qq.com
+DOMAIN,moo.qq.com
+DOMAIN,rdelivery.qq.com
+DOMAIN,ts.qq.com
+DOMAIN,v.streaming.qq.com
+DOMAIN,video-public-1258344701.shiply-cdn.qq.com
+DOMAIN,video-search-1258344701.shiply-cdn.qq.com
+DOMAIN,video-vip-1258344701.shiply-cdn.qq.com
+DOMAIN,yoo.gtimg.com
+DOMAIN-SUFFIX,i.qq.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,music.tc.qq.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,qqvideo.gtimg.com
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+DOMAIN,vi.l.qq.com

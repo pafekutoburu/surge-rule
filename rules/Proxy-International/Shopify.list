@@ -1,6 +1,6 @@
 # Shopify
 # Policy: Proxy
-# Total: 8 rules
+# Total: 10 rules
 #
 DOMAIN-SUFFIX,myshopify.com
 DOMAIN-SUFFIX,shop.app
@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN-SUFFIX,shopifycloud.com
 DOMAIN-SUFFIX,shopifystatus.com
 DOMAIN-SUFFIX,shopifysvc.com
+DOMAIN-SUFFIX,stats.shopify.com
+DOMAIN-SUFFIX,v.shopify.com

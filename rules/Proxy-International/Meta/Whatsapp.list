@@ -1,6 +1,15 @@
 # Whatsapp
 # Policy: Proxy
-# Total: 2 rules
+# Total: 11 rules
 #
 DOMAIN,graph.facebook.com
 IP-CIDR,208.43.122.128/27
+DOMAIN-SUFFIX,dit.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,g-fallback.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,g.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,media-atl3-1.cdn.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,media-cdg4-1.cdn.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,media.fmid5-1.fna.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,mmg.whatsapp.net.iberostar.com
+DOMAIN-SUFFIX,static.whatsapp.net.iberostar.com
+DOMAIN-KEYWORD,whatsapp

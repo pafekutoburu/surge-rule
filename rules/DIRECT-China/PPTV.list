@@ -1,6 +1,6 @@
 # PPTV
 # Policy: DIRECT
-# Total: 16 rules
+# Total: 17 rules
 #
 DOMAIN-SUFFIX,bkrent.cn
 DOMAIN-SUFFIX,g1d.net
@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,pptvimg.com
 DOMAIN-SUFFIX,pptvnet.com
 DOMAIN-SUFFIX,pptvyun.com
 DOMAIN-SUFFIX,snrent.cn
+DOMAIN-SUFFIX,pptv.com

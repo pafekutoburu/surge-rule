@@ -1,6 +1,6 @@
 # Pixnet
 # Policy: Proxy
-# Total: 8 rules
+# Total: 9 rules
 #
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pixfs.net
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,pixnet.pro
 DOMAIN-SUFFIX,pixnet.tw
 DOMAIN-SUFFIX,pixplug.in
+DOMAIN-SUFFIX,ahhrtt.pixnet.net

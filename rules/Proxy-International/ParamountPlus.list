@@ -1,8 +1,13 @@
 # ParamountPlus
 # Policy: Proxy
-# Total: 4 rules
+# Total: 9 rules
 #
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,link.theplatform.com
+DOMAIN-SUFFIX,aa.paramountplus.com
+DOMAIN-SUFFIX,events.paramount.tech
+DOMAIN-SUFFIX,link.us.paramountplus.com
+DOMAIN-SUFFIX,saa.paramountplus.com
+DOMAIN-SUFFIX,sc.paramount.com

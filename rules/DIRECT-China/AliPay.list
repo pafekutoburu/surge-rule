@@ -1,6 +1,6 @@
 # AliPay
 # Policy: DIRECT
-# Total: 21 rules
+# Total: 22 rules
 #
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-corp.com
@@ -23,3 +23,4 @@ DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
+DOMAIN-SUFFIX,collect.alipay.com

@@ -1,6 +1,7 @@
 # SlideShare
 # Policy: Proxy
-# Total: 2 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,slideshare.com
 DOMAIN-SUFFIX,slidesharecdn.com
+DOMAIN-SUFFIX,slideshare.net

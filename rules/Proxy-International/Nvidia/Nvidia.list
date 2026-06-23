@@ -1,6 +1,6 @@
 # Nvidia
 # Policy: Proxy
-# Total: 62 rules
+# Total: 65 rules
 #
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
@@ -64,3 +64,6 @@ DOMAIN-SUFFIX,tegrazone.co.kr
 DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
+DOMAIN-SUFFIX,metrics.nvidia.com
+DOMAIN-SUFFIX,smetrics.nvidia.com
+DOMAIN-SUFFIX,stt.nvidia.com

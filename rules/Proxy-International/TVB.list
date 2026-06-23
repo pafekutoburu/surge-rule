@@ -1,6 +1,6 @@
 # TVB
 # Policy: Proxy
-# Total: 16 rules
+# Total: 17 rules
 #
 DOMAIN,tvbtracking.azurewebsites.net
 DOMAIN-SUFFIX,bigbigchannel.com.hk
@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,tvb.com

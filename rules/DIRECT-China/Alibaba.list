@@ -1,6 +1,6 @@
 # Alibaba
 # Policy: DIRECT
-# Total: 61 rules
+# Total: 75 rules
 #
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
@@ -63,3 +63,17 @@ PROCESS-NAME,com.taobao.taobao
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-KEYWORD,fans.m.tmall.com
+DOMAIN,httpdns-api.aliyuncs.com
+DOMAIN,httpdns-sc.aliyuncs.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN-SUFFIX,atanx.alicdn.com
+DOMAIN-SUFFIX,fourier.taobao.com
+DOMAIN-SUFFIX,marketing.alibaba.com
+DOMAIN-SUFFIX,retcode.taobao.com
+DOMAIN-SUFFIX,tce.alicdn.com
+DOMAIN-SUFFIX,tns.simba.taobao.com
+DOMAIN-KEYWORD,.tmall.com
+DOMAIN-SUFFIX,e8h2ty.tdum.alibaba.com
+DOMAIN-SUFFIX,wwc.alicdn.com
+DOMAIN,sdk.alibaba.com.ailbaba.me

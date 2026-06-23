@@ -1,6 +1,6 @@
 # HoYoverse
 # Policy: DIRECT
-# Total: 11 rules
+# Total: 12 rules
 #
 DOMAIN-SUFFIX,genshinimpact.com
 DOMAIN-SUFFIX,honkaiimpact3.com
@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,starrails.com
 DOMAIN-SUFFIX,themisweeps.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

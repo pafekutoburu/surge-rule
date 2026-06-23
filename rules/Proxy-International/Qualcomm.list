@@ -1,6 +1,6 @@
 # Qualcomm
 # Policy: Proxy
-# Total: 46 rules
+# Total: 47 rules
 #
 DOMAIN-SUFFIX,airgonetworks.com
 DOMAIN-SUFFIX,berkanawireless.com
@@ -48,3 +48,4 @@ DOMAIN-SUFFIX,wipower.com
 DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,analytics.qualcomm.com

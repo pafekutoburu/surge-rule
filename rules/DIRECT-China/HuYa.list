@@ -1,8 +1,14 @@
 # HuYa
 # Policy: DIRECT
-# Total: 4 rules
+# Total: 10 rules
 #
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,huyagame.cn
 DOMAIN-SUFFIX,peiwanlu.com
 DOMAIN-SUFFIX,snapplay.com
+DOMAIN-SUFFIX,df.huya.com
+DOMAIN-SUFFIX,l.web.huya.com
+DOMAIN-SUFFIX,metric.huya.com
+DOMAIN-SUFFIX,statwup.huya.com
+DOMAIN-SUFFIX,udblog.huya.com
+DOMAIN-SUFFIX,ylog.huya.com

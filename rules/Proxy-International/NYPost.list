@@ -1,7 +1,8 @@
 # NYPost
 # Policy: Proxy
-# Total: 3 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nypost.help
 DOMAIN-SUFFIX,nypostreprints.com
+DOMAIN-SUFFIX,t.nypost.com

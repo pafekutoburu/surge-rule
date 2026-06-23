@@ -1,6 +1,6 @@
 # RTHK
 # Policy: Proxy
-# Total: 11 rules
+# Total: 12 rules
 #
 DOMAIN,rthkradio1-live.akamaized.net
 DOMAIN,rthkradio2-live.akamaized.net
@@ -13,3 +13,4 @@ DOMAIN,rthkradiopth-live.akamaized.net
 DOMAIN,rthktv31-live.akamaized.net
 DOMAIN,rthktv32-live.akamaized.net
 DOMAIN-SUFFIX,rthk.org.hk
+DOMAIN-SUFFIX,rthk.hk

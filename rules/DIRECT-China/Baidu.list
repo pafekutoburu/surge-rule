@@ -1,6 +1,6 @@
 # Baidu
 # Policy: DIRECT
-# Total: 251 rules
+# Total: 265 rules
 #
 DOMAIN-SUFFIX,17swan.com
 DOMAIN-SUFFIX,37swan.com
@@ -253,3 +253,17 @@ DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,httpdns.baidu.com
+DOMAIN-SUFFIX,httpsdns.baidu.com
+DOMAIN-SUFFIX,bzclk.baidu.com
+DOMAIN-SUFFIX,cstm.baidu.com
+DOMAIN-SUFFIX,eclick.baidu.com
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,gsp1.baidu.com
+DOMAIN-SUFFIX,imgstat.baidu.com
+DOMAIN-SUFFIX,miao.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN-SUFFIX,sfp.safe.baidu.com
+DOMAIN-SUFFIX,wkctj.baidu.com
+DOMAIN-SUFFIX,zz.bdstatic.com
+DOMAIN-KEYWORD,baidu

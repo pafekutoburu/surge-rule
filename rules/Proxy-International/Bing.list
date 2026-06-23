@@ -1,6 +1,6 @@
 # Bing
 # Policy: Proxy
-# Total: 9 rules
+# Total: 12 rules
 #
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bing.net
@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,bingvisualsearch.com
 DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bat.bing.com
+DOMAIN-SUFFIX,bat.bing.net
+DOMAIN-SUFFIX,commerce.bing.com

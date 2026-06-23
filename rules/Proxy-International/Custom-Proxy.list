@@ -1,12 +1,6 @@
 # Custom inline rules - policy: Proxy
-# Total: 183 rules
+# Total: 175 rules
 #
-DOMAIN-KEYWORD,dropbox
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
 DOMAIN-SUFFIX,adblockplus.org
@@ -172,8 +166,6 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wikipedia.com
-DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,workflowy.com
 DOMAIN-SUFFIX,wsj.com

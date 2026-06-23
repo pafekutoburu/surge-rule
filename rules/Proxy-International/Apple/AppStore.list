@@ -1,6 +1,7 @@
 # AppStore
 # Policy: Proxy
-# Total: 2 rules
+# Total: 3 rules
 #
 DOMAIN,apps.apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,metrics.mzstatic.com

@@ -1,6 +1,6 @@
 # XiaoMi
 # Policy: DIRECT
-# Total: 155 rules
+# Total: 174 rules
 #
 DOMAIN-SUFFIX,408399.com
 DOMAIN-SUFFIX,408399.net
@@ -157,3 +157,22 @@ IP-CIDR,58.220.59.2/32
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,app.chat.global.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,find.api.micloud.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,mi.grubhub.com
+DOMAIN-SUFFIX,mi.miliboo.be
+DOMAIN-SUFFIX,mi.miliboo.ch
+DOMAIN-SUFFIX,mi.miliboo.co.uk
+DOMAIN-SUFFIX,mi.miliboo.com
+DOMAIN-SUFFIX,mi.miliboo.de
+DOMAIN-SUFFIX,mi.miliboo.es
+DOMAIN-SUFFIX,mi.miliboo.it
+DOMAIN-SUFFIX,mi.miliboo.lu
+DOMAIN-SUFFIX,resolver.msg.global.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,tracker.ai.xiaomi.com
+DOMAIN-SUFFIX,us.appbackupapi.micloud.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,us.micardapi.micloud.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,us.noteapi.micloud.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,us.pdc.micloud.xiaomi.net.iberostar.com
+DOMAIN-SUFFIX,ai.xiaomi.com
+DOMAIN-SUFFIX,music.xiaomi.com

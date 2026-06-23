@@ -1,6 +1,6 @@
 # Salesforce
 # Policy: Proxy
-# Total: 10 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,mulesoft.com
@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,sfdcstatic.com
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
+DOMAIN-SUFFIX,images.commercecloudevents.salesforce.com
+DOMAIN-SUFFIX,omtr1.partners.salesforce.com
+DOMAIN-SUFFIX,omtr2.partners.salesforce.com

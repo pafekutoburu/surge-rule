@@ -1,6 +1,6 @@
 # IKEA
 # Policy: Proxy
-# Total: 95 rules
+# Total: 102 rules
 #
 DOMAIN-SUFFIX,ikea.ae
 DOMAIN-SUFFIX,ikea.at
@@ -97,3 +97,10 @@ DOMAIN-SUFFIX,ingka-system.cn
 DOMAIN-SUFFIX,ingka.com
 DOMAIN-SUFFIX,ingka.dev
 DOMAIN-SUFFIX,ingkacentres.com
+DOMAIN-SUFFIX,icas.ikea.com
+DOMAIN-SUFFIX,icas.ikea.net
+DOMAIN-SUFFIX,metrics.ikea.com
+DOMAIN-SUFFIX,secureae-edge.ikea.com
+DOMAIN-SUFFIX,sicas.ikea.com
+DOMAIN-SUFFIX,sicas.ikea.net
+DOMAIN-SUFFIX,smetrics.ikea.com

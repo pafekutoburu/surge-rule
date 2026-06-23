@@ -1,6 +1,6 @@
 # UC
 # Policy: DIRECT
-# Total: 37 rules
+# Total: 38 rules
 #
 DOMAIN-SUFFIX,appchaoshi.cn
 DOMAIN-SUFFIX,appsmall.mobi
@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,yun.cn
 DOMAIN-SUFFIX,zjbuc.cn
 DOMAIN-SUFFIX,zjbuc.com
 DOMAIN-SUFFIX,zjbuc.com.cn
+DOMAIN-SUFFIX,track.uc.cn

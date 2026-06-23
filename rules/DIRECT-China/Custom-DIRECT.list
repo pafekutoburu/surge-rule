@@ -1,12 +1,10 @@
 # Custom inline rules - policy: DIRECT
-# Total: 60 rules
+# Total: 57 rules
 #
 DOMAIN,chasee.xiercloud.uk
 DOMAIN,yunmu.xiercloud.uk
 DOMAIN,zhuixin.xiercloud.uk
 DOMAIN-KEYWORD,-cn
-DOMAIN-KEYWORD,.tmall.com
-DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,aixifan.com
@@ -25,7 +23,6 @@ DOMAIN-SUFFIX,g-cores.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hxcdn.net
-DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,knewone.com

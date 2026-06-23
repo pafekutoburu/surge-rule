@@ -1,7 +1,9 @@
 # Nikkei
 # Policy: Proxy
-# Total: 3 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,nikkei.co.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nikkei.jp
+DOMAIN-SUFFIX,astat.nikkei.com
+DOMAIN-SUFFIX,sstats.nikkei.com

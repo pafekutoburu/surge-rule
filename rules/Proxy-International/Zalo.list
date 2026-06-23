@@ -1,6 +1,7 @@
 # Zalo
 # Policy: Proxy
-# Total: 2 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,zalo.me
 DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,za.zalo.me

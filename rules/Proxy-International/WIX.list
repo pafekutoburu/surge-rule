@@ -1,6 +1,6 @@
 # WIX
 # Policy: Proxy
-# Total: 9 rules
+# Total: 10 rules
 #
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,parastorage.com
@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,wixapps.net
 DOMAIN-SUFFIX,wixmp.com
 DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wixstatic.com
+DOMAIN-SUFFIX,link.wix.app

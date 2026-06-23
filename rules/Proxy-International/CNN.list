@@ -1,6 +1,6 @@
 # CNN
 # Policy: Proxy
-# Total: 6 rules
+# Total: 11 rules
 #
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnn.io
@@ -8,3 +8,8 @@ DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,cnnarabic.com
 DOMAIN-SUFFIX,cnnlabs.com
 DOMAIN-SUFFIX,cnnmoney.ch
+DOMAIN-SUFFIX,metrics.cnn.com
+DOMAIN-SUFFIX,smetrics.cnn.com
+DOMAIN-SUFFIX,z.cdp-dev.cnn.com
+DOMAIN-SUFFIX,zion-telemetry-nonprod.api.cnn.io
+DOMAIN-SUFFIX,zion-telemetry.api.cnn.io

@@ -1,6 +1,6 @@
 # Logitech
 # Policy: Proxy
-# Total: 9 rules
+# Total: 11 rules
 #
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logicool.co.jp
@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,logitech.fr
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,worldsfastestgamer.net
+DOMAIN-SUFFIX,webanalytics.logitech.com
+DOMAIN-SUFFIX,webtarget.logitech.com

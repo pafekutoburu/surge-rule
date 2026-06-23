@@ -1,7 +1,12 @@
 # Espn
 # Policy: Proxy
-# Total: 3 rules
+# Total: 8 rules
 #
 DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,sw88.espn.co.uk
+DOMAIN-SUFFIX,sw88.espn.com
+DOMAIN-SUFFIX,sw88.espn.com.co
+DOMAIN-SUFFIX,w88.espn.com
+DOMAIN-SUFFIX,w88.m.espn.go.com

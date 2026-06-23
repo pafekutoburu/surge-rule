@@ -1,6 +1,6 @@
 # Nike
 # Policy: Proxy
-# Total: 11 rules
+# Total: 17 rules
 #
 DOMAIN-SUFFIX,nike.com
 DOMAIN-SUFFIX,nike.com.br
@@ -13,3 +13,9 @@ DOMAIN-SUFFIX,niketracking.com
 DOMAIN-SUFFIX,static-nike.com
 DOMAIN-SUFFIX,swoo.sh
 DOMAIN-SUFFIX,swoosh.com
+DOMAIN-SUFFIX,abt.nike.com
+DOMAIN-SUFFIX,analytics.nike.com
+DOMAIN-SUFFIX,dbzpek.nike.com
+DOMAIN-SUFFIX,metrics.nike.net
+DOMAIN-SUFFIX,smetrics.nike.net
+DOMAIN-SUFFIX,smodus.nike.com

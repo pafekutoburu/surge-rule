@@ -1,6 +1,6 @@
 # Google
 # Policy: Proxy
-# Total: 679 rules
+# Total: 719 rules
 #
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
@@ -681,3 +681,43 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
+DOMAIN-KEYWORD,googleads
+DOMAIN-SUFFIX,amp-error-reporting.appspot.com
+DOMAIN-SUFFIX,axislogger.appspot.com
+DOMAIN-SUFFIX,caspionlog.appspot.com
+DOMAIN-SUFFIX,clouderrorreporting.googleapis.com
+DOMAIN-SUFFIX,cookie-guard-erdee.ey.r.appspot.com
+DOMAIN-SUFFIX,csi.gstatic.com
+DOMAIN-SUFFIX,csp-collector.appspot.com
+DOMAIN-SUFFIX,fcmatch.google.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com
+DOMAIN-SUFFIX,fourmtagservices.appspot.com
+DOMAIN-SUFFIX,ga-beacon.appspot.com
+DOMAIN-SUFFIX,ga-tracker-dot-detmir-bonus.appspot.com
+DOMAIN-SUFFIX,green-griffin-860.appspot.com
+DOMAIN-SUFFIX,javascriptcounter.appspot.com
+DOMAIN-SUFFIX,literally-analytics.appspot.com
+DOMAIN-SUFFIX,ohm-dot-hackster-io.appspot.com
+DOMAIN-SUFFIX,optimeeze.appspot.com
+DOMAIN-SUFFIX,qubitanalytics.appspot.com
+DOMAIN-SUFFIX,tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
+DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
+DOMAIN-SUFFIX,wtr-digital-analytics.ew.r.appspot.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,mtalk.google.com
+DOMAIN,update.googleapis.com
+DOMAIN-SUFFIX,blog.google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+IP-CIDR,203.208.40.0/23

@@ -1,6 +1,6 @@
 # PCCW
 # Policy: Proxy
-# Total: 18 rules
+# Total: 19 rules
 #
 DOMAIN-SUFFIX,1010.com.hk
 DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,pccwsolutions.com
 DOMAIN-SUFFIX,theclub.com.hk
 DOMAIN-SUFFIX,uhub.com
 DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,omni.commercial.pccw.com

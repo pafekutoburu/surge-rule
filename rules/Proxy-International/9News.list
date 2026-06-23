@@ -1,6 +1,6 @@
 # 9News
 # Policy: Proxy
-# Total: 14 rules
+# Total: 16 rules
 #
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,9nation.com.au
@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,ninemediaroom.com.au
 DOMAIN-SUFFIX,ninemsn.com.au
 DOMAIN-SUFFIX,static9.net.au
 DOMAIN-SUFFIX,yourtv.com.au
+DOMAIN-SUFFIX,repdata.9news.com
+DOMAIN-SUFFIX,ywrcqa.9news.com

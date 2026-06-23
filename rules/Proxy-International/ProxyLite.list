@@ -1,24 +1,18 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 491 rules
+# Total: 472 rules
 #
-DOMAIN,addons.mozilla.org
-DOMAIN,amp-api.podcasts.apple.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
-DOMAIN,beta.music.apple.com
-DOMAIN,books.apple.com
 DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,lab.skk.moe
-DOMAIN,login.microsoftonline.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.yahoo.co.jp
 DOMAIN,wego.here.com
-DOMAIN-KEYWORD,.pinterest.
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4shared.com
@@ -32,7 +26,6 @@ DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,ahcdn.com
 DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,allconnected.co
-DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,android-x86.org
@@ -67,7 +60,6 @@ DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bloglovin.com
-DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,books.com.tw
@@ -95,7 +87,6 @@ DOMAIN-SUFFIX,cloudgarage.jp
 DOMAIN-SUFFIX,clyp.it
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,conoha.jp
-DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,crittercism.com
@@ -275,7 +266,6 @@ DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rileyguide.com
 DOMAIN-SUFFIX,rsf.org
 DOMAIN-SUFFIX,rsshub.app
-DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,sciencedaily.com
@@ -292,10 +282,7 @@ DOMAIN-SUFFIX,simplenote.com
 DOMAIN-SUFFIX,sketchappsources.com
 DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,slack-msgs.com
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smh.com.au
-DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,sowers.org.hk
@@ -331,7 +318,6 @@ DOMAIN-SUFFIX,talk853.com
 DOMAIN-SUFFIX,talkboxapp.com
 DOMAIN-SUFFIX,talkonly.net
 DOMAIN-SUFFIX,tapatalk.com
-DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,technorati.com
 DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,teddysun.com
@@ -372,10 +358,7 @@ DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tv.com
-DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,twdvd.com
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.org
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
@@ -468,8 +451,6 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yahooapis.com
-DOMAIN-SUFFIX,yandex.com
-DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ycombinator.com

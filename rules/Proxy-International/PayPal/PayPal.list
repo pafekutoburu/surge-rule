@@ -1,6 +1,6 @@
 # PayPal
 # Policy: Proxy
-# Total: 245 rules
+# Total: 249 rules
 #
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
@@ -247,3 +247,7 @@ DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
+DOMAIN-SUFFIX,data.news.paypal.com
+DOMAIN-SUFFIX,data.service.paypal.com
+DOMAIN-SUFFIX,i.paypal.com
+DOMAIN-KEYWORD,paypal

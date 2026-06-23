@@ -1,6 +1,6 @@
 # Bloomberg
 # Policy: Proxy
-# Total: 22 rules
+# Total: 24 rules
 #
 DOMAIN-SUFFIX,bloomberg.co.kr
 DOMAIN-SUFFIX,bloomberg.com.br
@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,quicktake.video
 DOMAIN-SUFFIX,techatbloomberg.com
 DOMAIN-SUFFIX,tictoc.video
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,tracking.bloomberg.com
+DOMAIN-SUFFIX,bloomberg.de

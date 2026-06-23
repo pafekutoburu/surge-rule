@@ -1,6 +1,6 @@
 # Zendesk
 # Policy: Proxy
-# Total: 6 rules
+# Total: 9 rules
 #
 DOMAIN-SUFFIX,outbound.io
 DOMAIN-SUFFIX,zdassets.com
@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zopim.com
+DOMAIN-SUFFIX,apac.zendesk.com
+DOMAIN-SUFFIX,go.zendesk.com
+DOMAIN-SUFFIX,join.zendesk.com

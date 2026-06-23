@@ -1,6 +1,6 @@
 # LeTV
 # Policy: DIRECT
-# Total: 12 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,lelecdn.com
 DOMAIN-SUFFIX,lemall.com
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,sanguowudi.com
 DOMAIN-SUFFIX,videougc.com
 DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lemicp.com
+DOMAIN-SUFFIX,letv.com

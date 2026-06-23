@@ -1,6 +1,6 @@
 # Limelight
 # Policy: Proxy
-# Total: 7 rules
+# Total: 8 rules
 #
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,llnw-trials.com
 DOMAIN-SUFFIX,llnw.com
 DOMAIN-SUFFIX,llnw.net
 DOMAIN-SUFFIX,llnwi.net
+DOMAIN-SUFFIX,experience.limelight.com

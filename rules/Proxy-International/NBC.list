@@ -1,6 +1,6 @@
 # NBC
 # Policy: Proxy
-# Total: 22 rules
+# Total: 24 rules
 #
 DOMAIN,nbcstreaming.sc.omtrdc.net
 DOMAIN-SUFFIX,bravotv.com
@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,syfy.com
 DOMAIN-SUFFIX,telemundo.com
 DOMAIN-SUFFIX,universalkids.com
 DOMAIN-SUFFIX,usanetwork.com
+DOMAIN-SUFFIX,links.email.nbc.com
+DOMAIN-SUFFIX,links.nbc.com

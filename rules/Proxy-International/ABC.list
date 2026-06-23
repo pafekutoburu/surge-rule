@@ -1,6 +1,6 @@
 # ABC
 # Policy: Proxy
-# Total: 6 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,95599.cn
 DOMAIN-SUFFIX,abchina.com
@@ -8,3 +8,10 @@ DOMAIN-SUFFIX,bscabank.com
 DOMAIN-SUFFIX,openaboc.cn
 DOMAIN-SUFFIX,openaboc.com
 DOMAIN-SUFFIX,openaboc.com.cn
+DOMAIN-SUFFIX,adbmetrics.abc.es
+DOMAIN-SUFFIX,data.abc.es
+DOMAIN-SUFFIX,sadbmetrics.abc.es
+DOMAIN-SUFFIX,sw88.abc.com
+DOMAIN-SUFFIX,utiq.abc.es
+DOMAIN-SUFFIX,utiq.sevilla.abc.es
+DOMAIN-SUFFIX,w88.abc.com

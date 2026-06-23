@@ -1,6 +1,6 @@
 # YouTube
 # Policy: Proxy
-# Total: 174 rules
+# Total: 177 rules
 #
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,googlevideo.com
@@ -176,3 +176,6 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,fcmatch.youtube.com
+DOMAIN-SUFFIX,metrics.cbc.youtube.mercedes-benz.com
+DOMAIN-SUFFIX,smetrics.cbc.youtube.mercedes-benz.com

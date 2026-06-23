@@ -1,6 +1,6 @@
 # Opera
 # Policy: Proxy
-# Total: 22 rules
+# Total: 23 rules
 #
 DOMAIN-SUFFIX,1npq4.tk
 DOMAIN-SUFFIX,coastbyopera.com
@@ -24,3 +24,4 @@ IP-CIDR,77.111.244.0/22
 IP-CIDR,82.145.208.0/20
 IP-CIDR,91.203.97.0/24
 IP-CIDR6,2001:4c28::/32
+DOMAIN-SUFFIX,t.adx.opera.com

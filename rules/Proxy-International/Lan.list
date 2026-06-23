@@ -1,6 +1,6 @@
 # Lan
 # Policy: Proxy
-# Total: 139 rules
+# Total: 140 rules
 #
 DOMAIN,asusrouter.com
 DOMAIN,instant.arubanetworks.com
@@ -141,3 +141,4 @@ IP-CIDR6,::/127
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
 IP-CIDR6,ff00::/8
+DOMAIN-SUFFIX,metric.lan.com

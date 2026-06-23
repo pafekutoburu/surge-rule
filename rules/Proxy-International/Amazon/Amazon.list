@@ -1,6 +1,6 @@
 # Amazon
 # Policy: Proxy
-# Total: 201 rules
+# Total: 214 rules
 #
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-SUFFIX,a2z.com
@@ -203,3 +203,16 @@ PROCESS-NAME,com.amazon.avod.thirdpartyclient
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime Video*
+DOMAIN-SUFFIX,bugsnag.shopbop.amazon.dev
+DOMAIN-SUFFIX,smetrics-smartcommerce.amazon.in
+DOMAIN-SUFFIX,smetrics.afpjobs.amazon.com
+DOMAIN-SUFFIX,smetrics.flex.amazon.ca
+DOMAIN-SUFFIX,smetrics.flex.amazon.co.jp
+DOMAIN-SUFFIX,smetrics.flex.amazon.co.uk
+DOMAIN-SUFFIX,smetrics.flex.amazon.com
+DOMAIN-SUFFIX,smetrics.flex.amazon.com.au
+DOMAIN-SUFFIX,smetrics.flex.amazon.com.mx
+DOMAIN-SUFFIX,smetrics.flex.amazon.com.sg
+DOMAIN-SUFFIX,smetrics.flex.amazon.in
+DOMAIN-SUFFIX,smetrics.smartcommerce.amazon.in
+DOMAIN-SUFFIX,amazon.co

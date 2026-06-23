@@ -1,6 +1,6 @@
 # CCTV
 # Policy: DIRECT
-# Total: 37 rules
+# Total: 38 rules
 #
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,zggbdszt.cn
 DOMAIN-SUFFIX,zggbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
+DOMAIN-SUFFIX,p.data.cctv.com

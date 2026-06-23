@@ -1,6 +1,6 @@
 # OnePlus
 # Policy: DIRECT
-# Total: 7 rules
+# Total: 8 rules
 #
 DOMAIN-SUFFIX,h2os.com
 DOMAIN-SUFFIX,oneplus.cn
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,oneplusmobile.com
 DOMAIN-SUFFIX,opstatics.com
+DOMAIN-SUFFIX,click.oneplus.cn

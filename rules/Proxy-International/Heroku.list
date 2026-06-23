@@ -1,6 +1,6 @@
 # Heroku
 # Policy: Proxy
-# Total: 12 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,codei.sh
 DOMAIN-SUFFIX,codeish.co
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,herokucharge.com
 DOMAIN-SUFFIX,herokussl.com
+DOMAIN-SUFFIX,umami.heroku.uk

@@ -1,6 +1,6 @@
 # NYTimes
 # Policy: Proxy
-# Total: 13 rules
+# Total: 17 rules
 #
 DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net
 DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net
@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,timestalks.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,a-reporting.nytimes.com
+DOMAIN-SUFFIX,als-svc.nytimes.com
+DOMAIN-SUFFIX,dd.nytimes.com
+DOMAIN-SUFFIX,et.nytimes.com

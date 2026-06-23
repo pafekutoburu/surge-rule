@@ -1,6 +1,6 @@
 # Vivo
 # Policy: DIRECT
-# Total: 14 rules
+# Total: 15 rules
 #
 DOMAIN-SUFFIX,bbk.com
 DOMAIN-SUFFIX,bbktel.com.cn
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,vivosjpt.com
 DOMAIN-SUFFIX,vivotc.com
 DOMAIN-SUFFIX,vmic.xyz
 DOMAIN-SUFFIX,vsearch.club
+DOMAIN-SUFFIX,bhwkju.vivo.com

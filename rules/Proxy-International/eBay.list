@@ -1,6 +1,6 @@
 # eBay
 # Policy: Proxy
-# Total: 43 rules
+# Total: 45 rules
 #
 DOMAIN-SUFFIX,about.co.kr
 DOMAIN-SUFFIX,auction.co.kr
@@ -45,3 +45,5 @@ DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,esmplus.com
 DOMAIN-SUFFIX,g9.co.kr
 DOMAIN-SUFFIX,gmarket.co.kr
+DOMAIN-KEYWORD,backstory.ebay.
+DOMAIN-SUFFIX,pulsar.ebay.com

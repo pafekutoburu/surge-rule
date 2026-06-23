@@ -1,28 +1,14 @@
 # BlockHttpDNS
 # Policy: REJECT-TINYGIF
-# Total: 40 rules
+# Total: 26 rules
 #
-DOMAIN,dns.jd.com
-DOMAIN,dns.weibo.cn
-DOMAIN,dns.weixin.qq.com
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,httpdns-api.aliyuncs.com
-DOMAIN,httpdns-sc.aliyuncs.com
-DOMAIN,httpdns.alicdn.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.calorietech.com
-DOMAIN,httpdns.meituan.com
-DOMAIN,httpdns.music.163.com
-DOMAIN,httpdns.n.netease.com
 DOMAIN,httpdns.push.oppomobile.com
 DOMAIN,httpdns.volcengineapi.com
 DOMAIN,httpdns.yunxindns.com
-DOMAIN,lofter.httpdns.c.163.com
-DOMAIN,music.httpdns.c.163.com
-DOMAIN-SUFFIX,httpdns.baidu.com
 DOMAIN-SUFFIX,httpdns.baidubce.com
 DOMAIN-SUFFIX,httpdns.pro
-DOMAIN-SUFFIX,httpsdns.baidu.com
 IP-CIDR,101.91.140.124/32
 IP-CIDR,101.91.140.224/32
 IP-CIDR,112.64.218.119/32

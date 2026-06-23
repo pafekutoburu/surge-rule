@@ -1,8 +1,9 @@
 # TIDAL
 # Policy: Proxy
-# Total: 4 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,wimpmusic.com
+DOMAIN-SUFFIX,et.tidal.com

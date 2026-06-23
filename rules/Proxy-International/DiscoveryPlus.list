@@ -1,6 +1,6 @@
 # DiscoveryPlus
 # Policy: Proxy
-# Total: 17 rules
+# Total: 39 rules
 #
 DOMAIN,discovery-us.conax.cloud
 DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
@@ -19,3 +19,25 @@ DOMAIN-SUFFIX,uplynk.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
 DOMAIN-SUFFIX,ift.tt
+DOMAIN-SUFFIX,go.emails.discoveryplus.com
+DOMAIN-SUFFIX,link.get.discovery.plus
+DOMAIN-SUFFIX,link.support.discovery.plus
+DOMAIN-SUFFIX,links.br.discoveryplus.com
+DOMAIN-SUFFIX,links.ca.discoveryplus.com
+DOMAIN-SUFFIX,links.discovery.com
+DOMAIN-SUFFIX,links.discoveryplus.com
+DOMAIN-SUFFIX,links.emea.discoveryplus.com
+DOMAIN-SUFFIX,links.ph.discoveryplus.com
+DOMAIN-SUFFIX,sa.discovery.com
+DOMAIN-SUFFIX,sa.discoveryplus.com
+DOMAIN-SUFFIX,sa.discoveryplus.in
+DOMAIN-SUFFIX,simg.discovery.com
+DOMAIN-SUFFIX,ssa.discovery.com
+DOMAIN-SUFFIX,ssa.discoveryplus.com
+DOMAIN-SUFFIX,ssa.discoveryplus.in
+DOMAIN-SUFFIX,test.emails.discovery.com
+DOMAIN-SUFFIX,test.links.emails.br.discoveryplus.com
+DOMAIN-SUFFIX,test.links.emails.ca.discoveryplus.com
+DOMAIN-SUFFIX,test.links.emails.discoveryplus.com
+DOMAIN-SUFFIX,test.links.emails.emea.discoveryplus.com
+DOMAIN-SUFFIX,test.links.emails.ph.discoveryplus.com

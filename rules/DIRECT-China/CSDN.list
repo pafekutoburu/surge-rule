@@ -1,6 +1,6 @@
 # CSDN
 # Policy: DIRECT
-# Total: 22 rules
+# Total: 23 rules
 #
 DOMAIN-SUFFIX,codechina.net
 DOMAIN-SUFFIX,csdn.com
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,tinymind.com
 DOMAIN-SUFFIX,tinymind.com.cn
 DOMAIN-SUFFIX,topcto50.com
 DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,event.csdn.net

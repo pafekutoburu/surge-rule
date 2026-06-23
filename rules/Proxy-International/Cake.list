@@ -1,6 +1,6 @@
 # Cake
 # Policy: Proxy
-# Total: 7 rules
+# Total: 8 rules
 #
 DOMAIN,d1koerlbtsmkf8.cloudfront.net
 DOMAIN,d31wl6mro6753i.cloudfront.net
@@ -9,3 +9,4 @@ DOMAIN,vstatic-mycake.pstatic.net
 DOMAIN-SUFFIX,cake.day
 DOMAIN-SUFFIX,cakeapp.me
 DOMAIN-SUFFIX,mycake.me
+DOMAIN-SUFFIX,gspqch.cake.jp

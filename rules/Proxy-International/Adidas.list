@@ -1,6 +1,6 @@
 # Adidas
 # Policy: Proxy
-# Total: 19 rules
+# Total: 45 rules
 #
 DOMAIN-SUFFIX,adidas.at
 DOMAIN-SUFFIX,adidas.be
@@ -21,3 +21,29 @@ DOMAIN-SUFFIX,adidas.nl
 DOMAIN-SUFFIX,adidas.pl
 DOMAIN-SUFFIX,adidas.ru
 DOMAIN-SUFFIX,adidas.se
+DOMAIN-SUFFIX,sa.adidas.ae
+DOMAIN-SUFFIX,sa.adidas.be
+DOMAIN-SUFFIX,sa.adidas.ca
+DOMAIN-SUFFIX,sa.adidas.ch
+DOMAIN-SUFFIX,sa.adidas.cn
+DOMAIN-SUFFIX,sa.adidas.co
+DOMAIN-SUFFIX,sa.adidas.com
+DOMAIN-SUFFIX,sa.adidas.cz
+DOMAIN-SUFFIX,sa.adidas.de
+DOMAIN-SUFFIX,sa.adidas.dk
+DOMAIN-SUFFIX,sa.adidas.es
+DOMAIN-SUFFIX,sa.adidas.fi
+DOMAIN-SUFFIX,sa.adidas.fr
+DOMAIN-SUFFIX,sa.adidas.gr
+DOMAIN-SUFFIX,sa.adidas.hu
+DOMAIN-SUFFIX,sa.adidas.ie
+DOMAIN-SUFFIX,sa.adidas.it
+DOMAIN-SUFFIX,sa.adidas.jp
+DOMAIN-SUFFIX,sa.adidas.mx
+DOMAIN-SUFFIX,sa.adidas.nl
+DOMAIN-SUFFIX,sa.adidas.no
+DOMAIN-SUFFIX,sa.adidas.pl
+DOMAIN-SUFFIX,sa.adidas.pt
+DOMAIN-SUFFIX,sa.adidas.se
+DOMAIN-SUFFIX,sa.adidas.sk
+DOMAIN-SUFFIX,swqleb.adidas.ru

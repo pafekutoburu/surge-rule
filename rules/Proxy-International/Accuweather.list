@@ -1,5 +1,6 @@
 # Accuweather
 # Policy: Proxy
-# Total: 1 rules
+# Total: 2 rules
 #
 DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,metrics.accuweather.com

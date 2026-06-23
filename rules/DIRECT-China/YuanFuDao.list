@@ -1,6 +1,6 @@
 # YuanFuDao
 # Policy: DIRECT
-# Total: 86 rules
+# Total: 87 rules
 #
 DOMAIN-SUFFIX,52ml.net
 DOMAIN-SUFFIX,banmaaike.com
@@ -88,3 +88,4 @@ DOMAIN-SUFFIX,zm-introduce.com
 DOMAIN-SUFFIX,zm-invite.com
 DOMAIN-SUFFIX,zm-mp.com
 DOMAIN-SUFFIX,zm-wx.com
+DOMAIN-SUFFIX,frog.yuanfudao.com

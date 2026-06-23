@@ -1,6 +1,6 @@
 # Verisign
 # Policy: Proxy
-# Total: 32 rules
+# Total: 34 rules
 #
 DOMAIN-SUFFIX,verisign.asia
 DOMAIN-SUFFIX,verisign.biz
@@ -34,3 +34,5 @@ DOMAIN-SUFFIX,verisign.tw
 DOMAIN-SUFFIX,verisign.us
 DOMAIN-SUFFIX,verisign.vn
 DOMAIN-SUFFIX,verisigninc.com
+DOMAIN-SUFFIX,request.verisign.com
+DOMAIN-SUFFIX,smetrics.verisign.com

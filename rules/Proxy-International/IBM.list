@@ -1,6 +1,6 @@
 # IBM
 # Policy: Proxy
-# Total: 11 rules
+# Total: 12 rules
 #
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,bluemix.com
@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s81c.com
 DOMAIN-SUFFIX,weatherchannel
+DOMAIN-SUFFIX,tgt.maep.ibm.com

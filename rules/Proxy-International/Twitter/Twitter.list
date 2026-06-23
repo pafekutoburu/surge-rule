@@ -1,6 +1,6 @@
 # Twitter
 # Policy: Proxy
-# Total: 19 rules
+# Total: 23 rules
 #
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,twitter.biz
@@ -21,3 +21,7 @@ IP-CIDR,202.160.128.0/22
 IP-CIDR,209.237.192.0/19
 IP-CIDR,69.195.160.0/19
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.org

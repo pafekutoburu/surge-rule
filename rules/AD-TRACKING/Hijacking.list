@@ -1,8 +1,7 @@
 # Hijacking
 # Policy: REJECT-TINYGIF
-# Total: 190 rules
+# Total: 189 rules
 #
-DOMAIN,geo2.adobe.com
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189key.com

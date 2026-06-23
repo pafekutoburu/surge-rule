@@ -1,7 +1,8 @@
 # Disqus
 # Policy: Proxy
-# Total: 3 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,disqusservice.com
 DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,referrer.disqus.com

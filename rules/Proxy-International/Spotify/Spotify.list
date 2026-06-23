@@ -1,6 +1,6 @@
 # Spotify
 # Policy: Proxy
-# Total: 27 rules
+# Total: 28 rules
 #
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -29,3 +29,4 @@ DOMAIN-SUFFIX,tospotify.com
 IP-CIDR,104.154.127.126/32
 PROCESS-NAME,com.spotify.music
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-KEYWORD,spotify

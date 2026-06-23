@@ -1,5 +1,7 @@
 # PBS
 # Policy: Proxy
-# Total: 1 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,pbs.org
+DOMAIN-SUFFIX,info.pbs.org
+DOMAIN-SUFFIX,microsite.pbs.org

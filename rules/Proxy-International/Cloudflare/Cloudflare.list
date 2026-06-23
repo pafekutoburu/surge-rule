@@ -1,6 +1,6 @@
 # Cloudflare
 # Policy: Proxy
-# Total: 49 rules
+# Total: 52 rules
 #
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -51,3 +51,6 @@ IP-CIDR6,2803:f800::/32
 IP-CIDR6,2a06:98c0::/29
 IP-CIDR6,2c0f:f248::/32
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,csp-reporting.cloudflare.com
+DOMAIN-SUFFIX,data.em2.cloudflare.com
+DOMAIN-SUFFIX,tr.www.cloudflare.com

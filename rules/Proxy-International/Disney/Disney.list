@@ -1,6 +1,6 @@
 # Disney
 # Policy: Proxy
-# Total: 170 rules
+# Total: 184 rules
 #
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
@@ -172,3 +172,17 @@ DOMAIN-SUFFIX,watchespn.com
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
 USER-AGENT,Disney+*
+DOMAIN-SUFFIX,analytics.disney.go.com
+DOMAIN-SUFFIX,sw88.disney.be
+DOMAIN-SUFFIX,sw88.disney.bg
+DOMAIN-SUFFIX,sw88.disney.co.il
+DOMAIN-SUFFIX,sw88.disney.co.jp
+DOMAIN-SUFFIX,sw88.disney.co.za
+DOMAIN-SUFFIX,sw88.disney.com.au
+DOMAIN-SUFFIX,sw88.disney.cz
+DOMAIN-SUFFIX,sw88.disney.de
+DOMAIN-SUFFIX,sw88.disney.fi
+DOMAIN-SUFFIX,sw88.disney.hu
+DOMAIN-SUFFIX,sw88.disney.pl
+DOMAIN-SUFFIX,sw88.disney.pt
+DOMAIN-SUFFIX,sw88.disney.se

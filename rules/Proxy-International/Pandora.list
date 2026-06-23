@@ -1,6 +1,11 @@
 # Pandora
 # Policy: Proxy
-# Total: 2 rules
+# Total: 7 rules
 #
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,metrics.pandora.com
+DOMAIN-SUFFIX,px.pandora.com
+DOMAIN-SUFFIX,pxsg.pandora.com
+DOMAIN-SUFFIX,smetrics.pandora.com
+DOMAIN-SUFFIX,smetrics.pandora.net

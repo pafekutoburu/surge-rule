@@ -1,6 +1,6 @@
 # Faronics
 # Policy: Proxy
-# Total: 18 rules
+# Total: 19 rules
 #
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk
@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,faronics.tech
 DOMAIN-SUFFIX,faronicslabs.com
 DOMAIN-SUFFIX,faronicswise.co.uk
 DOMAIN-SUFFIX,faronicswise.com
+DOMAIN-SUFFIX,resources.faronics.com

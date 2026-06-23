@@ -1,6 +1,6 @@
 # Wikimedia
 # Policy: Proxy
-# Total: 7 rules
+# Total: 10 rules
 #
 DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,w.wiki
@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,wmcloud.org
 DOMAIN-SUFFIX,wmflabs.org
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,intake-analytics.wikimedia.org
+DOMAIN-SUFFIX,wikipedia.com
+DOMAIN-SUFFIX,wikipedia.org

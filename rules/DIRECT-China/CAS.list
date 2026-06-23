@@ -1,6 +1,6 @@
 # CAS
 # Policy: DIRECT
-# Total: 43 rules
+# Total: 45 rules
 #
 DOMAIN-SUFFIX,acas.ac.cn
 DOMAIN-SUFFIX,agklab.cn
@@ -45,3 +45,5 @@ DOMAIN-SUFFIX,sciencechina.org.cn
 DOMAIN-SUFFIX,sciencefocus.ac.cn
 DOMAIN-SUFFIX,stmjsociety.com
 DOMAIN-SUFFIX,stpaper.cn
+DOMAIN-SUFFIX,dmkt.solutions.cas.org
+DOMAIN-SUFFIX,refwkk.cas.sk

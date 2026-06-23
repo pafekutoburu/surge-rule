@@ -1,6 +1,6 @@
 # HBO
 # Policy: Proxy
-# Total: 45 rules
+# Total: 48 rules
 #
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
@@ -47,3 +47,6 @@ DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,warnermediacdn.com
 PROCESS-NAME,com.hbo.hbonow
+DOMAIN-SUFFIX,images.updates.hbo.com
+DOMAIN-SUFFIX,matrix.hbo.com
+DOMAIN-SUFFIX,smatrix.hbo.com

@@ -1,6 +1,6 @@
 # TikTok
 # Policy: Proxy
-# Total: 28 rules
+# Total: 32 rules
 #
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -30,3 +30,7 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,ttwebview.com
+DOMAIN-SUFFIX,analytics-sg.tiktok.com
+DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN-SUFFIX,tiktok.tray.com.br
+DOMAIN-KEYWORD,tiktok

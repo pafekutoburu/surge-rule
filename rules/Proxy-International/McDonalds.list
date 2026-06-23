@@ -1,6 +1,6 @@
 # McDonalds
 # Policy: Proxy
-# Total: 25 rules
+# Total: 27 rules
 #
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,aboutmcdonalds.com
@@ -27,3 +27,5 @@ DOMAIN-SUFFIX,mcdonaldsarabia.com
 DOMAIN-SUFFIX,mcdonaldsparties.co.nz
 DOMAIN-SUFFIX,mcdonaldsparties.com.au
 DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
+DOMAIN-SUFFIX,franchising.mcdonalds.ca
+DOMAIN-SUFFIX,smetrics.mcdonalds.com

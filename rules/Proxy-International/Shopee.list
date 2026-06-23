@@ -1,6 +1,6 @@
 # Shopee
 # Policy: Proxy
-# Total: 21 rules
+# Total: 25 rules
 #
 DOMAIN-SUFFIX,shopee.cl
 DOMAIN-SUFFIX,shopee.cn
@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,shopee.vn
 DOMAIN-SUFFIX,shopeemobile.com
 DOMAIN-SUFFIX,shopeesz.com
 DOMAIN-SUFFIX,shp.ee
+DOMAIN-SUFFIX,gybles.shopee.ph
+DOMAIN-SUFFIX,pciidk.shopee.vn
+DOMAIN-SUFFIX,pevftg.shopee.sg
+DOMAIN-SUFFIX,spigte.shopee.tw

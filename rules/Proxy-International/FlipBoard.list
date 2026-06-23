@@ -1,6 +1,7 @@
 # FlipBoard
 # Policy: Proxy
-# Total: 2 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,flipchina.cn
 DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,applink.flipboard.com

@@ -1,6 +1,6 @@
 # ByteDance
 # Policy: DIRECT
-# Total: 368 rules
+# Total: 375 rules
 #
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
@@ -370,3 +370,10 @@ IP-CIDR,114.246.10.65/32
 PROCESS-NAME,com.zhiliaoapp.musically
 USER-AGENT,TikTok*
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-KEYWORD,a3.pstatp.com
+DOMAIN-KEYWORD,dm.bytedance.com
+DOMAIN-KEYWORD,p3.pstatp.com
+DOMAIN-KEYWORD,s1.pstatp.com
+DOMAIN-KEYWORD,s2.pstatp.com
+DOMAIN-KEYWORD,s3.pstatp.com
+DOMAIN-KEYWORD,s3a.pstatp.com

@@ -1,6 +1,6 @@
 # MeiZu
 # Policy: DIRECT
-# Total: 15 rules
+# Total: 16 rules
 #
 DOMAIN-SUFFIX,flyme.cn
 DOMAIN-SUFFIX,flyme.com
@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,meizuapi.com
 DOMAIN-SUFFIX,mklink.com.cn
 DOMAIN-SUFFIX,mzres.com
 DOMAIN-SUFFIX,mzssp.cn
+DOMAIN-SUFFIX,tongji-res.meizu.com

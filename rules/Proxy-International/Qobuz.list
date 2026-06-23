@@ -1,6 +1,6 @@
 # Qobuz
 # Policy: Proxy
-# Total: 31 rules
+# Total: 32 rules
 #
 DOMAIN-SUFFIX,cobeuz.fr
 DOMAIN-SUFFIX,cobuz.fr
@@ -33,3 +33,4 @@ DOMAIN-SUFFIX,qobuz.us
 DOMAIN-SUFFIX,quobuz.com
 DOMAIN-SUFFIX,quobuz.fr
 DOMAIN-SUFFIX,static-qobuz.com
+DOMAIN-SUFFIX,tk.qobuz.com

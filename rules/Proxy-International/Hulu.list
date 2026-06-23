@@ -1,6 +1,6 @@
 # Hulu
 # Policy: Proxy
-# Total: 58 rules
+# Total: 60 rules
 #
 DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net
 DOMAIN-SUFFIX,112263.com
@@ -60,3 +60,5 @@ DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,yb.uncn.jp
 PROCESS-NAME,com.hulu.plus
+DOMAIN-SUFFIX,t2.hulu.com
+DOMAIN-SUFFIX,vortex.hulu.com

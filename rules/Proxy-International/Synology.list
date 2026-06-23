@@ -1,6 +1,6 @@
 # Synology
 # Policy: Proxy
-# Total: 8 rules
+# Total: 9 rules
 #
 DOMAIN,d2f0395ykn6hxb.cloudfront.net
 DOMAIN-KEYWORD,synology
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,dsmunas.org
 DOMAIN-SUFFIX,myds.com
 DOMAIN-SUFFIX,synodns.com
 DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me

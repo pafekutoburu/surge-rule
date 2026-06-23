@@ -1,6 +1,6 @@
 # BiliBili
 # Policy: DIRECT
-# Total: 132 rules
+# Total: 135 rules
 #
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -134,3 +134,6 @@ USER-AGENT,bili*
 USER-AGENT,bili-inter*
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-KEYWORD,-tracker.biliapi.net
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-KEYWORD,bilibili
