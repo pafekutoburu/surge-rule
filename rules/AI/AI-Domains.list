@@ -1,6 +1,6 @@
 # AI-Domains
 # Policy: AI
-# Total: 120 rules
+# Total: 121 rules
 #
 DOMAIN,accounts.google.com
 DOMAIN,ai.google.dev
@@ -122,3 +122,4 @@ DOMAIN-SUFFIX,writer.com
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,you.com
+IP-CIDR,127.0.0.1/32,no-resolve  //ollama模型API地址
