@@ -18,27 +18,27 @@
 
 | 规则集 | 策略 | 规则数 | 引用 |
 |--------|------|--------|------|
-| AdColony | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AdColony.list,REJECT-TINYGIF,no-resolve` |
-| Addthis | REJECT-TINYGIF | 3 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Addthis.list,REJECT-TINYGIF,no-resolve` |
-| AddToAny | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AddToAny.list,REJECT-TINYGIF,no-resolve` |
-| AdGuardSDNSFilter | REJECT-TINYGIF | 81745 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AdGuardSDNSFilter.list,REJECT-TINYGIF,no-resolve` |
-| Advertising | REJECT-TINYGIF | 735 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Advertising.list,REJECT-TINYGIF,no-resolve` |
-| AdvertisingLite | REJECT-TINYGIF | 2 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AdvertisingLite.list,REJECT-TINYGIF,no-resolve` |
-| AdvertisingMiTV | REJECT-TINYGIF | 165 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AdvertisingMiTV.list,REJECT-TINYGIF,no-resolve` |
-| AdvertisingTest | REJECT-TINYGIF | 27 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AdvertisingTest.list,REJECT-TINYGIF,no-resolve` |
-| AppLovin | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/AppLovin.list,REJECT-TINYGIF,no-resolve` |
-| BlockHttpDNS | REJECT-TINYGIF | 26 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/BlockHttpDNS.list,REJECT-TINYGIF,no-resolve` |
-| Domob | REJECT-TINYGIF | 26 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Domob.list,REJECT-TINYGIF,no-resolve` |
-| EasyPrivacy | REJECT-TINYGIF | 38902 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/EasyPrivacy.list,REJECT-TINYGIF,no-resolve` |
-| Flurry | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Flurry.list,REJECT-TINYGIF,no-resolve` |
-| Hijacking | REJECT-TINYGIF | 189 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Hijacking.list,REJECT-TINYGIF,no-resolve` |
-| JiGuangTuiSong | REJECT-TINYGIF | 18 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/JiGuangTuiSong.list,REJECT-TINYGIF,no-resolve` |
-| Privacy | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Privacy.list,REJECT-TINYGIF,no-resolve` |
-| Pubmatic | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Pubmatic.list,REJECT-TINYGIF,no-resolve` |
-| ZhihuAds | REJECT-TINYGIF | 11 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/ZhihuAds.list,REJECT-TINYGIF,no-resolve` |
+| AdColony | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdColony.list,REJECT-TINYGIF,no-resolve` |
+| Addthis | REJECT-TINYGIF | 3 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Addthis.list,REJECT-TINYGIF,no-resolve` |
+| AddToAny | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AddToAny.list,REJECT-TINYGIF,no-resolve` |
+| AdGuardSDNSFilter | REJECT-TINYGIF | 81745 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdGuardSDNSFilter.list,REJECT-TINYGIF,no-resolve` |
+| Advertising | REJECT-TINYGIF | 735 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Advertising.list,REJECT-TINYGIF,no-resolve` |
+| AdvertisingLite | REJECT-TINYGIF | 2 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingLite.list,REJECT-TINYGIF,no-resolve` |
+| AdvertisingMiTV | REJECT-TINYGIF | 165 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingMiTV.list,REJECT-TINYGIF,no-resolve` |
+| AdvertisingTest | REJECT-TINYGIF | 27 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingTest.list,REJECT-TINYGIF,no-resolve` |
+| AppLovin | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list,REJECT-TINYGIF,no-resolve` |
+| BlockHttpDNS | REJECT-TINYGIF | 26 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list,REJECT-TINYGIF,no-resolve` |
+| Domob | REJECT-TINYGIF | 26 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list,REJECT-TINYGIF,no-resolve` |
+| EasyPrivacy | REJECT-TINYGIF | 38902 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/EasyPrivacy.list,REJECT-TINYGIF,no-resolve` |
+| Flurry | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Flurry.list,REJECT-TINYGIF,no-resolve` |
+| Hijacking | REJECT-TINYGIF | 189 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Hijacking.list,REJECT-TINYGIF,no-resolve` |
+| JiGuangTuiSong | REJECT-TINYGIF | 18 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/JiGuangTuiSong.list,REJECT-TINYGIF,no-resolve` |
+| Privacy | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Privacy.list,REJECT-TINYGIF,no-resolve` |
+| Pubmatic | REJECT-TINYGIF | 1 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Pubmatic.list,REJECT-TINYGIF,no-resolve` |
+| ZhihuAds | REJECT-TINYGIF | 11 | `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/ZhihuAds.list,REJECT-TINYGIF,no-resolve` |
 
 > Custom-REJECT-TINYGIF（自定义拒绝规则，27 条）未包含在上表中，如需引用请使用：
-> `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-TRACKING/Custom-REJECT-TINYGIF.list,REJECT-TINYGIF,no-resolve`
+> `RULE-SET,https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT-TINYGIF.list,REJECT-TINYGIF,no-resolve`
 
 ## DIRECT-China
 
