@@ -1,0 +1,6 @@
+# FuboTV
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,fubo.tv
+DOMAIN-SUFFIX,fubotv.com

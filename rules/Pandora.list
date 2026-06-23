@@ -1,0 +1,6 @@
+# Pandora
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com

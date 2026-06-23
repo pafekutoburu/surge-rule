@@ -1,0 +1,9 @@
+# iCloudPrivateRelay
+# Policy: Proxy
+# Total: 5 rules
+#
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com

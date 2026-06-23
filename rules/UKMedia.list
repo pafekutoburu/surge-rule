@@ -1,0 +1,6 @@
+# UKMedia
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+DOMAIN-SUFFIX,bbc-reporting-api.app

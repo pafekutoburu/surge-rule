@@ -1,0 +1,5 @@
+# AppStore
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN,apps.apple.com

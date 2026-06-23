@@ -1,0 +1,5 @@
+# Americasvoice
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN-SUFFIX,americasvoice.news

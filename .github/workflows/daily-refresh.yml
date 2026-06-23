@@ -1,0 +1,42 @@
+name: Daily Refresh
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Download upstream rules
+        run: |
+          python3 -c "
+import urllib.request, os
+urls = [
+$(for f in /tmp/rs_downloads/*.list; do echo "'$(basename $f)',"; done)
+]
+dl = '/tmp/surge-refresh'
+os.makedirs(dl, exist_ok=True)
+for u in urls:
+    try:
+        req = urllib.request.Request('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/' + u.replace('.list','') + '/' + u)
+        resp = urllib.request.urlopen(req, timeout=15)
+        with open(os.path.join(dl, u), 'w') as f: f.write(resp.read().decode())
+    except: pass
+"
+      - name: Generate rules
+        run: |
+          python3 scripts/generate.py
+      - name: Commit & push
+        run: |
+          git config user.name 'succichang'
+          git config user.email 'succichang@users.noreply.github.com'
+          git add -A rules/ surge.conf
+          git diff --quiet && git diff --staged --quiet \
+            || (git commit -m 'auto-refresh $(date +%Y-%m-%d)' && git push)

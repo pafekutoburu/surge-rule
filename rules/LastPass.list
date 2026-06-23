@@ -1,0 +1,7 @@
+# LastPass
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,lastpass.com
+PROCESS-NAME,LastPass
+USER-AGENT,LastPass*

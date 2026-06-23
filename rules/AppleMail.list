@@ -1,0 +1,6 @@
+# AppleMail
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com

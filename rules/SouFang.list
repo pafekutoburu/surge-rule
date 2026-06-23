@@ -1,0 +1,12 @@
+# SouFang
+# Policy: DIRECT
+# Total: 8 rules
+#
+DOMAIN-SUFFIX,hkproperty.com
+DOMAIN-SUFFIX,houselight.cn
+DOMAIN-SUFFIX,nree.cn
+DOMAIN-SUFFIX,soufun.com
+DOMAIN-SUFFIX,soufun.com.cn
+DOMAIN-SUFFIX,txsf.com
+DOMAIN-SUFFIX,villachina.com
+DOMAIN-SUFFIX,villachina.com.cn

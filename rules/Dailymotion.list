@@ -1,0 +1,8 @@
+# Dailymotion
+# Policy: Proxy
+# Total: 4 rules
+#
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

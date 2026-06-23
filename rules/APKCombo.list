@@ -1,0 +1,5 @@
+# APKCombo
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN-SUFFIX,apkcombo.com

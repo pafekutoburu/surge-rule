@@ -1,0 +1,5 @@
+# BiliBiliIntl
+# Policy: Proxy
+# Total: 1 rules
+#
+PROCESS-NAME,com.bstar.intl

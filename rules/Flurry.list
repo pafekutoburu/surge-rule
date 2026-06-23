@@ -1,0 +1,5 @@
+# Flurry
+# Policy: REJECT-TINYGIF
+# Total: 1 rules
+#
+DOMAIN-SUFFIX,data.flurry.com

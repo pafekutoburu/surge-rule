@@ -1,0 +1,6 @@
+# Origin
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,rtm.tnt-ea.com

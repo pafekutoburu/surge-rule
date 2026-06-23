@@ -1,0 +1,5 @@
+# YouTubeMusic
+# Policy: Proxy
+# Total: 1 rules
+#
+DOMAIN,music.youtube.com

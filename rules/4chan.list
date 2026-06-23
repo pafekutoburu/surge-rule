@@ -1,0 +1,7 @@
+# 4chan
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,4cdn.org
+DOMAIN-SUFFIX,4chan.org
+DOMAIN-SUFFIX,4channel.org

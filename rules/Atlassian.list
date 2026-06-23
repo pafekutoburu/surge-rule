@@ -1,0 +1,7 @@
+# Atlassian
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,statuspage.io
+DOMAIN-SUFFIX,trellocdn.com

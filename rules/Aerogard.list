@@ -1,0 +1,7 @@
+# Aerogard
+# Policy: Proxy
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,aerogard.com.au
+DOMAIN-SUFFIX,aerogard.com.cn
+DOMAIN-SUFFIX,aerogardcn.com

@@ -1,0 +1,6 @@
+# TruthSocial
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,trk.bonsa.net
+DOMAIN-SUFFIX,truthsocial.com

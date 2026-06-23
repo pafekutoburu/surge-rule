@@ -1,0 +1,7 @@
+# Addthis
+# Policy: REJECT-TINYGIF
+# Total: 3 rules
+#
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com

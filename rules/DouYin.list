@@ -1,0 +1,6 @@
+# DouYin
+# Policy: DIRECT
+# Total: 2 rules
+#
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com

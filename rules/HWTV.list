@@ -1,0 +1,6 @@
+# HWTV
+# Policy: Proxy
+# Total: 2 rules
+#
+DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com

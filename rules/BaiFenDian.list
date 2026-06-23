@@ -1,0 +1,13 @@
+# BaiFenDian
+# Policy: DIRECT
+# Total: 9 rules
+#
+DOMAIN-SUFFIX,bfdcdn.com
+DOMAIN-SUFFIX,bfdcloud.com
+DOMAIN-SUFFIX,blingoffice.com
+DOMAIN-SUFFIX,marimall.cn
+DOMAIN-SUFFIX,mediaforce.cn
+DOMAIN-SUFFIX,pdeepmatrix.com
+DOMAIN-SUFFIX,percent.cn
+DOMAIN-SUFFIX,pertalk.cn
+DOMAIN-SUFFIX,xworld.net.cn
