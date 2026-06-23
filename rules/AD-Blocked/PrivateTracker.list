@@ -1,5 +1,5 @@
 # PrivateTracker
-# Policy: Proxy
+# Policy: REJECT-TINYGIF
 # Total: 159 rules
 #
 DOMAIN,004430.xyz
