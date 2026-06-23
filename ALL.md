@@ -286,13 +286,17 @@
 | ZhongXingTongXun | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZhongXingTongXun.list` | 20 |
 | ZhongYuanYiShang | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZhongYuanYiShang.list` | 9 |
 
-## DIRECT-IP
+## DIRECT-Fallback
 
-*（共 11 个规则集，待展开）*
+*（共 11 个兜底规则集，待展开）*
 
-## Proxy-International
+## Proxy
 
-*（共 298 个规则集，待展开）*
+*（共 312 个具体域名规则集，待展开）*
+
+## Proxy-Fallback
+
+*（共 21 个兜底规则集，待展开）*
 
 ---
 

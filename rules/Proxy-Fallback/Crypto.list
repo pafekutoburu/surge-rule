@@ -1,6 +1,6 @@
 # Crypto
 # Policy: Proxy
-# Total: 202 rules
+# Total: 207 rules
 #
 DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-KEYWORD,binance
@@ -204,3 +204,8 @@ DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,okx.com

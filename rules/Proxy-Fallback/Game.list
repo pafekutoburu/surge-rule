@@ -1,6 +1,6 @@
 # Game
 # Policy: Proxy
-# Total: 334 rules
+# Total: 339 rules
 #
 DOMAIN,gog.salesmanago.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
@@ -336,3 +336,8 @@ IP-CIDR,52.13.42.120/32
 IP-CIDR,52.50.131.212/32
 IP-CIDR,54.207.168.84/32
 IP-CIDR,54.248.64.192/32
+DOMAIN,asia.battle.net
+DOMAIN,europe.battle.net
+DOMAIN,useast.battle.net
+DOMAIN,uswest.battle.net
+DOMAIN-SUFFIX,att.com

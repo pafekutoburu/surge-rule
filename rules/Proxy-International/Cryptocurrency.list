@@ -1,9 +1,0 @@
-# Cryptocurrency
-# Policy: Proxy
-# Total: 5 rules
-#
-DOMAIN-SUFFIX,binance.cc
-DOMAIN-SUFFIX,binance.im
-DOMAIN-SUFFIX,binance.us
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,okx.com

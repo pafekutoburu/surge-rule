@@ -1,5 +1,5 @@
 # Download
-# Policy: Proxy
+# Policy: DIRECT
 # Total: 9 rules
 #
 DOMAIN-KEYWORD,aria2
