@@ -28,7 +28,7 @@
 | AdvertisingTest | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingTest.list` | 27 |
 | AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 1 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 26 |
-| Custom-REJECT-TINYGIF | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT-TINYGIF.list` | 27 |
+| Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 27 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 26 |
 | EasyPrivacy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/EasyPrivacy.list` | 38902 |
 | Flurry | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Flurry.list` | 1 |
