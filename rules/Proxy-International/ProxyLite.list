@@ -1,6 +1,6 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 493 rules
+# Total: 494 rules
 #
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
@@ -495,3 +495,4 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zyxel.com
+DOMAIN-SUFFIX,geni.us

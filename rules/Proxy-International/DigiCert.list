@@ -1,6 +1,6 @@
 # DigiCert
 # Policy: Proxy
-# Total: 10 rules
+# Total: 11 rules
 #
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert-validation.com
@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,quovadisglobal.com
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,thawte.de
 DOMAIN-SUFFIX,thawte.fr
+DOMAIN-SUFFIX,digicert.com

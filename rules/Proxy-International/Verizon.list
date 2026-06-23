@@ -1,6 +1,6 @@
 # Verizon
 # Policy: Proxy
-# Total: 166 rules
+# Total: 167 rules
 #
 DOMAIN-SUFFIX,aol.de
 DOMAIN-SUFFIX,aol.fr
@@ -168,3 +168,4 @@ DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,yourdigitalrebatecenter.com
+DOMAIN-SUFFIX,yahoo.com

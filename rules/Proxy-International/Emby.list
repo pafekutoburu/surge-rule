@@ -1,6 +1,6 @@
 # Emby
 # Policy: Proxy
-# Total: 52 rules
+# Total: 64 rules
 #
 DOMAIN,emby.enjoyit.eu.org
 DOMAIN,emby.lcloud.wiki
@@ -54,3 +54,15 @@ DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
 PROCESS-NAME,com.mb.android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,cl.ly
+DOMAIN-SUFFIX,d.pr
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,ow.ly
+DOMAIN-SUFFIX,playstation.com.hk
+DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,ying.com

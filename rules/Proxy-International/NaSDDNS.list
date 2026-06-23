@@ -1,6 +1,6 @@
 # NaSDDNS
 # Policy: Proxy
-# Total: 44 rules
+# Total: 45 rules
 #
 DOMAIN-KEYWORD,qcloud
 DOMAIN-SUFFIX,3322.net
@@ -46,3 +46,4 @@ IP-CIDR,52.200.32.0/24
 IP-CIDR,52.86.69.0/24
 IP-CIDR,54.159.2.0/24
 IP-CIDR,54.166.1.0/24
+DOMAIN-SUFFIX,qcloud.com

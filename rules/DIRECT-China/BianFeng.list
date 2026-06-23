@@ -1,6 +1,6 @@
 # BianFeng
 # Policy: DIRECT
-# Total: 100 rules
+# Total: 101 rules
 #
 DOMAIN-SUFFIX,17et.com
 DOMAIN-SUFFIX,2133.com
@@ -102,3 +102,4 @@ DOMAIN-SUFFIX,yuyaotop.com
 DOMAIN-SUFFIX,zgsjl8.com
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhanqu.tv
+DOMAIN-SUFFIX,mob.com

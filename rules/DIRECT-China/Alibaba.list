@@ -1,6 +1,6 @@
 # Alibaba
 # Policy: DIRECT
-# Total: 58 rules
+# Total: 61 rules
 #
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
@@ -60,3 +60,6 @@ IP-CIDR,8.128.0.0/10
 IP-CIDR,8.208.0.0/12
 IP-CIDR6,2400:b200::/32
 PROCESS-NAME,com.taobao.taobao
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,aliyun
+DOMAIN-SUFFIX,taobao.com

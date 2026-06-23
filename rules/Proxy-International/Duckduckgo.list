@@ -1,6 +1,6 @@
 # Duckduckgo
 # Policy: Proxy
-# Total: 42 rules
+# Total: 43 rules
 #
 DOMAIN-SUFFIX,cispaletter.com
 DOMAIN-SUFFIX,cispaletter.org
@@ -44,3 +44,4 @@ DOMAIN-SUFFIX,justduckit.com
 DOMAIN-SUFFIX,privacysimplified.com
 DOMAIN-SUFFIX,privatebrowsingmyths.com
 DOMAIN-SUFFIX,spreadprivacy.com
+DOMAIN-SUFFIX,duckduckgo.com

@@ -1,6 +1,6 @@
 # ChinaTelecom
 # Policy: DIRECT
-# Total: 86 rules
+# Total: 83 rules
 #
 DOMAIN-SUFFIX,01058511989.com
 DOMAIN-SUFFIX,10000.gd.cn
@@ -85,7 +85,3 @@ DOMAIN-SUFFIX,wuyou189.cn
 DOMAIN-SUFFIX,wuyou189.com
 DOMAIN-SUFFIX,ycy100.cn
 DOMAIN-SUFFIX,yichuangyun.com.cn
-
-DOMAIN-SUFFIX,datadoghq.com,extended-matching  //美国云端可观测性与监控平台Datadog
-DOMAIN-SUFFIX,deepseek.com,extended-matching
-DOMAIN-SUFFIX,googleusercontent.com

@@ -1,6 +1,6 @@
 # 9to5
 # Policy: Proxy
-# Total: 6 rules
+# Total: 7 rules
 #
 DOMAIN-SUFFIX,9to5google.com
 DOMAIN-SUFFIX,9to5terminal.com
@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,dronedj.com
 DOMAIN-SUFFIX,electrek.co
 DOMAIN-SUFFIX,spaceexplored.com
+DOMAIN-SUFFIX,goo.gl

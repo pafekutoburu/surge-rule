@@ -1,6 +1,6 @@
 # UPYun
 # Policy: DIRECT
-# Total: 14 rules
+# Total: 16 rules
 #
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,aicdn2.com
@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,upai.com
 DOMAIN-SUFFIX,upcdn.net
 DOMAIN-SUFFIX,yupoo.com
 DOMAIN-SUFFIX,zhidian-inc.cn
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upyun.com

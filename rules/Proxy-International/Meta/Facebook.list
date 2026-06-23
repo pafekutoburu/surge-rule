@@ -1,6 +1,6 @@
 # Facebook
 # Policy: Proxy
-# Total: 563 rules
+# Total: 565 rules
 #
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -565,3 +565,5 @@ IP-CIDR,54.162.243.80/32
 IP-CIDR,54.173.34.141/32
 IP-CIDR,54.235.23.242/32
 IP-CIDR,54.93.124.31/32
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net

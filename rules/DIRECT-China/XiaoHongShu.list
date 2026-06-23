@@ -1,8 +1,9 @@
 # XiaoHongShu
 # Policy: DIRECT
-# Total: 4 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,feng.com

@@ -1,7 +1,8 @@
 # SourceForge
 # Policy: Proxy
-# Total: 3 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,fsdn.com
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net

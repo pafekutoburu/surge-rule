@@ -1,6 +1,6 @@
 # Xunlei
 # Policy: DIRECT
-# Total: 30 rules
+# Total: 31 rules
 #
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,155.com
@@ -32,3 +32,4 @@ DOMAIN-SUFFIX,xlpan.com
 DOMAIN-SUFFIX,xlyouxi.net
 DOMAIN-SUFFIX,xunlei.cn
 DOMAIN-SUFFIX,xunlei.net
+DOMAIN-SUFFIX,xunlei.com

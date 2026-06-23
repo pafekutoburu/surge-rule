@@ -1,6 +1,6 @@
 # Microsoft
 # Policy: Proxy
-# Total: 591 rules
+# Total: 608 rules
 #
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.com
@@ -593,3 +593,20 @@ DOMAIN-SUFFIX,yammerusercontent.com
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 USER-AGENT,OneDriveiOSApp*
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net

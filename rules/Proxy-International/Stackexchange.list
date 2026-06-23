@@ -1,6 +1,6 @@
 # Stackexchange
 # Policy: Proxy
-# Total: 18 rules
+# Total: 19 rules
 #
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,blogoverflow.com
@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,stacksnippets.net
 DOMAIN-SUFFIX,superuser.com
 DOMAIN-SUFFIX,tex-talk.net
 DOMAIN-SUFFIX,thesffblog.com
+DOMAIN-SUFFIX,stackoverflow.com

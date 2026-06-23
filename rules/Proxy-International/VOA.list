@@ -1,6 +1,6 @@
 # VOA
 # Policy: Proxy
-# Total: 50 rules
+# Total: 51 rules
 #
 DOMAIN-SUFFIX,amerikaninsesi.com
 DOMAIN-SUFFIX,amerikaninsesi.org
@@ -52,3 +52,4 @@ DOMAIN-SUFFIX,voatiengviet.com
 DOMAIN-SUFFIX,voatour.com
 DOMAIN-SUFFIX,voazimbabwe.com
 DOMAIN-SUFFIX,zeriamerikes.com
+DOMAIN-SUFFIX,blog.com

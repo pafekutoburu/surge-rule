@@ -1,5 +1,7 @@
 # XiamiMusic
 # Policy: DIRECT
-# Total: 1 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,xiami.fm
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.net

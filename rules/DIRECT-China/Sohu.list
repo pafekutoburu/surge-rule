@@ -1,6 +1,6 @@
 # Sohu
 # Policy: DIRECT
-# Total: 48 rules
+# Total: 49 rules
 #
 DOMAIN-SUFFIX,acoloo.com
 DOMAIN-SUFFIX,baokang.com
@@ -50,3 +50,4 @@ DOMAIN-SUFFIX,xinyan.cn
 DOMAIN-SUFFIX,yeyousg.com
 DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
+DOMAIN-SUFFIX,sohu.com

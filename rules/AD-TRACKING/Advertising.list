@@ -1,6 +1,6 @@
 # Advertising
 # Policy: REJECT-TINYGIF
-# Total: 762 rules
+# Total: 763 rules
 #
 AND,((USER-AGENT
 DOMAIN-KEYWORD,-logging.nextmedia.com
@@ -764,3 +764,4 @@ URL-REGEX,^https?:\/\/goblin\.hupu\.com/[^/]+/[^/]+\/interfaceAd\/
 URL-REGEX,^https?:\/\/sa\d\.tuisong\.baidu\.com
 URL-REGEX,^https?:\/\/sax\w?\.sina\.com\.cn
 URL-REGEX,^https?:\/\/update\.pan\.baidu\.com\/statistics
+DOMAIN-SUFFIX,crashlytics.com

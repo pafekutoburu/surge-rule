@@ -1,6 +1,6 @@
 # CBS
 # Policy: Proxy
-# Total: 37 rules
+# Total: 38 rules
 #
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
@@ -39,3 +39,4 @@ DOMAIN-SUFFIX,viacomcbspressexpress.com
 PROCESS-NAME,com.cbs.app
 PROCESS-NAME,com.showtime.standalone
 USER-AGENT,PPlus*
+DOMAIN-SUFFIX,sstatic.net

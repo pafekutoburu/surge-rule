@@ -1,6 +1,6 @@
 # Gigabyte
 # Policy: Proxy
-# Total: 7 rules
+# Total: 8 rules
 #
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aoruszone.cn
@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,gigabyte.com
 DOMAIN-SUFFIX,gigabyte2.azureedge.net
 DOMAIN-SUFFIX,sa78gs.wpc.edgecastcdn.net
 DOMAIN-SUFFIX,sni1dcb6gl.wpc.edgecastcdn.net
+DOMAIN-SUFFIX,edgecastcdn.net

@@ -1,6 +1,6 @@
 # Google
 # Policy: Proxy
-# Total: 655 rules
+# Total: 679 rules
 #
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
@@ -654,6 +654,30 @@ USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*
 DOMAIN,imap.gmail.com
 DOMAIN,smtp.gmail.com
-DOMAIN,oauth2.googleapis.com
-DOMAIN,www.googleapis.com
 DOMAIN,mail.google.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogspot.hk
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gstatic.com
+IP-CIDR,120.232.181.162/32,no-resolve
+IP-CIDR,120.241.147.226/32,no-resolve
+IP-CIDR,120.253.253.226/32,no-resolve
+IP-CIDR,120.253.255.162/32,no-resolve
+IP-CIDR,120.253.255.34/32,no-resolve
+IP-CIDR,120.253.255.98/32,no-resolve
+IP-CIDR,180.163.150.162/32,no-resolve
+IP-CIDR,180.163.150.34/32,no-resolve
+IP-CIDR,180.163.151.162/32,no-resolve
+IP-CIDR,180.163.151.34/32,no-resolve
+IP-CIDR,203.208.39.0/24,no-resolve
+IP-CIDR,203.208.40.0/24,no-resolve
+IP-CIDR,203.208.41.0/24,no-resolve
+IP-CIDR,203.208.43.0/24,no-resolve
+IP-CIDR,203.208.50.0/24,no-resolve
+IP-CIDR,220.181.174.162/32,no-resolve
+IP-CIDR,220.181.174.226/32,no-resolve
+IP-CIDR,220.181.174.34/32,no-resolve

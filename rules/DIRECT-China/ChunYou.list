@@ -1,6 +1,6 @@
 # ChunYou
 # Policy: DIRECT
-# Total: 38 rules
+# Total: 39 rules
 #
 DOMAIN-SUFFIX,3304399.com
 DOMAIN-SUFFIX,3304399.net
@@ -40,3 +40,4 @@ DOMAIN-SUFFIX,we4399.com
 DOMAIN-SUFFIX,webgame163.com
 DOMAIN-SUFFIX,youba.com
 DOMAIN-SUFFIX,yxhhdl.com
+DOMAIN-SUFFIX,le.com

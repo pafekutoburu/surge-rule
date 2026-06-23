@@ -1,6 +1,6 @@
 # Oracle
 # Policy: Proxy
-# Total: 19 rules
+# Total: 20 rules
 #
 DOMAIN-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,addthis.com.edgekey.net
@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,responsys.net
 DOMAIN-SUFFIX,sun.com
+DOMAIN-SUFFIX,img.ly

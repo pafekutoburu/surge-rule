@@ -1,6 +1,6 @@
 # Entrust
 # Policy: Proxy
-# Total: 6 rules
+# Total: 7 rules
 #
 DOMAIN-SUFFIX,affirmtrust.com
 DOMAIN-SUFFIX,atos.net
@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,certificat2.com
 DOMAIN-SUFFIX,entrustdatacard.com
 DOMAIN-SUFFIX,myatos.net
 DOMAIN-SUFFIX,trendmicro.com
+DOMAIN-SUFFIX,entrust.net

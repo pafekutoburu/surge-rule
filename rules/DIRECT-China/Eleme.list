@@ -1,6 +1,6 @@
 # Eleme
 # Policy: DIRECT
-# Total: 12 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,ele.to
 DOMAIN-SUFFIX,eleme.cn
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,fengniaozhongbao.cn
 DOMAIN-SUFFIX,xingxuanwaimai.com
 DOMAIN-SUFFIX,xyzele.com
 DOMAIN-SUFFIX,youcaishop.cn
+DOMAIN-SUFFIX,ele.me

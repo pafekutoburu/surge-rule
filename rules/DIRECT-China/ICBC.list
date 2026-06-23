@@ -1,6 +1,6 @@
 # ICBC
 # Policy: DIRECT
-# Total: 57 rules
+# Total: 58 rules
 #
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
@@ -59,3 +59,4 @@ DOMAIN-SUFFIX,icbcswiss.com
 DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
+DOMAIN-SUFFIX,cnet.com

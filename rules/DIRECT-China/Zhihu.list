@@ -1,7 +1,9 @@
 # Zhihu
 # Policy: DIRECT
-# Total: 3 rules
+# Total: 5 rules
 #
 IP-CIDR,103.41.167.226/32
 IP-CIDR,103.41.167.234/31
 IP-CIDR,103.41.167.236/32
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com

@@ -1,6 +1,6 @@
 # 360
 # Policy: DIRECT
-# Total: 255 rules
+# Total: 258 rules
 #
 DOMAIN-SUFFIX,0360.cn
 DOMAIN-SUFFIX,1360.cn
@@ -257,3 +257,6 @@ DOMAIN-SUFFIX,your360loans.com
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,yunpan.com
 DOMAIN-SUFFIX,yunpan.com.cn
+DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,qihucdn.com

@@ -1,6 +1,6 @@
 # YYeTs
 # Policy: DIRECT
-# Total: 14 rules
+# Total: 15 rules
 #
 DOMAIN-SUFFIX,got001.com
 DOMAIN-SUFFIX,got002.com
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,zmz001.com
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,zmz003.com
 DOMAIN-SUFFIX,zmz004.com
+DOMAIN-SUFFIX,zimuzu.tv

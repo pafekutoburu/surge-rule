@@ -1,6 +1,6 @@
 # Kingsoft
 # Policy: DIRECT
-# Total: 254 rules
+# Total: 256 rules
 #
 DOMAIN-SUFFIX,35go.cn
 DOMAIN-SUFFIX,35go.net
@@ -256,3 +256,5 @@ DOMAIN-SUFFIX,zhishifanli.com
 DOMAIN-SUFFIX,zhishifanli.com.cn
 DOMAIN-SUFFIX,zj8t5.com
 DOMAIN-SUFFIX,znstartups.com
+DOMAIN-SUFFIX,fir.im
+DOMAIN-SUFFIX,iciba.com

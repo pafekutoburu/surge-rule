@@ -1,6 +1,6 @@
 # Baidu
 # Policy: DIRECT
-# Total: 249 rules
+# Total: 251 rules
 #
 DOMAIN-SUFFIX,17swan.com
 DOMAIN-SUFFIX,37swan.com
@@ -251,3 +251,5 @@ DOMAIN-SUFFIX,yunjiasussl.com
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com

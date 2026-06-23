@@ -1,6 +1,6 @@
 # Sina
 # Policy: DIRECT
-# Total: 102 rules
+# Total: 104 rules
 #
 DOMAIN-SUFFIX,001wifi.com
 DOMAIN-SUFFIX,1kapp.com
@@ -104,3 +104,5 @@ DOMAIN-SUFFIX,weipan.cn
 DOMAIN-SUFFIX,weipan.com.cn
 DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,yangfan.org.cn
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,weibo.com

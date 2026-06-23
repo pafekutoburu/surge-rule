@@ -1,6 +1,6 @@
 # AppleDaily
 # Policy: Proxy
-# Total: 30 rules
+# Total: 32 rules
 #
 DOMAIN-SUFFIX,appledaily.com.hk
 DOMAIN-SUFFIX,appledaily.com.tw
@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,privilege.tw
 DOMAIN-SUFFIX,sharpdaily.tw
 DOMAIN-SUFFIX,tomonews.net
 DOMAIN-SUFFIX,twnextdigital.com
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,nextmedia.com

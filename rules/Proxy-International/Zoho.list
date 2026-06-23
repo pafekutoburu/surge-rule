@@ -1,6 +1,6 @@
 # Zoho
 # Policy: Proxy
-# Total: 12 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,zoho.com.au
 DOMAIN-SUFFIX,zoho.eu
@@ -14,3 +14,4 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohostatic.in
 DOMAIN-SUFFIX,zohouniversity.com
 DOMAIN-SUFFIX,zohowebstatic.com
+DOMAIN-SUFFIX,zoho.com

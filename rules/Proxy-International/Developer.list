@@ -1,6 +1,6 @@
 # Developer
 # Policy: Proxy
-# Total: 25 rules
+# Total: 26 rules
 #
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,debian.com
@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,git.io

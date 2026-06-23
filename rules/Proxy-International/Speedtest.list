@@ -1,9 +1,10 @@
 # Speedtest
 # Policy: Proxy
-# Total: 5 rules
+# Total: 6 rules
 #
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
 USER-AGENT,SpeedTest*
+DOMAIN-SUFFIX,speedtest.net

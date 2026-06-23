@@ -1,5 +1,6 @@
 # Imgur
 # Policy: Proxy
-# Total: 1 rules
+# Total: 2 rules
 #
 DOMAIN-SUFFIX,imgurinc.com
+DOMAIN-SUFFIX,imgur.com

@@ -1,7 +1,8 @@
 # Apkpure
 # Policy: DIRECT
-# Total: 3 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
+DOMAIN-SUFFIX,apkpure.com

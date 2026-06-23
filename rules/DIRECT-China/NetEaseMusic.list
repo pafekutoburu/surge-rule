@@ -1,6 +1,6 @@
 # NetEaseMusic
 # Policy: DIRECT
-# Total: 7 rules
+# Total: 12 rules
 #
 DOMAIN-SUFFIX,api.iplay.163.com
 DOMAIN-SUFFIX,hz.netease.com
@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
 IP-CIDR,115.236.112.0/20
 IP-CIDR,59.111.128.0/17
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,netease.com

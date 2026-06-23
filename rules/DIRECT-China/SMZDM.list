@@ -1,6 +1,6 @@
 # SMZDM
 # Policy: DIRECT
-# Total: 8 rules
+# Total: 9 rules
 #
 DOMAIN-SUFFIX,faxianpindao.com
 DOMAIN-SUFFIX,quaolai.com
@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,wanwuzhinan.com
 DOMAIN-SUFFIX,zdm.net
 DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,zhidemai.com
+DOMAIN-SUFFIX,smzdm.com

@@ -1,6 +1,6 @@
 # Cloud/AmazonCloud
 # Policy: Proxy
-# Total: 1762 rules
+# Total: 1763 rules
 #
 IP-CIDR,104.255.57.0/24
 IP-CIDR,104.255.58.0/23
@@ -1764,3 +1764,4 @@ IP-CIDR6,2a05:d050:c0c0::/44
 IP-CIDR6,2a05:d050:e040::/44
 IP-CIDR6,2a05:d050:e080::/44
 IP-CIDR6,2a05:d050:e0c0::/44
+DOMAIN-SUFFIX,cloudfront.net

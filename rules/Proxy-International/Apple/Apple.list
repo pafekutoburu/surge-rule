@@ -1,6 +1,6 @@
 # Apple
 # Policy: Proxy
-# Total: 53 rules
+# Total: 79 rules
 #
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
@@ -55,3 +55,29 @@ USER-AGENT,fmflocatord*
 USER-AGENT,geod*
 USER-AGENT,locationd*
 USER-AGENT,passd*
+USER-AGENT,com.apple.appstored*
+USER-AGENT,AppStore*
+USER-AGENT,cloudd*
+USER-AGENT,*com.apple.WebKit*
+USER-AGENT,*com.apple.*
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn20.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,mwcname.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN,developer.apple.com
+USER-AGENT,com.apple.trustd*
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN,testflight.apple.com
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com,extended-matching
+DOMAIN-SUFFIX,music.apple.com,extended-matching
+DOMAIN,xp.apple.com,extended-matching
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN,cvws.icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,name.com
+DOMAIN-SUFFIX,time.com

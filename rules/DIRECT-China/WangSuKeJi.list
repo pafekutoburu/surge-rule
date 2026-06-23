@@ -1,6 +1,6 @@
 # WangSuKeJi
 # Policy: DIRECT
-# Total: 186 rules
+# Total: 187 rules
 #
 DOMAIN-SUFFIX,51cdn.com
 DOMAIN-SUFFIX,8686c.com
@@ -188,3 +188,4 @@ DOMAIN-SUFFIX,wswebpic.info
 DOMAIN-SUFFIX,wswebpic.org
 DOMAIN-SUFFIX,wtxcdn.com
 DOMAIN-SUFFIX,xs3cnc.com
+DOMAIN-SUFFIX,clouddn.com

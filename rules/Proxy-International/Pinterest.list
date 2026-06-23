@@ -1,6 +1,6 @@
 # Pinterest
 # Policy: Proxy
-# Total: 22 rules
+# Total: 23 rules
 #
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.at
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,pinterest.ph
 DOMAIN-SUFFIX,pinterest.pt
 DOMAIN-SUFFIX,pinterest.ru
 DOMAIN-SUFFIX,pinterest.se
+DOMAIN-SUFFIX,pinterest.com

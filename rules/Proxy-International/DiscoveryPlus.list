@@ -1,6 +1,6 @@
 # DiscoveryPlus
 # Policy: Proxy
-# Total: 16 rules
+# Total: 17 rules
 #
 DOMAIN,discovery-us.conax.cloud
 DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,uplynk.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
+DOMAIN-SUFFIX,ift.tt

@@ -1,6 +1,6 @@
 # Himalaya
 # Policy: DIRECT
-# Total: 15 rules
+# Total: 16 rules
 #
 DOMAIN-SUFFIX,9nali.com
 DOMAIN-SUFFIX,conchdate.com
@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,zhishif.com
 DOMAIN-SUFFIX,zhishinn.com
 DOMAIN-SUFFIX,zhishiu.com
 DOMAIN-SUFFIX,zhishiv.com
+DOMAIN-SUFFIX,ximalaya.com

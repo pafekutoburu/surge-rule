@@ -1,9 +1,10 @@
 # Docker
 # Policy: Proxy
-# Total: 5 rules
+# Total: 6 rules
 #
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,docker.com

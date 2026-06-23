@@ -1,6 +1,6 @@
 # QiNiuYun
 # Policy: DIRECT
-# Total: 49 rules
+# Total: 51 rules
 #
 DOMAIN-SUFFIX,atlab.ai
 DOMAIN-SUFFIX,cdnhub.net
@@ -51,3 +51,5 @@ DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qnydns.com
 DOMAIN-SUFFIX,qnydns.net
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniucdn.com

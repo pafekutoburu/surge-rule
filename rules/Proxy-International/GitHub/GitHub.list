@@ -1,6 +1,6 @@
 # GitHub
 # Policy: Proxy
-# Total: 28 rules
+# Total: 29 rules
 #
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
+IP-CIDR,185.199.108.133/32,no-resolve  //GitHub 的美国加州服务器

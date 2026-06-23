@@ -1,6 +1,6 @@
 # PrivateTracker
 # Policy: Proxy
-# Total: 158 rules
+# Total: 159 rules
 #
 DOMAIN,004430.xyz
 DOMAIN,021912.xyz
@@ -160,3 +160,4 @@ DOMAIN-SUFFIX,xauat6.edu.cn
 IP-CIDR,207.241.226.111/32
 IP-CIDR,207.241.231.226/32
 IP-CIDR,52.58.128.163/32
+DOMAIN-SUFFIX,archive.org

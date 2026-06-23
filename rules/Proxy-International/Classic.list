@@ -1,8 +1,9 @@
 # Classic
 # Policy: Proxy
-# Total: 4 rules
+# Total: 5 rules
 #
 DOMAIN,asia.battle.net
 DOMAIN,europe.battle.net
 DOMAIN,useast.battle.net
 DOMAIN,uswest.battle.net
+DOMAIN-SUFFIX,att.com

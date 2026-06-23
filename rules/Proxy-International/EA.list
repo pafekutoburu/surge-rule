@@ -1,6 +1,6 @@
 # EA
 # Policy: Proxy
-# Total: 165 rules
+# Total: 166 rules
 #
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,originasserts.akamaized.net
@@ -167,3 +167,4 @@ DOMAIN-SUFFIX,uoherald.com
 DOMAIN-SUFFIX,visceralgames.com
 DOMAIN-SUFFIX,xdsummit.com
 DOMAIN-SUFFIX,yogify.com
+DOMAIN-SUFFIX,ball.stream

@@ -1,6 +1,6 @@
 # AmazonCN
 # Policy: Proxy
-# Total: 17 rules
+# Total: 18 rules
 #
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,nwcddns.cn
 DOMAIN-SUFFIX,nwcdinfosec.cn
 DOMAIN-SUFFIX,route53.cn
 DOMAIN-SUFFIX,sagemaker.com.cn
+DOMAIN-SUFFIX,awsstatic.com

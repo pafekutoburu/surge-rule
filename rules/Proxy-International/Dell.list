@@ -1,6 +1,6 @@
 # Dell
 # Policy: Proxy
-# Total: 118 rules
+# Total: 119 rules
 #
 DOMAIN-SUFFIX,air-watch.com
 DOMAIN-SUFFIX,airwatchexpress.com
@@ -120,3 +120,4 @@ DOMAIN-SUFFIX,windowsuem.com
 DOMAIN-SUFFIX,workspaceair.com
 DOMAIN-SUFFIX,workspaceone.com
 DOMAIN-SUFFIX,xlstudio.com
+DOMAIN-SUFFIX,fabric.io

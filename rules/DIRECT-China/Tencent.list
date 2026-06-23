@@ -1,6 +1,6 @@
 # Tencent
 # Policy: DIRECT
-# Total: 19 rules
+# Total: 23 rules
 #
 IP-CIDR,101.32.104.4/32
 IP-CIDR,101.32.104.41/32
@@ -21,3 +21,7 @@ IP-CIDR,150.138.137.0/32
 IP-CIDR,150.139.143.0/32
 IP-CIDR,27.159.95.0/32
 IP-CIDR,58.58.81.129/32
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN,safebrowsing.urlsec.qq.com

@@ -1,8 +1,9 @@
 # Comodo
 # Policy: Proxy
-# Total: 4 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodoca2.com
 DOMAIN-SUFFIX,comodoca3.com
 DOMAIN-SUFFIX,comodoca4.com
+DOMAIN-SUFFIX,comodoca.com

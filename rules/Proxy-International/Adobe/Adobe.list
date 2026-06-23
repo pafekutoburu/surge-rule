@@ -1,6 +1,6 @@
 # Adobe
 # Policy: Proxy
-# Total: 123 rules
+# Total: 125 rules
 #
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN-KEYWORD,adobe
@@ -125,3 +125,5 @@ DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,votolia.com
 DOMAIN-SUFFIX,worldsecureemail.com
 DOMAIN-SUFFIX,worldsecuresystems.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,typekit.net

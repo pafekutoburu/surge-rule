@@ -1,6 +1,6 @@
 # Discord
 # Policy: Proxy
-# Total: 29 rules
+# Total: 30 rules
 #
 DOMAIN-SUFFIX,airhorn.solutions
 DOMAIN-SUFFIX,airhornbot.com
@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
 DOMAIN-SUFFIX,watchanimeattheoffice.com
+DOMAIN-SUFFIX,services.googleapis.cn
