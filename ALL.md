@@ -36,6 +36,7 @@
 | JiGuangTuiSong | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/JiGuangTuiSong.list` | 18 |
 | Privacy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Privacy.list` | 1 |
 | Pubmatic | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Pubmatic.list` | 1 |
+| PrivateTracker | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/PrivateTracker.list` | 159 |
 | ZhihuAds | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/ZhihuAds.list` | 11 |
 
 ## DIRECT
@@ -114,7 +115,6 @@
 | CNNIC | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/CNNIC.list` | 33 |
 | Coolapk | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/Coolapk.list` | 3 |
 | CSDN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/CSDN.list` | 23 |
-| Custom-DIRECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/Custom-DIRECT.list` | 57 |
 | DaMai | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/DaMai.list` | 11 |
 | Dandanplay | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/Dandanplay.list` | 3 |
 | DanDanZan | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/DanDanZan.list` | 7 |
@@ -641,7 +641,6 @@
 | Lan | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Lan.list` | 140 |
 | Mail | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Mail.list` | 15 |
 | NTPService | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/NTPService.list` | 82 |
-| PrivateTracker | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/PrivateTracker.list` | 159 |
 | ProxyLite | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/ProxyLite.list` | 472 |
 | STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/STUN.list` | 366 |
 | SystemOTA | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/SystemOTA.list` | 76 |
