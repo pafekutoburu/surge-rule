@@ -58,3 +58,18 @@ surge-rules/
 hermes cron create --schedule "0 10 * * *" \
   --prompt "下载最新 blackmatrix7 规则, 合并去重, 更新 ~/Desktop/surge-rules"
 \`\`\`
+
+## 目录结构
+
+```
+surge-rules/
+├── surge.conf                  主配置文件
+├── .github/workflows/          Actions 自动刷新
+├── scripts/
+└── rules/
+    ├── AI/                     4 个规则集 (AI-Domains, Copilot, Gemini, OpenAI)
+    ├── AD-TRACKING/            19 个规则集 (广告/追踪/隐私拦截)
+    ├── DIRECT-IP/              11 个规则集 (中国 IP/ASN 基础规则)
+    ├── DIRECT-China/           243 个规则集 (中国大陆服务商)
+    └── Proxy-International/    338 个规则集 (国际服务代理)
+```
