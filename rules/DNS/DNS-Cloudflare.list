@@ -1,0 +1,5 @@
+# DNS-Cloudflare
+# Policy: Proxy
+# Total: 1 rules
+#
+IP-CIDR,1.1.1.1/32

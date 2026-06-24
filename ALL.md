@@ -32,7 +32,6 @@
 | AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 1 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 26 |
 | Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 27 |
-| DNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/DNS.list` | 118 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 26 |
 | DtDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/DtDNS.list` | 17 |
 | DynDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/DynDNS.list` | 8 |
@@ -51,6 +50,16 @@
 | 规则集 | 规则集链接 | 规则数 |
 |--------|-----------|--------|
 | STUN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/STUN/STUN.list` | 366 |
+
+
+## DNS
+
+| 规则集 | 规则集链接 | 规则数 |
+|--------|-----------|--------|
+| DNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DNS/DNS.list` | 117 |
+| DNS-Cloudflare | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DNS/DNS-Cloudflare.list` | 1 |
+| ZDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DNS/ZDNS.list` | 12 |
+| ChinaDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DNS/ChinaDNS.list` | 4 |
 
 ## DIRECT
 
@@ -285,7 +294,6 @@
 | YouZan | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/YouZan.list` | 3 |
 | YuanFuDao | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/YuanFuDao.list` | 87 |
 | YunFanJiaSu | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/YunFanJiaSu.list` | 32 |
-| ZDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZDNS.list` | 12 |
 | ZhangYue | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZhangYue.list` | 26 |
 | ZhiYinManKe | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZhiYinManKe.list` | 17 |
 | ZhiYunZhong | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT/ZhiYunZhong.list` | 8 |
@@ -304,7 +312,6 @@
 | 规则集 | 规则集链接 | 规则数 |
 |--------|-----------|--------|
 | ChinaASN | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT-Fallback/ChinaASN.list` | 1009 |
-| ChinaDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT-Fallback/ChinaDNS.list` | 4 |
 | ChinaIPs | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT-Fallback/ChinaIPs.list` | 22747 |
 | ChinaIPsBGP | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT-Fallback/ChinaIPsBGP.list` | 26 |
 | ChinaMax | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/DIRECT-Fallback/ChinaMax.list` | 1203 |
