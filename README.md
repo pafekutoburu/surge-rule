@@ -2,16 +2,16 @@
 
 | 分类 | 文件数 | 规则数 |
 |------|--------|--------|
-| AI | 2 | 182 |
-| Mail | 1 | 86 |
-| AD-Blocked | 22 | 187877 |
-| STUN | 1 | 366 |
+| AI | 2 | 178 |
+| Mail | 1 | 83 |
+| AD-Blocked | 23 | 188080 |
+| STUN | 1 | 365 |
 | DNS | 4 | 134 |
-| DIRECT | 241 | 8545 |
-| DIRECT-Fallback | 10 | 25598 |
-| Proxy | 306 | 14920 |
-| Proxy-Fallback | 17 | 3924 |
-| **总计** | **604** | **241632** |
+| DIRECT | 241 | 8364 |
+| DIRECT-Fallback | 10 | 25585 |
+| Proxy | 306 | 14493 |
+| Proxy-Fallback | 17 | 3907 |
+| **总计** | **605** | **241189** |
 
 > 规则集由 [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) 上游规则分发整理，
 > AD 拦截合并 [HaGeZi's Multi PRO mini](https://github.com/hagezi/dns-blocklists)，
