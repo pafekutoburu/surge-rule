@@ -1,5 +1,5 @@
 # DtDNS
-# Policy: Proxy
+# Policy: REJECT
 # Total: 17 rules
 #
 DOMAIN-SUFFIX,3d-game.com

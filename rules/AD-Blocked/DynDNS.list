@@ -1,5 +1,5 @@
 # DynDNS
-# Policy: Proxy
+# Policy: REJECT
 # Total: 8 rules
 #
 DOMAIN-SUFFIX,blogdns.org

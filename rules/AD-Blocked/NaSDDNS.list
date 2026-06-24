@@ -1,5 +1,5 @@
 # NaSDDNS
-# Policy: Proxy
+# Policy: REJECT
 # Total: 45 rules
 #
 DOMAIN-KEYWORD,qcloud
