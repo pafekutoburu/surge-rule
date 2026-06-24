@@ -1,0 +1,120 @@
+# Mail-Proxy
+# Policy: Proxy
+
+# Gmail
+DOMAIN-KEYWORD,gmail
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,googlemail.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,pop.gmail.com
+DOMAIN,mail.google.com
+DOMAIN-SUFFIX,mail-attachment.googleusercontent.com
+
+# Outlook / Hotmail
+DOMAIN-SUFFIX,hotmail.org
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,hotmail.co
+DOMAIN-SUFFIX,hotmail.eu
+DOMAIN-SUFFIX,hotmail.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,pop-mail.outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp.office365.com
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,outlook.live.com
+DOMAIN-SUFFIX,outlookgroups.ms
+DOMAIN-SUFFIX,outlookmobile.com
+DOMAIN,attachment.outlook.live.net
+DOMAIN-SUFFIX,mail.protection.outlook.com
+DOMAIN-SUFFIX,outlook.cloud.microsoft
+
+# Yahoo Mail
+DOMAIN,apple.imap.mail.yahoo.com
+DOMAIN,apple.smtp.mail.yahoo.com
+DOMAIN-SUFFIX,mail.yahoo.com
+DOMAIN,imap.mail.yahoo.com
+DOMAIN,smtp.mail.yahoo.com
+DOMAIN,pop.mail.yahoo.com
+
+# iCloud Mail
+DOMAIN-SUFFIX,mail.icloud.com
+DOMAIN-SUFFIX,mail.icloud.com.cn
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN,imap.mail.me.com
+DOMAIN,smtp.mail.me.com
+
+# ProtonMail
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,mail.proton.me
+DOMAIN-SUFFIX,mail-api.proton.me
+DOMAIN-SUFFIX,attachment.proton.me
+
+# Yandex Mail
+DOMAIN-SUFFIX,imap.yandex.com
+DOMAIN-SUFFIX,smtp.yandex.com
+DOMAIN-SUFFIX,mail.yandex.com
+DOMAIN,pop.yandex.com
+DOMAIN,attachment.yandex.com
+
+# Mail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,e.mail.ru
+DOMAIN,imap.mail.ru
+DOMAIN,smtp.mail.ru
+DOMAIN,pop.mail.ru
+DOMAIN-SUFFIX,1l-hit.mail.ru
+DOMAIN-SUFFIX,rs.mail.ru
+DOMAIN-SUFFIX,top-fwz1.mail.ru
+DOMAIN-SUFFIX,top-staging.mail.ru
+DOMAIN-SUFFIX,xray.mail.ru
+
+# Fastmail
+DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,mail.fastmail.com
+DOMAIN,imap.fastmail.com
+DOMAIN,smtp.fastmail.com
+DOMAIN,pop.fastmail.com
+DOMAIN-SUFFIX,messagingengine.com
+
+# Tutanota
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,mail.tuta.com
+DOMAIN-SUFFIX,app.tuta.com
+
+# GMX
+DOMAIN-SUFFIX,gmx.com
+DOMAIN-SUFFIX,gmx.net
+DOMAIN-SUFFIX,mail.gmx.com
+DOMAIN,imap.gmx.com
+DOMAIN,smtp.gmx.com
+DOMAIN,pop.gmx.com
+
+# Zoho Mail
+DOMAIN-SUFFIX,mail.zoho.com
+DOMAIN,imap.zoho.com
+DOMAIN,smtp.zoho.com
+DOMAIN,pop.zoho.com
+DOMAIN-SUFFIX,zohocorp.com
+
+# AOL Mail
+DOMAIN-SUFFIX,mail.aol.com
+
+# Runbox
+DOMAIN-SUFFIX,runbox.com
+
+# Posteo
+DOMAIN-SUFFIX,posteo.de
+
+# StartMail
+DOMAIN-SUFFIX,startmail.com
+
+# Hushmail
+DOMAIN-SUFFIX,hushmail.com

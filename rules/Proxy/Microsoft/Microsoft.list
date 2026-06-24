@@ -1,6 +1,6 @@
 # Microsoft
 # Policy: Proxy
-# Total: 634 rules
+# Total: 626 rules
 #
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.com
@@ -187,10 +187,6 @@ DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,heremaps.cn
 DOMAIN-SUFFIX,hololens.com
 DOMAIN-SUFFIX,hotmail
-DOMAIN-SUFFIX,hotmail.co
-DOMAIN-SUFFIX,hotmail.eu
-DOMAIN-SUFFIX,hotmail.net
-DOMAIN-SUFFIX,hotmail.org
 DOMAIN-SUFFIX,hummingbird.ms
 DOMAIN-SUFFIX,ie10.com
 DOMAIN-SUFFIX,ie11.com
@@ -469,8 +465,6 @@ DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,osdinfra.net
 DOMAIN-SUFFIX,outingsapp.com
 DOMAIN-SUFFIX,outlook.cn
-DOMAIN-SUFFIX,outlookgroups.ms
-DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,ovi.com.cn
 DOMAIN-SUFFIX,passport.net
 DOMAIN-SUFFIX,pbiwebcontent.cn
@@ -600,12 +594,10 @@ DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net

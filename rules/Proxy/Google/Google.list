@@ -1,6 +1,6 @@
 # Google
 # Policy: Proxy
-# Total: 719 rules
+# Total: 713 rules
 #
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
@@ -208,7 +208,6 @@ DOMAIN-SUFFIX,ggoogle.com
 DOMAIN-SUFFIX,gipscorp.com
 DOMAIN-SUFFIX,gkecnapps.cn
 DOMAIN-SUFFIX,globaledu.org
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,go-lang.com
 DOMAIN-SUFFIX,go-lang.net
 DOMAIN-SUFFIX,go-lang.org
@@ -445,7 +444,6 @@ DOMAIN-SUFFIX,googlefiber.com
 DOMAIN-SUFFIX,googlefiber.net
 DOMAIN-SUFFIX,googlefinland.com
 DOMAIN-SUFFIX,googleflights-cn.net
-DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googlemaps.com
 DOMAIN-SUFFIX,googlemashups.com
 DOMAIN-SUFFIX,googlepagecreator.com
@@ -652,9 +650,6 @@ PROCESS-NAME,com.google.android.play.games
 USER-AGENT,云端硬盘*
 USER-AGENT,*com.google.Drive*
 USER-AGENT,Google.Drive*
-DOMAIN,imap.gmail.com
-DOMAIN,smtp.gmail.com
-DOMAIN,mail.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,appspot.com
@@ -718,6 +713,5 @@ DOMAIN,dl.l.google.com
 DOMAIN,mtalk.google.com
 DOMAIN,update.googleapis.com
 DOMAIN-SUFFIX,blog.google
-DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 IP-CIDR,203.208.40.0/23

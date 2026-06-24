@@ -1,6 +1,6 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 472 rules
+# Total: 470 rules
 #
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -113,7 +113,6 @@ DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,encyclopedia.com
 DOMAIN-SUFFIX,extmatrix.com
 DOMAIN-SUFFIX,eyny.com
-DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,flipkart.com
@@ -356,7 +355,6 @@ DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,turbobit.net
-DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,twitpic.com
