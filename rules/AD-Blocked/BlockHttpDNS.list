@@ -1,14 +1,9 @@
 # BlockHttpDNS
 # Policy: REJECT
-# Total: 26 rules
+# Total: 21 rules
 #
-DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.calorietech.com
-DOMAIN,httpdns.push.oppomobile.com
-DOMAIN,httpdns.volcengineapi.com
-DOMAIN,httpdns.yunxindns.com
 DOMAIN-SUFFIX,httpdns.baidubce.com
-DOMAIN-SUFFIX,httpdns.pro
 IP-CIDR,101.91.140.124/32
 IP-CIDR,101.91.140.224/32
 IP-CIDR,112.64.218.119/32

@@ -1,6 +1,6 @@
 # Hijacking
 # Policy: REJECT
-# Total: 189 rules
+# Total: 181 rules
 #
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,7gg.cc
 DOMAIN-SUFFIX,91veg.com
 DOMAIN-SUFFIX,9s6q.cn
 DOMAIN-SUFFIX,abbyychina.com
-DOMAIN-SUFFIX,adsame.com
 DOMAIN-SUFFIX,akuai.top
 DOMAIN-SUFFIX,alienskins.cn
 DOMAIN-SUFFIX,anydeskchina.cn
@@ -34,7 +33,6 @@ DOMAIN-SUFFIX,benshiw.net
 DOMAIN-SUFFIX,betterzip.net
 DOMAIN-SUFFIX,betterzipcn.com
 DOMAIN-SUFFIX,beyondcompare.cc
-DOMAIN-SUFFIX,bianxianmao.com
 DOMAIN-SUFFIX,bingdianhuanyuan.cn
 DOMAIN-SUFFIX,bkyhq.cn
 DOMAIN-SUFFIX,bryonypie.com
@@ -62,7 +60,6 @@ DOMAIN-SUFFIX,fan-yong.com
 DOMAIN-SUFFIX,feih.com.cn
 DOMAIN-SUFFIX,fjlqqc.com
 DOMAIN-SUFFIX,fkku194.com
-DOMAIN-SUFFIX,flash.cn
 DOMAIN-SUFFIX,flstudiochina.com
 DOMAIN-SUFFIX,folxchina.cn
 DOMAIN-SUFFIX,formysql.com
@@ -76,7 +73,6 @@ DOMAIN-SUFFIX,guitarpro.cc
 DOMAIN-SUFFIX,gzxnlk.com
 DOMAIN-SUFFIX,haoshengtoys.com
 DOMAIN-SUFFIX,hbssjd.cn
-DOMAIN-SUFFIX,huishenghuiying.com.cn
 DOMAIN-SUFFIX,hypeapp.cn
 DOMAIN-SUFFIX,hypersnap.net
 DOMAIN-SUFFIX,hyunke.com
@@ -109,7 +105,6 @@ DOMAIN-SUFFIX,mairuan.com
 DOMAIN-SUFFIX,mairuan.com.cn
 DOMAIN-SUFFIX,mairuan.net
 DOMAIN-SUFFIX,mairuanwang.com
-DOMAIN-SUFFIX,makeding.com
 DOMAIN-SUFFIX,mathtype.cn
 DOMAIN-SUFFIX,mindmanager.cc
 DOMAIN-SUFFIX,mindmanager.cn
@@ -153,12 +148,9 @@ DOMAIN-SUFFIX,smgru.net
 DOMAIN-SUFFIX,taoggou.com
 DOMAIN-SUFFIX,tcxshop.com
 DOMAIN-SUFFIX,tjqonline.cn
-DOMAIN-SUFFIX,topitme.com
 DOMAIN-SUFFIX,tt114.net
 DOMAIN-SUFFIX,tt3sm4.cn
-DOMAIN-SUFFIX,tuia.cn
 DOMAIN-SUFFIX,tuipenguin.com
-DOMAIN-SUFFIX,tuitiger.com
 DOMAIN-SUFFIX,ultraiso.net
 DOMAIN-SUFFIX,urlaw.cn
 DOMAIN-SUFFIX,urlet.cn

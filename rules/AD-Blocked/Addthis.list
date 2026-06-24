@@ -1,7 +1,5 @@
 # Addthis
 # Policy: REJECT
-# Total: 3 rules
+# Total: 1 rules
 #
 DOMAIN-SUFFIX,addthis.com
-DOMAIN-SUFFIX,addthiscdn.com
-DOMAIN-SUFFIX,addthisedge.com

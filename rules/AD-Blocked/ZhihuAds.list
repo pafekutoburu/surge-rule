@@ -1,10 +1,8 @@
 # ZhihuAds
 # Policy: REJECT
-# Total: 11 rules
+# Total: 9 rules
 #
 DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,mqtt.zhihu.com
-DOMAIN,sugar.zhihu.com
 URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/brand\/question\/\d+/card\?
 URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/commercial_api\/launch_v2\?
 URL-REGEX,^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/explore\/entry\/tips

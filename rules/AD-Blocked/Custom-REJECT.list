@@ -1,6 +1,6 @@
 # Custom inline rules - policy: REJECT-TINYGIF
 # Policy: REJECT
-# Total: 27 rules
+# Total: 25 rules
 #
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
@@ -27,5 +27,3 @@ DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,vungle.com

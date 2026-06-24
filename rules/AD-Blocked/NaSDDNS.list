@@ -1,10 +1,9 @@
 # NaSDDNS
 # Policy: REJECT
-# Total: 45 rules
+# Total: 43 rules
 #
 DOMAIN-KEYWORD,qcloud
 DOMAIN-SUFFIX,3322.net
-DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,account.synology.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,api.ipify.org
@@ -15,7 +14,6 @@ DOMAIN-SUFFIX,checkipv6.synology.com
 DOMAIN-SUFFIX,checkport.synology.com
 DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,ddnsfree.com
-DOMAIN-SUFFIX,dns-dns.com
 DOMAIN-SUFFIX,dnsapi.cn
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,elb.amazonaws.com
