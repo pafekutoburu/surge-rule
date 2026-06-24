@@ -1,10 +1,9 @@
 # ChinaMedia
 # Policy: DIRECT
-# Total: 132 rules
+# Total: 129 rules
 #
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
 DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
-DOMAIN,apd-pcdnvodstat.teg.tencent-cloud.net
 DOMAIN,ins-eeww7kom.ias.tencent-cloud.net
 DOMAIN-SUFFIX,0co3geye.cn
 DOMAIN-SUFFIX,1.letvlive.com
@@ -12,7 +11,6 @@ DOMAIN-SUFFIX,2.letvlive.com
 DOMAIN-SUFFIX,2isbbess.cn
 DOMAIN-SUFFIX,33lwhaoinc.cn
 DOMAIN-SUFFIX,52mtkvideo.cn
-DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,71edge.net
@@ -59,7 +57,6 @@ DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,jiangbing.cn
 DOMAIN-SUFFIX,jstucdn.com
-DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,kumiao.tv

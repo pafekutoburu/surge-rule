@@ -1,8 +1,7 @@
 # Dailymail
 # Policy: Proxy
-# Total: 17 rules
+# Total: 16 rules
 #
-DOMAIN-SUFFIX,anm.co.uk
 DOMAIN-SUFFIX,dailym.ai
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymail.com

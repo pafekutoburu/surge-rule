@@ -1,6 +1,6 @@
 # ThomsonReuters
 # Policy: Proxy
-# Total: 44 rules
+# Total: 43 rules
 #
 DOMAIN-SUFFIX,aranzadi.es
 DOMAIN-SUFFIX,corepublishingsolutions.com
@@ -44,5 +44,4 @@ DOMAIN-SUFFIX,spain.thomsonreuters.com
 DOMAIN-SUFFIX,temails.productnotice.thomsonreuters.com
 DOMAIN-SUFFIX,test.thomsonreuters.com
 DOMAIN-SUFFIX,trail.thomsonreuters.ca
-DOMAIN-SUFFIX,trail.thomsonreuters.com
 DOMAIN-SUFFIX,trail.thomsonreuters.in

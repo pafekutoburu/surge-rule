@@ -1,6 +1,6 @@
 # Vercel
 # Policy: Proxy
-# Total: 26 rules
+# Total: 25 rules
 #
 DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,hyper.is
@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,now.sh
 DOMAIN-SUFFIX,static.fun
 DOMAIN-SUFFIX,title.sh
 DOMAIN-SUFFIX,turborepo.org
-DOMAIN-SUFFIX,vercel-analytics.com
 DOMAIN-SUFFIX,vercel-dns.com
 DOMAIN-SUFFIX,vercel-status.com
 DOMAIN-SUFFIX,vercel.app

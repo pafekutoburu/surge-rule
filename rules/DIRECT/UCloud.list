@@ -1,6 +1,6 @@
 # UCloud
 # Policy: DIRECT
-# Total: 37 rules
+# Total: 36 rules
 #
 DOMAIN-SUFFIX,cdndo.com
 DOMAIN-SUFFIX,ecloud-gdu.com
@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,ucloudstack.net
 DOMAIN-SUFFIX,uclouduewaf.com
 DOMAIN-SUFFIX,ucloudufile.com
 DOMAIN-SUFFIX,uewaf.com
-DOMAIN-SUFFIX,ufileos.com
 DOMAIN-SUFFIX,ugslb.cn
 DOMAIN-SUFFIX,ugslb.com
 DOMAIN-SUFFIX,ugslb.info

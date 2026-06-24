@@ -70,10 +70,7 @@ DOMAIN,imap.mail.ru
 DOMAIN,smtp.mail.ru
 DOMAIN,pop.mail.ru
 DOMAIN-SUFFIX,1l-hit.mail.ru
-DOMAIN-SUFFIX,rs.mail.ru
-DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,top-staging.mail.ru
-DOMAIN-SUFFIX,xray.mail.ru
 
 # Fastmail
 DOMAIN-SUFFIX,fastmail.com

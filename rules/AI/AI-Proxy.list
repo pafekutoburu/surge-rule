@@ -63,7 +63,6 @@ DOMAIN,copilot.cloud.microsoft
 DOMAIN,copilot.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
-DOMAIN,in.appcenter.ms
 DOMAIN,location.microsoft.com
 DOMAIN,odc.officeapps.live.com
 DOMAIN,r.bing.com
@@ -169,10 +168,8 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN,browser-intake-datadoghq.com
 DOMAIN,civitai.com
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN,gateway.ai.cloudflare.com

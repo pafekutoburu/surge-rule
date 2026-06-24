@@ -1,6 +1,6 @@
 # JingDong
 # Policy: DIRECT
-# Total: 248 rules
+# Total: 246 rules
 #
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
@@ -248,5 +248,3 @@ DOMAIN-SUFFIX,yixun.com
 DOMAIN-SUFFIX,yiyaojd.com
 DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,jd.com
-DOMAIN,dns.jd.com
-DOMAIN-SUFFIX,gia.jd.com

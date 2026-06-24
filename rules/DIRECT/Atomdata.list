@@ -1,7 +1,6 @@
 # Atomdata
 # Policy: DIRECT
-# Total: 3 rules
+# Total: 2 rules
 #
-DOMAIN-SUFFIX,analytics-data.io
 DOMAIN-SUFFIX,atom-data.io
 DOMAIN-SUFFIX,ironbeast.io

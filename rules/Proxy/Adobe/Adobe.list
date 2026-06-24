@@ -1,6 +1,6 @@
 # Adobe
 # Policy: Proxy
-# Total: 251 rules
+# Total: 241 rules
 #
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN-KEYWORD,adobe
@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,adobesigncdn.com
 DOMAIN-SUFFIX,adobespark.com
 DOMAIN-SUFFIX,adobess.com
 DOMAIN-SUFFIX,adobestock.com
-DOMAIN-SUFFIX,adobetarget.com
 DOMAIN-SUFFIX,adobetcstrialdvd.com
 DOMAIN-SUFFIX,adobetechcomm.com
 DOMAIN-SUFFIX,adobetechcommcallback.com
@@ -104,9 +103,7 @@ DOMAIN-SUFFIX,mktorest.com
 DOMAIN-SUFFIX,mktroute.com
 DOMAIN-SUFFIX,mobilemarketo.com
 DOMAIN-SUFFIX,motolia.com
-DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omniroot.com
-DOMAIN-SUFFIX,omniture.com
 DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,photolia.net
 DOMAIN-SUFFIX,photoshop.com
@@ -160,17 +157,13 @@ DOMAIN-SUFFIX,adobe.sukoonglobalhealth.com
 DOMAIN-SUFFIX,adobe.toridoll.com
 DOMAIN-SUFFIX,adobe.truckscout24.com
 DOMAIN-SUFFIX,adobe.wacoal.jp
-DOMAIN-SUFFIX,aepxlg.adobe.com
-DOMAIN-SUFFIX,analytics.adobe.io
 DOMAIN-SUFFIX,analytics.adobe.ly
 DOMAIN-SUFFIX,anapp.adobe.com
 DOMAIN-SUFFIX,atsmetrics.adobe.com
 DOMAIN-SUFFIX,b2binsider.adobe.com
-DOMAIN-SUFFIX,cimage.adobe.com
 DOMAIN-SUFFIX,data.aem-sites-internal.adobe.com
 DOMAIN-SUFFIX,data.b2bmail.adobe.com
 DOMAIN-SUFFIX,data.customer-success-apac.adobe.com
-DOMAIN-SUFFIX,data.e.adobe.com
 DOMAIN-SUFFIX,data.email-discovery.cjm.adobe.com
 DOMAIN-SUFFIX,data.email-disney.cjm.adobe.com
 DOMAIN-SUFFIX,data.email-kpn.cjm.adobe.com
@@ -236,7 +229,6 @@ DOMAIN-SUFFIX,lp.kkaufmansb.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lp.owarnersb.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lp.owarnersbdev.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lptest.email-mobiledx.cjm.adobe.com
-DOMAIN-SUFFIX,magento-recs-sdk.adobe.net
 DOMAIN-SUFFIX,metrics.adobe.nb.com
 DOMAIN-SUFFIX,metrics.adobe.nbprivatewealth.com
 DOMAIN-SUFFIX,newtest.wunderman-email.cjm.adobe.com
@@ -245,9 +237,7 @@ DOMAIN-SUFFIX,secureflashplayerfeedback.adobe.com
 DOMAIN-SUFFIX,sms.email-disney.cjm.adobe.com
 DOMAIN-SUFFIX,sms.email-mobiledx.cjm.adobe.com
 DOMAIN-SUFFIX,sstatstest.adobe.com
-DOMAIN-SUFFIX,stats.adobe.com
 DOMAIN-SUFFIX,targetlr.adobe.com
-DOMAIN-SUFFIX,telemetry.adobe.io
 DOMAIN-SUFFIX,test-landing-page-122122.email-disney.cjm.adobe.com
 DOMAIN-SUFFIX,whatif.fr.adobe.com
 DOMAIN-SUFFIX,whatif.it.adobe.com

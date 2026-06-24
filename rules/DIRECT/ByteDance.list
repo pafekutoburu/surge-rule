@@ -1,6 +1,6 @@
 # ByteDance
 # Policy: DIRECT
-# Total: 375 rules
+# Total: 370 rules
 #
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
@@ -69,7 +69,6 @@ DOMAIN-SUFFIX,cdndns1.com
 DOMAIN-SUFFIX,cdndns2.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,cookicut.com
-DOMAIN-SUFFIX,csjplatform.com
 DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,dcarapi.com
 DOMAIN-SUFFIX,dcarimg.com
@@ -242,9 +241,6 @@ DOMAIN-SUFFIX,oortgslb.com
 DOMAIN-SUFFIX,pacmantwo.com
 DOMAIN-SUFFIX,pangle.cn
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao-b.com
@@ -294,7 +290,6 @@ DOMAIN-SUFFIX,toutiaojisu.com
 DOMAIN-SUFFIX,toutiaolite.com
 DOMAIN-SUFFIX,toutiaolite1.com
 DOMAIN-SUFFIX,toutiaolite2.com
-DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaoribao.cn
 DOMAIN-SUFFIX,toutiaoribao.net
 DOMAIN-SUFFIX,toutiaostatic.com

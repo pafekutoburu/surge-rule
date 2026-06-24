@@ -1,6 +1,6 @@
 # Baidu
 # Policy: DIRECT
-# Total: 265 rules
+# Total: 250 rules
 #
 DOMAIN-SUFFIX,17swan.com
 DOMAIN-SUFFIX,37swan.com
@@ -37,7 +37,6 @@ DOMAIN-SUFFIX,baidu.mobi
 DOMAIN-SUFFIX,baiduads.com
 DOMAIN-SUFFIX,baiduapp.com
 DOMAIN-SUFFIX,baidubce.cn
-DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidubce.com.cn
 DOMAIN-SUFFIX,baidubce.net.cn
 DOMAIN-SUFFIX,baidubcr.com
@@ -49,7 +48,6 @@ DOMAIN-SUFFIX,baidupcs.cn
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidupcs.com.cn
 DOMAIN-SUFFIX,baidupcs.net
-DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baiduux.com
 DOMAIN-SUFFIX,baiduwaf.com
 DOMAIN-SUFFIX,baiduwebgame.com
@@ -123,9 +121,7 @@ DOMAIN-SUFFIX,dnsproxy.cn
 DOMAIN-SUFFIX,dnsproxy.com.cn
 DOMAIN-SUFFIX,du-xiaomai.com
 DOMAIN-SUFFIX,duapp-preview.com
-DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duapp.net
-DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,dulife.com
 DOMAIN-SUFFIX,dulightapp.com
 DOMAIN-SUFFIX,dumall.com
@@ -149,7 +145,6 @@ DOMAIN-SUFFIX,haluan2u.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123.net
 DOMAIN-SUFFIX,hao123img.com
-DOMAIN-SUFFIX,hao222.com
 DOMAIN-SUFFIX,hao222.net
 DOMAIN-SUFFIX,haokan.com
 DOMAIN-SUFFIX,hiapk.com
@@ -241,7 +236,6 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunjiasu-dns.com
 DOMAIN-SUFFIX,yunjiasu-dns.net
 DOMAIN-SUFFIX,yunjiasu-test.com
-DOMAIN-SUFFIX,yunjiasu.com
 DOMAIN-SUFFIX,yunjiasucdn.info
 DOMAIN-SUFFIX,yunjiasucdn.net
 DOMAIN-SUFFIX,yunjiasudns.com
@@ -254,16 +248,7 @@ DOMAIN-SUFFIX,zybang.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,httpdns.baidu.com
-DOMAIN-SUFFIX,httpsdns.baidu.com
-DOMAIN-SUFFIX,bzclk.baidu.com
-DOMAIN-SUFFIX,cstm.baidu.com
-DOMAIN-SUFFIX,eclick.baidu.com
-DOMAIN-SUFFIX,fclog.baidu.com
 DOMAIN-SUFFIX,gsp1.baidu.com
 DOMAIN-SUFFIX,imgstat.baidu.com
 DOMAIN-SUFFIX,miao.baidu.com
-DOMAIN-SUFFIX,pos.baidu.com
-DOMAIN-SUFFIX,sfp.safe.baidu.com
-DOMAIN-SUFFIX,wkctj.baidu.com
-DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-KEYWORD,baidu

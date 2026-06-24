@@ -1,6 +1,6 @@
 # Microsoft
 # Policy: Proxy
-# Total: 626 rules
+# Total: 618 rules
 #
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.com
@@ -284,7 +284,6 @@ DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,microsoftaccountguard.com
 DOMAIN-SUFFIX,microsoftadc.com
 DOMAIN-SUFFIX,microsoftads.com
-DOMAIN-SUFFIX,microsoftadvertising.com
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
 DOMAIN-SUFFIX,microsoftapp.net
@@ -612,19 +611,12 @@ DOMAIN-SUFFIX,eu-mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,fp-cdn.azureedge.net
 DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fpt.microsoft.com
-DOMAIN-SUFFIX,freshatl.azurewebsites.net
 DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
-DOMAIN-SUFFIX,loader-cdn.azureedge.net
 DOMAIN-SUFFIX,microsoft.eventionapp.com
 DOMAIN-SUFFIX,msadsscale.azureedge.net
-DOMAIN-SUFFIX,oca.microsoft.com
 DOMAIN-SUFFIX,rmgdapfnccsharpprd.azurewebsites.net
-DOMAIN-SUFFIX,sd-tagging.azurefd.net
-DOMAIN-SUFFIX,sdtagging.azureedge.net
 DOMAIN-SUFFIX,smetric.ads.microsoft.com
 DOMAIN-SUFFIX,target.microsoft.com
-DOMAIN-SUFFIX,vortex.data.microsoft.com
-DOMAIN-SUFFIX,watson.microsoft.com
 DOMAIN-KEYWORD,onedrive
 DOMAIN,login.microsoftonline.com
 DOMAIN-SUFFIX,content.office.net

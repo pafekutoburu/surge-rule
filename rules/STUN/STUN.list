@@ -1,6 +1,6 @@
 # STUN
 # Policy: REJECT
-# Total: 366 rules
+# Total: 365 rules
 #
 DOMAIN,iphone-stun.strato-iphone.de
 DOMAIN,relay.webwormhole.io
@@ -110,7 +110,6 @@ DOMAIN,stun.healthtap.com
 DOMAIN,stun.heeds.eu
 DOMAIN,stun.hicare.net
 DOMAIN,stun.hide.me
-DOMAIN,stun.hitv.com
 DOMAIN,stun.hoiio.com
 DOMAIN,stun.hosteurope.de
 DOMAIN,stun.hot-chilli.net

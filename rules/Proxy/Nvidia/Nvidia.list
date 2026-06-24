@@ -1,6 +1,6 @@
 # Nvidia
 # Policy: Proxy
-# Total: 65 rules
+# Total: 63 rules
 #
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,gputechconf.com.tw
 DOMAIN-SUFFIX,gputechconf.eu
 DOMAIN-SUFFIX,gputechconf.in
 DOMAIN-SUFFIX,gputechconf.jp
-DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
 DOMAIN-SUFFIX,nvidia.asia
 DOMAIN-SUFFIX,nvidia.at
 DOMAIN-SUFFIX,nvidia.be
@@ -65,5 +64,4 @@ DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 DOMAIN-SUFFIX,metrics.nvidia.com
-DOMAIN-SUFFIX,smetrics.nvidia.com
 DOMAIN-SUFFIX,stt.nvidia.com

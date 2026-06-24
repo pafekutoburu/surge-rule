@@ -1,6 +1,6 @@
 # 360
 # Policy: DIRECT
-# Total: 260 rules
+# Total: 250 rules
 #
 DOMAIN-SUFFIX,0360.cn
 DOMAIN-SUFFIX,1360.cn
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,360-game.net
 DOMAIN-SUFFIX,360-jr.com
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
-DOMAIN-SUFFIX,3600.com
 DOMAIN-SUFFIX,360adlab.cn
 DOMAIN-SUFFIX,360adlab.com
 DOMAIN-SUFFIX,360adlab.net
@@ -50,8 +49,6 @@ DOMAIN-SUFFIX,360jinrong.net
 DOMAIN-SUFFIX,360jrjietiao.com
 DOMAIN-SUFFIX,360jrjietiao.com.cn
 DOMAIN-SUFFIX,360kan.com
-DOMAIN-SUFFIX,360kuai.com
-DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360panyun.cn
 DOMAIN-SUFFIX,360panyun.com
 DOMAIN-SUFFIX,360panyun.net
@@ -61,7 +58,6 @@ DOMAIN-SUFFIX,360qurl.cn
 DOMAIN-SUFFIX,360qyaq.com
 DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,360shouji.com
-DOMAIN-SUFFIX,360shuke.com
 DOMAIN-SUFFIX,360sjyh.cn
 DOMAIN-SUFFIX,360so.com
 DOMAIN-SUFFIX,360so.net
@@ -89,7 +85,6 @@ DOMAIN-SUFFIX,360xlab.org
 DOMAIN-SUFFIX,360xyws.com
 DOMAIN-SUFFIX,360zhushou.com
 DOMAIN-SUFFIX,360zqaq.com
-DOMAIN-SUFFIX,50union.com
 DOMAIN-SUFFIX,6360.com
 DOMAIN-SUFFIX,7360.cn
 DOMAIN-SUFFIX,ad-diamond.cn
@@ -99,7 +94,6 @@ DOMAIN-SUFFIX,aixinhaitun.cn
 DOMAIN-SUFFIX,aixinhaitun.com
 DOMAIN-SUFFIX,aixinhaitun.com.cn
 DOMAIN-SUFFIX,anquanke.com
-DOMAIN-SUFFIX,appjiagu.com
 DOMAIN-SUFFIX,as84e.cn
 DOMAIN-SUFFIX,b0xot.cn
 DOMAIN-SUFFIX,b1pnz.cn
@@ -170,7 +164,6 @@ DOMAIN-SUFFIX,jrurl.cn
 DOMAIN-SUFFIX,kouxin.cn
 DOMAIN-SUFFIX,kouxin.com
 DOMAIN-SUFFIX,kouxin.net
-DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,luyou360.cn
 DOMAIN-SUFFIX,mgamer.cn
 DOMAIN-SUFFIX,monidata.com
@@ -233,7 +226,6 @@ DOMAIN-SUFFIX,syscan360.com
 DOMAIN-SUFFIX,syscan360.net
 DOMAIN-SUFFIX,syscan360.org
 DOMAIN-SUFFIX,theworld.cn
-DOMAIN-SUFFIX,urlqh.cn
 DOMAIN-SUFFIX,useso.com
 DOMAIN-SUFFIX,vcloudgtm.cn
 DOMAIN-SUFFIX,vcloudgtm.com
@@ -260,5 +252,3 @@ DOMAIN-SUFFIX,yunpan.com.cn
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,s.360.cn
-DOMAIN-SUFFIX,tf.360.cn

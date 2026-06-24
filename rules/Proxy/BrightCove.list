@@ -1,6 +1,6 @@
 # BrightCove
 # Policy: Proxy
-# Total: 15 rules
+# Total: 14 rules
 #
 DOMAIN-SUFFIX,bcove.video
 DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
@@ -16,4 +16,3 @@ DOMAIN-SUFFIX,brightcovecdn.com
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,zencoder.com
-DOMAIN-SUFFIX,metrics.brightcove.com

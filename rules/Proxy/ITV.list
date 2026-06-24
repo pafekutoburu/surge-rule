@@ -1,7 +1,6 @@
 # ITV
 # Policy: Proxy
-# Total: 3 rules
+# Total: 2 rules
 #
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itvstatic.com
-DOMAIN-SUFFIX,cpt.itv.com

@@ -1,6 +1,6 @@
 # Binance
 # Policy: Proxy
-# Total: 12 rules
+# Total: 11 rules
 #
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.cloud
@@ -11,6 +11,5 @@ DOMAIN-SUFFIX,binancefuture.com
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com

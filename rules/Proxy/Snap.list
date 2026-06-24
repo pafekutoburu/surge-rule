@@ -1,9 +1,8 @@
 # Snap
 # Policy: Proxy
-# Total: 5 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap.com
-DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,snapkit.co

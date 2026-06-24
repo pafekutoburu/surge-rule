@@ -1,6 +1,6 @@
 # BaiShanYunKeJi
 # Policy: DIRECT
-# Total: 59 rules
+# Total: 57 rules
 #
 DOMAIN-SUFFIX,5gcdnx.com
 DOMAIN-SUFFIX,baicdnx.com
@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,baishangeek.cn
 DOMAIN-SUFFIX,baishangeek.com
 DOMAIN-SUFFIX,baishanyun.com
 DOMAIN-SUFFIX,bsccdn.com
-DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,bscdns.cn
 DOMAIN-SUFFIX,bscdns.com
 DOMAIN-SUFFIX,bscedge.com
@@ -53,7 +52,6 @@ DOMAIN-SUFFIX,edgefn.net
 DOMAIN-SUFFIX,fnedge.net
 DOMAIN-SUFFIX,ldgslb.com
 DOMAIN-SUFFIX,qingcdn.com
-DOMAIN-SUFFIX,saxysec.com
 DOMAIN-SUFFIX,scdncloud.com
 DOMAIN-SUFFIX,scdntop.com
 DOMAIN-SUFFIX,solocdn.cn

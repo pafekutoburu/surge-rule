@@ -1,7 +1,6 @@
 # Intercom
 # Policy: Proxy
-# Total: 3 rules
+# Total: 2 rules
 #
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,intercomassets.com
-DOMAIN-SUFFIX,api-visitor-analytics.intercom.com

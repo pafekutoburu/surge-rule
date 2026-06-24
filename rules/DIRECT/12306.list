@@ -1,6 +1,6 @@
 # 12306
 # Policy: DIRECT
-# Total: 16 rules
+# Total: 15 rules
 #
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,95306.cn
@@ -17,4 +17,3 @@ DOMAIN-SUFFIX,nntlj.com
 DOMAIN-SUFFIX,peoplerail.com
 DOMAIN-SUFFIX,rails.cn
 DOMAIN-SUFFIX,tdpress.com
-DOMAIN,ad.12306.cn

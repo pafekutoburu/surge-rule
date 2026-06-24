@@ -1,10 +1,9 @@
 # TeamViewer
 # Policy: Proxy
-# Total: 6 rules
+# Total: 5 rules
 #
 IP-CIDR,139.220.243.27/32
 IP-CIDR,172.16.102.56/32
 IP-CIDR,221.226.128.146/32
 DOMAIN-SUFFIX,metrics.teamviewer.cn
-DOMAIN-SUFFIX,metrics.teamviewer.com
 DOMAIN-SUFFIX,teamviewer.com

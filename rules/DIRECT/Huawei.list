@@ -1,6 +1,6 @@
 # Huawei
 # Policy: DIRECT
-# Total: 160 rules
+# Total: 158 rules
 #
 DOMAIN-SUFFIX,abhouses.com
 DOMAIN-SUFFIX,agconnect.link
@@ -74,7 +74,6 @@ DOMAIN-SUFFIX,huaweicloud-dns.org
 DOMAIN-SUFFIX,huaweicloud.cn
 DOMAIN-SUFFIX,huaweicloud.com
 DOMAIN-SUFFIX,huaweicloudapis.cn
-DOMAIN-SUFFIX,huaweicloudapis.com
 DOMAIN-SUFFIX,huaweicloudlive.com
 DOMAIN-SUFFIX,huaweicloudsite.cn
 DOMAIN-SUFFIX,huaweicloudsite.com
@@ -104,7 +103,6 @@ DOMAIN-SUFFIX,hwccpc.cn
 DOMAIN-SUFFIX,hwccpc.com
 DOMAIN-SUFFIX,hwcloudlive.com
 DOMAIN-SUFFIX,hwclouds-dns.cn
-DOMAIN-SUFFIX,hwclouds-dns.com
 DOMAIN-SUFFIX,hwclouds-dns.net
 DOMAIN-SUFFIX,hwclouds.cn
 DOMAIN-SUFFIX,hwclouds.com

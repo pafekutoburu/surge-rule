@@ -1,6 +1,6 @@
 # Netflix
 # Policy: Proxy
-# Total: 1076 rules
+# Total: 1075 rules
 #
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
@@ -1077,4 +1077,3 @@ IP-CIDR,99.80.34.48/28
 IP-CIDR,99.80.34.64/26
 IP-CIDR,99.80.88.0/25
 PROCESS-NAME,com.netflix.mediaclient
-DOMAIN-SUFFIX,logs.netflix.com

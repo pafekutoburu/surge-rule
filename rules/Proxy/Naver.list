@@ -1,6 +1,6 @@
 # Naver
 # Policy: Proxy
-# Total: 48 rules
+# Total: 46 rules
 #
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,grafolio.com
@@ -44,9 +44,7 @@ IP-CIDR6,2400:dcc0::/32
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,bnc-papago.naver.com
 DOMAIN-SUFFIX,l.m.naver.com
-DOMAIN-SUFFIX,lcs.naver.com
 DOMAIN-SUFFIX,sp.naver.com
 DOMAIN-SUFFIX,stg-bnc-papago.naver.com
 DOMAIN-SUFFIX,tivan.naver.com
-DOMAIN-SUFFIX,wcs.naver.com
 DOMAIN-SUFFIX,webtoons.naver.com

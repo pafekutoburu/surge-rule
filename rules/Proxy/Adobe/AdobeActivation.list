@@ -1,6 +1,6 @@
 # AdobeActivation
 # Policy: Proxy
-# Total: 116 rules
+# Total: 114 rules
 #
 DOMAIN,1b9khekel6.adobe.io
 DOMAIN,3dns-1.adobe.com
@@ -24,7 +24,6 @@ DOMAIN,adobe-dns-3.adobe.com
 DOMAIN,adobe-dns-4.adobe.com
 DOMAIN,adobe-dns.adobe.com
 DOMAIN,adobe.demdex.net
-DOMAIN,adobe.tt.omtrdc.net
 DOMAIN,adobedc.demdex.net
 DOMAIN,adobeereg.com
 DOMAIN,adobeid-na1.services.adobe.com
@@ -39,7 +38,6 @@ DOMAIN,cclibraries-defaults-cdn.adobe.com
 DOMAIN,cclibraries-defaults-cdn.adobe.com.edgekey.net
 DOMAIN,cn-assets.adobedtm.com.edgekey.net
 DOMAIN,crl.verisign.net
-DOMAIN,crlog-crcn.adobe.com
 DOMAIN,crs.cr.adobe.com
 DOMAIN,edgeproxy-irl1.cloud.adobe.io
 DOMAIN,ereg.adobe.com

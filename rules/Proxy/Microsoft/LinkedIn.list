@@ -1,10 +1,9 @@
 # LinkedIn
 # Policy: Proxy
-# Total: 12 rules
+# Total: 11 rules
 #
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
-DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,licdn.cn

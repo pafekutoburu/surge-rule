@@ -1,6 +1,6 @@
 # Dropbox
 # Policy: Proxy
-# Total: 19 rules
+# Total: 17 rules
 #
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
@@ -18,6 +18,4 @@ DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
-DOMAIN-SUFFIX,beacon.dropbox.com
-DOMAIN-SUFFIX,marketing.dropbox.com
 DOMAIN-KEYWORD,dropbox

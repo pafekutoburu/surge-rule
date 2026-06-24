@@ -1,11 +1,9 @@
 # Agora
 # Policy: DIRECT
-# Total: 7 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,agora.io
 DOMAIN-SUFFIX,agoraio.cn
 DOMAIN-SUFFIX,agoralab.co
-DOMAIN-SUFFIX,liquid.agora.pl
 DOMAIN-SUFFIX,marketing.agora.io
-DOMAIN-SUFFIX,statscollector-1.agora.io
 DOMAIN-SUFFIX,tracking.agora.io

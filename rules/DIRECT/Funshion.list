@@ -1,6 +1,6 @@
 # Funshion
 # Policy: DIRECT
-# Total: 11 rules
+# Total: 10 rules
 #
 DOMAIN-SUFFIX,9iwanwan.com
 DOMAIN-SUFFIX,9ixiuxiu.com
@@ -12,4 +12,3 @@ DOMAIN-SUFFIX,funshion.tv
 DOMAIN-SUFFIX,ibidian.com
 DOMAIN-SUFFIX,jvcsmart.cn
 DOMAIN-SUFFIX,jvcsmart.com.cn
-DOMAIN-SUFFIX,stat.funshion.net

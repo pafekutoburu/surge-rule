@@ -1,6 +1,6 @@
 # DMM
 # Policy: Proxy
-# Total: 24 rules
+# Total: 21 rules
 #
 DOMAIN-SUFFIX,akabeesoft2.com
 DOMAIN-SUFFIX,akabeesoft3.com
@@ -23,6 +23,3 @@ DOMAIN-SUFFIX,wheel-soft.com
 IP-CIDR,125.6.189.7/32
 IP-CIDR,203.104.209.7/32
 DOMAIN-SUFFIX,kat.cr
-DOMAIN-SUFFIX,mkmree.dmm.co.jp
-DOMAIN-SUFFIX,nntgna.dmm.com
-DOMAIN-SUFFIX,stat.i3.dmm.com

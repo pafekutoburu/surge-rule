@@ -1,6 +1,6 @@
 # Bestbuy
 # Policy: Proxy
-# Total: 88 rules
+# Total: 86 rules
 #
 DOMAIN-SUFFIX,bby.com
 DOMAIN-SUFFIX,bbycastatic.ca
@@ -84,9 +84,7 @@ DOMAIN-SUFFIX,welcometobestbuy.ca
 DOMAIN-SUFFIX,wolfatbestbuy.com
 DOMAIN-SUFFIX,wolfatbestbuy.net
 DOMAIN-SUFFIX,www-bestbuystores.com
-DOMAIN-SUFFIX,smetrics.bestbuy.com
 DOMAIN-SUFFIX,str2-bbyca-track.bestbuy.com
 DOMAIN-SUFFIX,str2-fsca-track.bestbuy.com
-DOMAIN-SUFFIX,strack.bestbuy.ca
 DOMAIN-SUFFIX,tmx.bestbuy.com
 DOMAIN-SUFFIX,track.bestbuy.ca

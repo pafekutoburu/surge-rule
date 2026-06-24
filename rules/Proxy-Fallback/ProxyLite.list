@@ -1,6 +1,6 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 470 rules
+# Total: 468 rules
 #
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -59,7 +59,6 @@ DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,bitshare.com
-DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,bloombergview.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,books.com.tw
@@ -89,7 +88,6 @@ DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,conoha.jp
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,crisp.chat
-DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,daolan.net

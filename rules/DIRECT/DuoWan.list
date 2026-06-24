@@ -1,6 +1,6 @@
 # DuoWan
 # Policy: DIRECT
-# Total: 27 rules
+# Total: 26 rules
 #
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,bcshipgo.com
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,duowan.com.cn
 DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,hiido.cn
-DOMAIN-SUFFIX,hiido.com
 DOMAIN-SUFFIX,hiido.net
 DOMAIN-SUFFIX,huanju.cn
 DOMAIN-SUFFIX,huanju.net

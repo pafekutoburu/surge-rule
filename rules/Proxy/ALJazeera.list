@@ -1,6 +1,6 @@
 # ALJazeera
 # Policy: Proxy
-# Total: 9 rules
+# Total: 8 rules
 #
 DOMAIN-SUFFIX,ajplus.net
 DOMAIN-SUFFIX,aljazeera.com
@@ -10,4 +10,3 @@ DOMAIN-SUFFIX,sarajevopodopsadom.com
 DOMAIN-SUFFIX,srebrenica360.com
 DOMAIN-SUFFIX,syhacked.com
 DOMAIN-SUFFIX,tags.aljazeera.com
-DOMAIN-SUFFIX,tags.aljazeera.net

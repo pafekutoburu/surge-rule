@@ -1,6 +1,6 @@
 # EastMoney
 # Policy: DIRECT
-# Total: 34 rules
+# Total: 33 rules
 #
 DOMAIN-SUFFIX,1234567.com.cn
 DOMAIN-SUFFIX,18.cn
@@ -35,4 +35,3 @@ DOMAIN-SUFFIX,zhaiba.com
 DOMAIN-SUFFIX,zhongcaisuo.cn
 DOMAIN-SUFFIX,zhongcaisuo.com
 DOMAIN-SUFFIX,zhongcaisuo.com.cn
-DOMAIN-SUFFIX,huaxiang.eastmoney.com

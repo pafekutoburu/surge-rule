@@ -1,6 +1,6 @@
 # AppleMedia
 # Policy: Proxy
-# Total: 51 rules
+# Total: 50 rules
 #
 DOMAIN-SUFFIX,aod.itunes.apple.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
@@ -48,7 +48,6 @@ DOMAIN-SUFFIX,mvod.itunes.apple.com
 DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,news-client.apple.com
 DOMAIN-SUFFIX,news-edge.apple.com
-DOMAIN-SUFFIX,news-events.apple.com
 DOMAIN-SUFFIX,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com

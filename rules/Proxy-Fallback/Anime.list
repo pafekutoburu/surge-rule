@@ -1,10 +1,9 @@
 # Anime
 # Policy: Proxy
-# Total: 13 rules
+# Total: 12 rules
 #
 DOMAIN-SUFFIX,9anime.cz
 DOMAIN-SUFFIX,9anime.id
-DOMAIN-SUFFIX,9anime.to
 DOMAIN-SUFFIX,9anime.ws
 DOMAIN-SUFFIX,animedao-tv.com
 DOMAIN-SUFFIX,crunchyroll.com

@@ -1,9 +1,8 @@
 # Jsdelivr
 # Policy: Proxy
-# Total: 5 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,esm.run
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,datum.jsdelivr.com
 DOMAIN,cdn.jsdelivr.net

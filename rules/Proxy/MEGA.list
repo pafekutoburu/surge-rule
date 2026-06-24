@@ -1,6 +1,6 @@
 # MEGA
 # Policy: Proxy
-# Total: 14 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,mega.io
 IP-CIDR,185.206.24.0/22
@@ -15,4 +15,3 @@ IP-CIDR6,2a0b:e44:1::/48
 IP-CIDR6,2a0b:e45:1::/48
 PROCESS-NAME,mega.privacy.android.app
 DOMAIN-SUFFIX,mega.nz
-DOMAIN-SUFFIX,mega.promodescuentos.com

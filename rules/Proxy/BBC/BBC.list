@@ -1,6 +1,6 @@
 # BBC
 # Policy: Proxy
-# Total: 33 rules
+# Total: 32 rules
 #
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
@@ -33,5 +33,4 @@ DOMAIN-SUFFIX,bidi.net.uk
 USER-AGENT,BBCiPlayer*
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,a1.api.bbc.co.uk
-DOMAIN-SUFFIX,a1.api.bbc.com
 DOMAIN-SUFFIX,visualscience.external.bbc.co.uk

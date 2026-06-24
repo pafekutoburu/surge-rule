@@ -1,6 +1,6 @@
 # LG
 # Policy: Proxy
-# Total: 37 rules
+# Total: 35 rules
 #
 DOMAIN-SUFFIX,dacom.co.kr
 DOMAIN-SUFFIX,kidc.net
@@ -37,5 +37,3 @@ IP-CIDR6,2001:4430:f::/48
 IP-CIDR6,2406:5900::/32
 DOMAIN-SUFFIX,is.lg.com
 DOMAIN-SUFFIX,omniture.lg.com
-DOMAIN-SUFFIX,soxnwz.lg.com
-DOMAIN-SUFFIX,tracking.lg.com

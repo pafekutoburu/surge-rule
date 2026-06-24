@@ -1,6 +1,6 @@
 # Vimeo
 # Policy: Proxy
-# Total: 15 rules
+# Total: 14 rules
 #
 DOMAIN-SUFFIX,vhx.tv
 DOMAIN-SUFFIX,vhxqa1.com
@@ -16,4 +16,3 @@ DOMAIN-SUFFIX,vimeogoods.com
 DOMAIN-SUFFIX,vimeoondemand.com
 DOMAIN-SUFFIX,vimeostatus.com
 DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,player-telemetry.vimeo.com

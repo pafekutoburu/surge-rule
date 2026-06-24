@@ -1,6 +1,6 @@
 # Verizon
 # Policy: Proxy
-# Total: 172 rules
+# Total: 169 rules
 #
 DOMAIN-SUFFIX,aol.de
 DOMAIN-SUFFIX,aol.fr
@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,verizonbusinessfios.com
 DOMAIN-SUFFIX,verizondigitalmedia.com
 DOMAIN-SUFFIX,verizonenterprise.com
 DOMAIN-SUFFIX,verizonfios.com
-DOMAIN-SUFFIX,verizonmedia.com
 DOMAIN-SUFFIX,vidible.tv
 DOMAIN-SUFFIX,xo.com
 DOMAIN-SUFFIX,yahoo-news.com.hk
@@ -169,8 +168,6 @@ DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,yourdigitalrebatecenter.com
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,analytics.verizon.com
 DOMAIN-SUFFIX,data.email.verizon.com
 DOMAIN-SUFFIX,metrics.verizon.com
-DOMAIN-SUFFIX,sanalytics.verizon.com
 DOMAIN-SUFFIX,unsubscribe.email.verizon.com

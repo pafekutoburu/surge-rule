@@ -1,11 +1,10 @@
 # WeTV
 # Policy: Proxy
-# Total: 7 rules
+# Total: 6 rules
 #
 DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,v.smtcdns.net
-DOMAIN-SUFFIX,vv.video.qq.com
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us

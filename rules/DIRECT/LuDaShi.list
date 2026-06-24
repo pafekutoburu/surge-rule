@@ -1,6 +1,6 @@
 # LuDaShi
 # Policy: DIRECT
-# Total: 14 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,birdpaper.cn
 DOMAIN-SUFFIX,dualspace.com
@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,kejids.cn
 DOMAIN-SUFFIX,kejids.com
 DOMAIN-SUFFIX,ludan.cn
 DOMAIN-SUFFIX,ludashi.cn
-DOMAIN-SUFFIX,monidashi.cn
 DOMAIN-SUFFIX,monidashi.com.cn
 DOMAIN-SUFFIX,superlitetech.com
 DOMAIN-SUFFIX,taojike.cn

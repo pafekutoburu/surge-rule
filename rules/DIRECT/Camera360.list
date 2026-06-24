@@ -1,8 +1,7 @@
 # Camera360
 # Policy: DIRECT
-# Total: 8 rules
+# Total: 7 rules
 #
-DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,52photo.com
 DOMAIN-SUFFIX,c360dn.com
 DOMAIN-SUFFIX,camera360.com

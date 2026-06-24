@@ -1,9 +1,8 @@
 # ViuTV
 # Policy: Proxy
-# Total: 5 rules
+# Total: 4 rules
 #
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
-DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv

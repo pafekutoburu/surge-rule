@@ -1,6 +1,6 @@
 # Gettyimages
 # Policy: Proxy
-# Total: 32 rules
+# Total: 30 rules
 #
 DOMAIN-SUFFIX,gettyimages.ae
 DOMAIN-SUFFIX,gettyimages.at
@@ -32,5 +32,3 @@ DOMAIN-SUFFIX,e.gettyimages.ae
 DOMAIN-SUFFIX,e.gettyimages.in
 DOMAIN-SUFFIX,e.gettyimages.nl
 DOMAIN-SUFFIX,e.gettyimages.pt
-DOMAIN-SUFFIX,firstpartycookie.gettyimages.com
-DOMAIN-SUFFIX,spectrum.gettyimages.com

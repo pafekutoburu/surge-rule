@@ -1,8 +1,7 @@
 # ShangHaiJuXiao
 # Policy: DIRECT
-# Total: 4 rules
+# Total: 3 rules
 #
 DOMAIN-SUFFIX,bubuying.net
 DOMAIN-SUFFIX,kuaishuru.net
 DOMAIN-SUFFIX,mdvdns.com
-DOMAIN-SUFFIX,mvad.com

@@ -1,6 +1,6 @@
 # Twitch
 # Policy: Proxy
-# Total: 14 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,live-video.net
@@ -15,4 +15,3 @@ IP-CIDR,52.223.224.0/19
 IP-CIDR6,2402:2a80::/32
 PROCESS-NAME,tv.twitch.android.app
 DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,analytics.m7g.twitch.tv

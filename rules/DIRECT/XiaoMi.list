@@ -1,6 +1,6 @@
 # XiaoMi
 # Policy: DIRECT
-# Total: 174 rules
+# Total: 169 rules
 #
 DOMAIN-SUFFIX,408399.com
 DOMAIN-SUFFIX,408399.net
@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,mi.cn
 DOMAIN-SUFFIX,mi.com.cn
 DOMAIN-SUFFIX,mi0.cc
 DOMAIN-SUFFIX,mi1.cc
-DOMAIN-SUFFIX,miav-cse.avlyun.com
 DOMAIN-SUFFIX,micoce.com.cn
 DOMAIN-SUFFIX,micode.cn
 DOMAIN-SUFFIX,micode.com.cn
@@ -87,7 +86,6 @@ DOMAIN-SUFFIX,misrm.net
 DOMAIN-SUFFIX,mitalk.com
 DOMAIN-SUFFIX,mitvos.com
 DOMAIN-SUFFIX,mitvos.net
-DOMAIN-SUFFIX,miui-fxcse.avlyun.com
 DOMAIN-SUFFIX,miui.cn
 DOMAIN-SUFFIX,mixinshe.com
 DOMAIN-SUFFIX,miyun.com
@@ -95,7 +93,6 @@ DOMAIN-SUFFIX,openvela.com
 DOMAIN-SUFFIX,peijian.com
 DOMAIN-SUFFIX,qinghedaxue.com
 DOMAIN-SUFFIX,qsb.browser.miui.srv
-DOMAIN-SUFFIX,res.mi.baidu.com
 DOMAIN-SUFFIX,restapi.amap.com
 DOMAIN-SUFFIX,shunwei.cn
 DOMAIN-SUFFIX,singapore01.kuaipandata.com
@@ -159,7 +156,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomicp.com
 DOMAIN-SUFFIX,app.chat.global.xiaomi.net.iberostar.com
 DOMAIN-SUFFIX,find.api.micloud.xiaomi.net.iberostar.com
-DOMAIN-SUFFIX,mi.grubhub.com
 DOMAIN-SUFFIX,mi.miliboo.be
 DOMAIN-SUFFIX,mi.miliboo.ch
 DOMAIN-SUFFIX,mi.miliboo.co.uk
@@ -169,7 +165,6 @@ DOMAIN-SUFFIX,mi.miliboo.es
 DOMAIN-SUFFIX,mi.miliboo.it
 DOMAIN-SUFFIX,mi.miliboo.lu
 DOMAIN-SUFFIX,resolver.msg.global.xiaomi.net.iberostar.com
-DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,us.appbackupapi.micloud.xiaomi.net.iberostar.com
 DOMAIN-SUFFIX,us.micardapi.micloud.xiaomi.net.iberostar.com
 DOMAIN-SUFFIX,us.noteapi.micloud.xiaomi.net.iberostar.com

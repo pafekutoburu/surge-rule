@@ -1,6 +1,6 @@
 # Sony
 # Policy: Proxy
-# Total: 175 rules
+# Total: 174 rules
 #
 DOMAIN,sonyliveevents-nonssai.akamaized.net
 DOMAIN-SUFFIX,cn-playnow.com.cn
@@ -161,7 +161,6 @@ DOMAIN-SUFFIX,smetrics.sony.hr
 DOMAIN-SUFFIX,smetrics.sony.hu
 DOMAIN-SUFFIX,smetrics.sony.ie
 DOMAIN-SUFFIX,smetrics.sony.it
-DOMAIN-SUFFIX,smetrics.sony.jp
 DOMAIN-SUFFIX,smetrics.sony.kz
 DOMAIN-SUFFIX,smetrics.sony.lt
 DOMAIN-SUFFIX,smetrics.sony.lu

@@ -1,6 +1,6 @@
 # Rakuten
 # Policy: Proxy
-# Total: 21 rules
+# Total: 20 rules
 #
 DOMAIN-SUFFIX,ebates.com
 DOMAIN-SUFFIX,infoseek.co.jp
@@ -22,4 +22,3 @@ DOMAIN-SUFFIX,viber.co.jp
 DOMAIN-SUFFIX,brc.emails.rakuten.com
 DOMAIN-SUFFIX,go.rakuten.com
 DOMAIN-SUFFIX,qa-brc.emails.rakuten.com
-DOMAIN-SUFFIX,tag.rmp.rakuten.com

@@ -1,6 +1,6 @@
 # Viki
 # Policy: Proxy
-# Total: 9 rules
+# Total: 8 rules
 #
 DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
 DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
@@ -10,4 +10,3 @@ DOMAIN-SUFFIX,viki.io
 DOMAIN-SUFFIX,viki.net
 DOMAIN-SUFFIX,vikidash.akamaized.net
 DOMAIN-SUFFIX,vikiplatform.com
-DOMAIN-SUFFIX,colvk.viki.io

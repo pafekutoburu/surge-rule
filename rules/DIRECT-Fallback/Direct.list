@@ -1,6 +1,6 @@
 # Direct
 # Policy: DIRECT
-# Total: 322 rules
+# Total: 318 rules
 #
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,anti-ad.net
@@ -78,7 +78,6 @@ DOMAIN-SUFFIX,dsmynas.net
 DOMAIN-SUFFIX,dsmynas.org
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,dxdhd.com
-DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,et8.org
@@ -94,7 +93,6 @@ DOMAIN-SUFFIX,g-cores.com
 DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,gfxpeers.net
 DOMAIN-SUFFIX,godic.net
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,hd-space.org
 DOMAIN-SUFFIX,hd4.xyz
 DOMAIN-SUFFIX,hd4fans.org
@@ -187,7 +185,6 @@ DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,tjupt.org
@@ -209,8 +206,6 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,zealer.com
 DOMAIN,ad.10010.com
 DOMAIN,ain.bgm.tv
-DOMAIN,analytics.95516.com
-DOMAIN,analytics.strava.com
 DOMAIN,bdtj.tagtic.cn
 DOMAIN,chasee.xiercloud.uk
 DOMAIN,deo.shopeemobile.com

@@ -1,13 +1,10 @@
 # WeChat
 # Policy: DIRECT
-# Total: 258 rules
+# Total: 255 rules
 #
-DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,slife.xy-asia.com
-DOMAIN,soup.v.qq.com
 DOMAIN,vweixinf.tc.qq.com
 DOMAIN,weixin110.qq.com
-DOMAIN,wup.imtt.qq.com
 DOMAIN-KEYWORD,101.226.129.
 DOMAIN-KEYWORD,101.226.211.
 DOMAIN-KEYWORD,101.226.222.

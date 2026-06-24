@@ -1,6 +1,6 @@
 # VK
 # Policy: Proxy
-# Total: 8 rules
+# Total: 7 rules
 #
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,userapi.com
@@ -9,4 +9,3 @@ DOMAIN-SUFFIX,vk-cdn.net
 DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,ms.vk.com

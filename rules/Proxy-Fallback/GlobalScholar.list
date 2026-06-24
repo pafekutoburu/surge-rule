@@ -1,6 +1,6 @@
 # GlobalScholar
 # Policy: Proxy
-# Total: 212 rules
+# Total: 211 rules
 #
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,1lib.cloud
@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,aclweb.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aip.org
-DOMAIN-SUFFIX,altmetric.com
 DOMAIN-SUFFIX,amamanualofstyle.com
 DOMAIN-SUFFIX,ams.org
 DOMAIN-SUFFIX,analytictech.com

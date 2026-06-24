@@ -1,6 +1,6 @@
 # Fox
 # Policy: Proxy
-# Total: 255 rules
+# Total: 253 rules
 #
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,anidom.com
@@ -255,5 +255,3 @@ DOMAIN-SUFFIX,wofl.tv
 DOMAIN-SUFFIX,woflthenewsstation.com
 DOMAIN-SUFFIX,wogx.com
 DOMAIN-SUFFIX,a.fox.com
-DOMAIN-SUFFIX,b.fox.com
-DOMAIN-SUFFIX,prod.fennec.atp.fox

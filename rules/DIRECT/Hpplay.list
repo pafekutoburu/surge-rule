@@ -1,9 +1,7 @@
 # Hpplay
 # Policy: DIRECT
-# Total: 5 rules
+# Total: 3 rules
 #
-DOMAIN-SUFFIX,hpplay.cn
-DOMAIN-SUFFIX,hpplay.com.cn
 DOMAIN-SUFFIX,mirrorcast.cn
 DOMAIN-SUFFIX,mirrorcast.com.cn
 DOMAIN-SUFFIX,mirrorcast.tv

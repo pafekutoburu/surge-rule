@@ -1,8 +1,7 @@
 # PrimeVideo
 # Policy: Proxy
-# Total: 4 rules
+# Total: 3 rules
 #
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
-DOMAIN,fls-na.amazon.com
 DOMAIN,www.amazon.com

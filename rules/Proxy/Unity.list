@@ -1,6 +1,6 @@
 # Unity
 # Policy: Proxy
-# Total: 12 rules
+# Total: 11 rules
 #
 DOMAIN-SUFFIX,multiplay.cn
 DOMAIN-SUFFIX,unity.cn
@@ -12,5 +12,4 @@ DOMAIN-SUFFIX,unityedu.cn
 DOMAIN-SUFFIX,unityedu.com
 DOMAIN-SUFFIX,unityedu.com.cn
 DOMAIN-SUFFIX,eloqua-tracking.unity.com
-DOMAIN-SUFFIX,eloqua-trackings.unity.com
 DOMAIN-SUFFIX,email.everyonesocial.unity.com
