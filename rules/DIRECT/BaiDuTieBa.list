@@ -1,6 +1,6 @@
 # BaiDuTieBa
 # Policy: DIRECT
-# Total: 22 rules
+# Total: 21 rules
 #
 DOMAIN,cdn.hiphotos.baidu.com
 DOMAIN,cpro.baidustatic.com
@@ -9,7 +9,6 @@ DOMAIN,gomediago.baidu.com
 DOMAIN,gsp0.baidu.com
 DOMAIN,gss0.bdstatic.com
 DOMAIN,mediago-static.cdn.bcebos.com
-DOMAIN,mobads-log.baidu.com
 DOMAIN,ns-strategy.cdn.bcebos.com
 DOMAIN,passport.baidu.com
 DOMAIN,tb.himg.baidu.com

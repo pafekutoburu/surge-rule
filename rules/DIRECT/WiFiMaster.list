@@ -1,6 +1,6 @@
 # WiFiMaster
 # Policy: DIRECT
-# Total: 59 rules
+# Total: 58 rules
 #
 DOMAIN-SUFFIX,51huitu.cn
 DOMAIN-SUFFIX,51lstt.com
@@ -55,7 +55,6 @@ DOMAIN-SUFFIX,wifiniu.com
 DOMAIN-SUFFIX,wifisdk.net
 DOMAIN-SUFFIX,wifivpn.net
 DOMAIN-SUFFIX,wkopen.com
-DOMAIN-SUFFIX,xiaoyiads.com
 DOMAIN-SUFFIX,xinwengood.com
 DOMAIN-SUFFIX,y5api.com
 DOMAIN-SUFFIX,y5news.com

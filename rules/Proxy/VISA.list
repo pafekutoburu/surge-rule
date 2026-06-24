@@ -1,6 +1,6 @@
 # VISA
 # Policy: Proxy
-# Total: 101 rules
+# Total: 100 rules
 #
 DOMAIN-SUFFIX,visa.be
 DOMAIN-SUFFIX,visa.ca
@@ -102,4 +102,3 @@ DOMAIN-SUFFIX,visakorea.com
 DOMAIN-SUFFIX,visamiddleeast.com
 DOMAIN-SUFFIX,visasoutheasteurope.com
 DOMAIN-SUFFIX,images.globalempcomm.visa.com
-DOMAIN-SUFFIX,tracking.cpa.qa.web.visa.com

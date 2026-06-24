@@ -1,6 +1,6 @@
 # Dell
 # Policy: Proxy
-# Total: 119 rules
+# Total: 118 rules
 #
 DOMAIN-SUFFIX,air-watch.com
 DOMAIN-SUFFIX,airwatchexpress.com
@@ -98,7 +98,6 @@ DOMAIN-SUFFIX,vmwarevmc.com
 DOMAIN-SUFFIX,vmwdemo.com
 DOMAIN-SUFFIX,vmwgcomms.com
 DOMAIN-SUFFIX,vmwhorizonair.com
-DOMAIN-SUFFIX,vmwidm-ads.com
 DOMAIN-SUFFIX,vmwidm.com
 DOMAIN-SUFFIX,vmwlabconnect.com
 DOMAIN-SUFFIX,vmwlearningplatform.com

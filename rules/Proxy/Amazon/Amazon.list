@@ -1,6 +1,6 @@
 # Amazon
 # Policy: Proxy
-# Total: 214 rules
+# Total: 213 rules
 #
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-SUFFIX,a2z.com
@@ -120,7 +120,6 @@ DOMAIN-SUFFIX,awsloft-johannesburg.com
 DOMAIN-SUFFIX,awsloft-stockholm.com
 DOMAIN-SUFFIX,awssecworkshops.com
 DOMAIN-SUFFIX,awsthinkbox.com
-DOMAIN-SUFFIX,awstrack.me
 DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,boxofficemojo.com
 DOMAIN-SUFFIX,cdkworkshop.com

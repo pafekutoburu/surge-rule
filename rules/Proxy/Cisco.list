@@ -1,6 +1,6 @@
 # Cisco
 # Policy: Proxy
-# Total: 129 rules
+# Total: 128 rules
 #
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,app-dynamics.com
@@ -130,4 +130,3 @@ DOMAIN-SUFFIX,mcc-tags.cisco.com
 DOMAIN-SUFFIX,sites.campaignmgr.cisco.com
 DOMAIN-SUFFIX,target-test.cisco.com
 DOMAIN-SUFFIX,target.cisco.com
-DOMAIN-SUFFIX,tracking.securitymsp.cisco.com

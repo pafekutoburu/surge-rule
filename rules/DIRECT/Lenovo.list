@@ -1,6 +1,6 @@
 # Lenovo
 # Policy: DIRECT
-# Total: 40 rules
+# Total: 38 rules
 #
 DOMAIN-SUFFIX,blurdev.com
 DOMAIN-SUFFIX,cftsupport.com
@@ -40,5 +40,3 @@ DOMAIN-SUFFIX,forms.lenovo.com
 DOMAIN-SUFFIX,images.business.lenovo.com
 DOMAIN-SUFFIX,images.reldirect.lenovo.com
 DOMAIN-SUFFIX,images.smbdirect.lenovo.com
-DOMAIN-SUFFIX,tracking.lenovo.com
-DOMAIN-SUFFIX,tracking3.lenovo.com

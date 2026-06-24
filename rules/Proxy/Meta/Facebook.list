@@ -1,6 +1,6 @@
 # Facebook
 # Policy: Proxy
-# Total: 655 rules
+# Total: 651 rules
 #
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -130,7 +130,6 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
-DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookappcenter.info
 DOMAIN-SUFFIX,facebookappcenter.net
 DOMAIN-SUFFIX,facebookappcenter.org
@@ -317,8 +316,6 @@ DOMAIN-SUFFIX,fbrpms.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbsbx.net
 DOMAIN-SUFFIX,fbsupport-covid.net
-DOMAIN-SUFFIX,fbthirdpartypixel.net
-DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fcacebook.com
@@ -360,7 +357,6 @@ DOMAIN-SUFFIX,freebasics.net
 DOMAIN-SUFFIX,freebs.com
 DOMAIN-SUFFIX,freefacebook.com
 DOMAIN-SUFFIX,freefacebook.net
-DOMAIN-SUFFIX,freefacebookads.net
 DOMAIN-SUFFIX,freefblikes.com
 DOMAIN-SUFFIX,freindfeed.com
 DOMAIN-SUFFIX,frescolib.org

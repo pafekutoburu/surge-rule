@@ -1,6 +1,6 @@
 # iFlytek
 # Policy: DIRECT
-# Total: 148 rules
+# Total: 147 rules
 #
 DOMAIN-SUFFIX,4006806555.com
 DOMAIN-SUFFIX,51diyring.com
@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,91qycl.com
 DOMAIN-SUFFIX,91ting.net
 DOMAIN-SUFFIX,91znyx.cn
 DOMAIN-SUFFIX,91znyx.com
-DOMAIN-SUFFIX,adsring.cn
 DOMAIN-SUFFIX,ai-daxue.com
 DOMAIN-SUFFIX,aidaxue.com
 DOMAIN-SUFFIX,aifuwus.com

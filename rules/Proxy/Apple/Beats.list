@@ -1,6 +1,6 @@
 # Beats
 # Policy: Proxy
-# Total: 714 rules
+# Total: 710 rules
 #
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,1monsterbeatsbydreus.com
@@ -387,10 +387,7 @@ DOMAIN-SUFFIX,cheaperbeatsbydresale.com
 DOMAIN-SUFFIX,cheapestbeatsdrdre.com
 DOMAIN-SUFFIX,cheapheadphonesland.com
 DOMAIN-SUFFIX,cheapheadphonessale.com
-DOMAIN-SUFFIX,cheapheadsetmall.com
-DOMAIN-SUFFIX,cheapheadsetshop.com
 DOMAIN-SUFFIX,cheapmonsterbeatsbydrdre.com
-DOMAIN-SUFFIX,cheapmonsterbeatsheadsets.com
 DOMAIN-SUFFIX,cheapmonsterbeatssale.com
 DOMAIN-SUFFIX,cheapmonsterbeatsusa.us
 DOMAIN-SUFFIX,cheapmonstersbeatsonsale.com
@@ -510,7 +507,6 @@ DOMAIN-SUFFIX,headphonesol.com
 DOMAIN-SUFFIX,headphonesretailer.com
 DOMAIN-SUFFIX,headphonessupply.com
 DOMAIN-SUFFIX,headphonezip.com
-DOMAIN-SUFFIX,headset987.com
 DOMAIN-SUFFIX,hellokittybeats.com
 DOMAIN-SUFFIX,highbolt.net
 DOMAIN-SUFFIX,highdefinitionbeatsbydre.com

@@ -1,6 +1,6 @@
 # Direct
 # Policy: DIRECT
-# Total: 318 rules
+# Total: 316 rules
 #
 DOMAIN-KEYWORD,-cn
 DOMAIN-KEYWORD,anti-ad.net
@@ -134,7 +134,6 @@ DOMAIN-SUFFIX,leaguehd.com
 DOMAIN-SUFFIX,luoo.net
 DOMAIN-SUFFIX,lztr.me
 DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,moecat.best
@@ -223,7 +222,6 @@ DOMAIN,m3u8.mstopq.com
 DOMAIN,msg.umeng.com
 DOMAIN,new-api.meiqia.com
 DOMAIN,ok.zuidapic.com
-DOMAIN,rewards.hypixel.net
 DOMAIN,static.jssp.tv
 DOMAIN,sycm.mmstat.com
 DOMAIN,tiao.cjkypo.com

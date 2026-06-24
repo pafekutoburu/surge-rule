@@ -1,6 +1,6 @@
 # Google
 # Policy: Proxy
-# Total: 688 rules
+# Total: 677 rules
 #
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,466453.com
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
-DOMAIN-SUFFIX,advertiserscommunity.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,androidtv.com
@@ -32,9 +31,6 @@ DOMAIN-SUFFIX,baselinestudy.com
 DOMAIN-SUFFIX,baselinestudy.org
 DOMAIN-SUFFIX,bazel.build
 DOMAIN-SUFFIX,bdn.dev
-DOMAIN-SUFFIX,beacons.gvt2.com
-DOMAIN-SUFFIX,beacons2.gvt2.com
-DOMAIN-SUFFIX,beacons3.gvt2.com
 DOMAIN-SUFFIX,beatthatquote.com
 DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blogblog.com
@@ -134,7 +130,6 @@ DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,chroniclesec.com
 DOMAIN-SUFFIX,clickserve.cc-dt.com
-DOMAIN-SUFFIX,clickserver.googleads.com
 DOMAIN-SUFFIX,cloudburstresearch.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudproxy.app
@@ -173,7 +168,6 @@ DOMAIN-SUFFIX,episodic.com
 DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,fflick.com
-DOMAIN-SUFFIX,financeleadsonline.com
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flutterapp.com
@@ -441,7 +435,6 @@ DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googlestore.com
 DOMAIN-SUFFIX,googlesverige.com
 DOMAIN-SUFFIX,googletagservices.com
-DOMAIN-SUFFIX,googletraveladservices-cn.com
 DOMAIN-SUFFIX,googleventures.com
 DOMAIN-SUFFIX,googlr.com
 DOMAIN-SUFFIX,goolge.com
@@ -657,7 +650,6 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
-DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,amp-error-reporting.appspot.com
 DOMAIN-SUFFIX,axislogger.appspot.com
 DOMAIN-SUFFIX,caspionlog.appspot.com
@@ -665,15 +657,12 @@ DOMAIN-SUFFIX,cookie-guard-erdee.ey.r.appspot.com
 DOMAIN-SUFFIX,csi.gstatic.com
 DOMAIN-SUFFIX,csp-collector.appspot.com
 DOMAIN-SUFFIX,fourmtagservices.appspot.com
-DOMAIN-SUFFIX,ga-tracker-dot-detmir-bonus.appspot.com
 DOMAIN-SUFFIX,green-griffin-860.appspot.com
 DOMAIN-SUFFIX,javascriptcounter.appspot.com
 DOMAIN-SUFFIX,literally-analytics.appspot.com
 DOMAIN-SUFFIX,ohm-dot-hackster-io.appspot.com
 DOMAIN-SUFFIX,optimeeze.appspot.com
 DOMAIN-SUFFIX,qubitanalytics.appspot.com
-DOMAIN-SUFFIX,tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
-DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com

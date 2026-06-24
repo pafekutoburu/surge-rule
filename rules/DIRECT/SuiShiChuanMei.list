@@ -1,9 +1,8 @@
 # SuiShiChuanMei
 # Policy: DIRECT
-# Total: 14 rules
+# Total: 13 rules
 #
 DOMAIN-SUFFIX,91friend.com
-DOMAIN-SUFFIX,adsit.cn
 DOMAIN-SUFFIX,aojiamarly.com
 DOMAIN-SUFFIX,ebaidutv.com
 DOMAIN-SUFFIX,mipujia.cn

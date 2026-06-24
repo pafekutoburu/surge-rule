@@ -1,6 +1,6 @@
 # ByteDance
 # Policy: DIRECT
-# Total: 370 rules
+# Total: 369 rules
 #
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
@@ -255,7 +255,6 @@ DOMAIN-SUFFIX,ribaoapi.com
 DOMAIN-SUFFIX,ribaocdn.com
 DOMAIN-SUFFIX,samasty.com
 DOMAIN-SUFFIX,semi.design
-DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,smartisan.cn
 DOMAIN-SUFFIX,smartisan.com
 DOMAIN-SUFFIX,smartisanos.cn

@@ -1,6 +1,6 @@
 # MIUIPrivacy
 # Policy: DIRECT
-# Total: 11 rules
+# Total: 10 rules
 #
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,cn.app.chat.xiaomi.net
@@ -8,7 +8,6 @@ DOMAIN,diagnosis.ad.xiaomi.com
 DOMAIN,idm.api.io.mi.com
 DOMAIN,log.ad.xiaomi.com
 DOMAIN,log.avlyun.sec.intl.miui.com
-DOMAIN,m.track.ad.xiaomi.com
 DOMAIN,qsb.browser.miui.srv
 DOMAIN,rom.pt.miui.srv
 DOMAIN,sdkconf.avlyun.com

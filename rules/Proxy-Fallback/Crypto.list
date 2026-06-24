@@ -1,6 +1,6 @@
 # Crypto
 # Policy: Proxy
-# Total: 207 rules
+# Total: 206 rules
 #
 DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-KEYWORD,binance
@@ -101,7 +101,6 @@ DOMAIN-SUFFIX,earni.fi
 DOMAIN-SUFFIX,eos.io
 DOMAIN-SUFFIX,eosflare.io
 DOMAIN-SUFFIX,eospark.com
-DOMAIN-SUFFIX,eostracker.io
 DOMAIN-SUFFIX,ethereum-magicians.org
 DOMAIN-SUFFIX,ethereum.cn
 DOMAIN-SUFFIX,ethereum.foundation

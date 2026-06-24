@@ -1,9 +1,8 @@
 # AppleProxy
 # Policy: Proxy
-# Total: 23 rules
+# Total: 22 rules
 #
 DOMAIN,api-glb-sea.smoot.apple.com
-DOMAIN,apple.comscoreresearch.com
 DOMAIN,books.itunes.apple.com
 DOMAIN,cdn.apple-cloudkit.com
 DOMAIN,devimages-cdn.apple.com

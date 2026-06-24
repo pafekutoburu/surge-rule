@@ -1,6 +1,6 @@
 # Cloud/AmazonCloud
 # Policy: Proxy
-# Total: 1828 rules
+# Total: 1827 rules
 #
 IP-CIDR,104.255.57.0/24
 IP-CIDR,104.255.58.0/23
@@ -1829,4 +1829,3 @@ DOMAIN-SUFFIX,dzgwautxzdtn9.cloudfront.net
 DOMAIN-SUFFIX,ecommstats.s3.amazonaws.com
 DOMAIN-SUFFIX,fkrkkmxsqeb5bj9r.s3.amazonaws.com
 DOMAIN-SUFFIX,nitrous-analytics.s3.amazonaws.com
-DOMAIN-SUFFIX,trafficfuelpixel.s3-us-west-2.amazonaws.com

@@ -1,6 +1,6 @@
 # Microsoft
 # Policy: Proxy
-# Total: 618 rules
+# Total: 609 rules
 #
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.com
@@ -98,7 +98,6 @@ DOMAIN-SUFFIX,b3itech.cn
 DOMAIN-SUFFIX,bbing.com
 DOMAIN-SUFFIX,bibg.com
 DOMAIN-SUFFIX,biing.com
-DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,binb.com
 DOMAIN-SUFFIX,binf.com
 DOMAIN-SUFFIX,bing
@@ -166,7 +165,6 @@ DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,explorebing.com
-DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,fluidpreview.com
@@ -194,7 +192,6 @@ DOMAIN-SUFFIX,ie8.co
 DOMAIN-SUFFIX,ie9.com
 DOMAIN-SUFFIX,imaginecup.pl
 DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
-DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,internetexplorer.co
 DOMAIN-SUFFIX,internetexplorer.com
@@ -225,7 +222,6 @@ DOMAIN-SUFFIX,mapblast.com
 DOMAIN-SUFFIX,mappoint.com
 DOMAIN-SUFFIX,masalladeloslimites.com
 DOMAIN-SUFFIX,mcchcdn.com
-DOMAIN-SUFFIX,meetfasttrack.com
 DOMAIN-SUFFIX,meetyourdevices.com
 DOMAIN-SUFFIX,mepn.com
 DOMAIN-SUFFIX,mesh.com
@@ -283,8 +279,6 @@ DOMAIN-SUFFIX,microsoft.vn
 DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,microsoftaccountguard.com
 DOMAIN-SUFFIX,microsoftadc.com
-DOMAIN-SUFFIX,microsoftads.com
-DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftazuread-sso.com
@@ -600,7 +594,6 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-KEYWORD,telemetry.officeapps.live.com
 DOMAIN-SUFFIX,analytics-consent-manager-v2-prod.azureedge.net
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,click360v2-ingest.azurewebsites.net
@@ -613,9 +606,7 @@ DOMAIN-SUFFIX,fp.measure.office.com
 DOMAIN-SUFFIX,fpt.microsoft.com
 DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
 DOMAIN-SUFFIX,microsoft.eventionapp.com
-DOMAIN-SUFFIX,msadsscale.azureedge.net
 DOMAIN-SUFFIX,rmgdapfnccsharpprd.azurewebsites.net
-DOMAIN-SUFFIX,smetric.ads.microsoft.com
 DOMAIN-SUFFIX,target.microsoft.com
 DOMAIN-KEYWORD,onedrive
 DOMAIN,login.microsoftonline.com

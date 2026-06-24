@@ -1,6 +1,6 @@
 # Baidu
 # Policy: DIRECT
-# Total: 250 rules
+# Total: 248 rules
 #
 DOMAIN-SUFFIX,17swan.com
 DOMAIN-SUFFIX,37swan.com
@@ -34,7 +34,6 @@ DOMAIN-SUFFIX,baidu.com.cn
 DOMAIN-SUFFIX,baidu.com.hk
 DOMAIN-SUFFIX,baidu.hk
 DOMAIN-SUFFIX,baidu.mobi
-DOMAIN-SUFFIX,baiduads.com
 DOMAIN-SUFFIX,baiduapp.com
 DOMAIN-SUFFIX,baidubce.cn
 DOMAIN-SUFFIX,baidubce.com.cn
@@ -111,7 +110,6 @@ DOMAIN-SUFFIX,chuanke.com
 DOMAIN-SUFFIX,cloud-control.top
 DOMAIN-SUFFIX,clouda.com
 DOMAIN-SUFFIX,cloudajs.org
-DOMAIN-SUFFIX,content4ads.com
 DOMAIN-SUFFIX,daoru.in
 DOMAIN-SUFFIX,data-schema.org.cn
 DOMAIN-SUFFIX,dlnel.com

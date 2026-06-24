@@ -1,6 +1,6 @@
 # KuaiShou
 # Policy: DIRECT
-# Total: 668 rules
+# Total: 664 rules
 #
 DOMAIN-SUFFIX,00y9334535.com
 DOMAIN-SUFFIX,027g3nkf40.com
@@ -296,8 +296,6 @@ DOMAIN-SUFFIX,kuai666m6vgmorxw77vb5.com
 DOMAIN-SUFFIX,kuai666ogv754urmpb4.com
 DOMAIN-SUFFIX,kuai666trqtauks5ht6x.com
 DOMAIN-SUFFIX,kuai666vs5aq9o3ytdgp.com
-DOMAIN-SUFFIX,kuaiads.cn
-DOMAIN-SUFFIX,kuaiads.com
 DOMAIN-SUFFIX,kuaiapps.com
 DOMAIN-SUFFIX,kuaishou.cn
 DOMAIN-SUFFIX,kuaishou.com
@@ -322,8 +320,6 @@ DOMAIN-SUFFIX,kwai666.com
 DOMAIN-SUFFIX,kwaiad.cn
 DOMAIN-SUFFIX,kwaiadapp.cn
 DOMAIN-SUFFIX,kwaiadapp.com
-DOMAIN-SUFFIX,kwaiads.cn
-DOMAIN-SUFFIX,kwaiads.com
 DOMAIN-SUFFIX,kwaibusiness.cn
 DOMAIN-SUFFIX,kwaibusiness.com
 DOMAIN-SUFFIX,kwaicdn.com

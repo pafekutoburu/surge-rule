@@ -1,6 +1,6 @@
 # Intel
 # Policy: Proxy
-# Total: 344 rules
+# Total: 343 rules
 #
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,acpica.com
@@ -252,7 +252,6 @@ DOMAIN-SUFFIX,saffrontech.com
 DOMAIN-SUFFIX,sensorynetworks.com
 DOMAIN-SUFFIX,siport.com
 DOMAIN-SUFFIX,smart-edge.com
-DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,theintelstore.com
 DOMAIN-SUFFIX,thunderbolttechnology.net
 DOMAIN-SUFFIX,trustedanalytics.com

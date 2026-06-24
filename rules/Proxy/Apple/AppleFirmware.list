@@ -1,6 +1,6 @@
 # AppleFirmware
 # Policy: Proxy
-# Total: 168 rules
+# Total: 167 rules
 #
 DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
 DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
@@ -112,7 +112,6 @@ DOMAIN-SUFFIX,icloud.se
 DOMAIN-SUFFIX,icloud.si
 DOMAIN-SUFFIX,icloud.sk
 DOMAIN-SUFFIX,icloud.vn
-DOMAIN-SUFFIX,icloudads.net
 DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,icloudbox.net
 DOMAIN-SUFFIX,icloudbrowser.net

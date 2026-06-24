@@ -1,6 +1,6 @@
 # AppleHardware
 # Policy: Proxy
-# Total: 226 rules
+# Total: 225 rules
 #
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,aplleipods.com
@@ -71,7 +71,6 @@ DOMAIN-SUFFIX,cooliphonecasesstore.com
 DOMAIN-SUFFIX,custom-iphonecase.com
 DOMAIN-SUFFIX,designeriphonescases.com
 DOMAIN-SUFFIX,dl-iphone.com
-DOMAIN-SUFFIX,downloadsforipod.com
 DOMAIN-SUFFIX,ebookforipad.com
 DOMAIN-SUFFIX,euroipad.com
 DOMAIN-SUFFIX,findmyipad.com
