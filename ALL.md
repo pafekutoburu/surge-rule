@@ -26,6 +26,7 @@
 | AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 1 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 26 |
 | Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 27 |
+| DNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/DNS.list` | 118 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 26 |
 | EasyPrivacy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/EasyPrivacy.list` | 38902 |
 | Flurry | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Flurry.list` | 1 |
@@ -633,7 +634,6 @@
 | Cloud-CloudGlobal | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Cloud-CloudGlobal.list` | 631 |
 | Crypto | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Crypto.list` | 207 |
 | Custom-Proxy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Custom-Proxy.list` | 175 |
-| DNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/DNS.list` | 118 |
 | Developer | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Developer.list` | 28 |
 | Emby | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Emby.list` | 64 |
 | Game | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Proxy-Fallback/Game.list` | 339 |
