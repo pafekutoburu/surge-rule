@@ -22,7 +22,6 @@
 | 规则集 | 规则集链接 | 规则数 |
 |--------|-----------|--------|
 | Hagezi-PRO-mini | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Hagezi-PRO-mini.list` | 77924 |
-| AdColony | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdColony.list` | 0 |
 | Addthis | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Addthis.list` | 1 |
 | AddToAny | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AddToAny.list` | 1 |
 | AdGuardSDNSFilter | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdGuardSDNSFilter.list` | 72070 |
@@ -30,7 +29,6 @@
 | AdvertisingLite | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingLite.list` | 2 |
 | AdvertisingMiTV | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingMiTV.list` | 142 |
 | AdvertisingTest | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdvertisingTest.list` | 27 |
-| AppLovin | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AppLovin.list` | 0 |
 | BlockHttpDNS | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/BlockHttpDNS.list` | 21 |
 | Custom-REJECT | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Custom-REJECT.list` | 25 |
 | Domob | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Domob.list` | 23 |
