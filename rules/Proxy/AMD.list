@@ -1,10 +1,9 @@
 # AMD
 # Policy: Proxy
-# Total: 6 rules
+# Total: 5 rules
 #
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,radeon.com
 DOMAIN-SUFFIX,link.global.amd.com
-DOMAIN-SUFFIX,metrics.amd.com

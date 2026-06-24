@@ -1,6 +1,6 @@
 # ProxyLite
 # Policy: Proxy
-# Total: 468 rules
+# Total: 465 rules
 #
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -30,7 +30,6 @@ DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
-DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -71,7 +70,6 @@ DOMAIN-SUFFIX,c-span.org
 DOMAIN-SUFFIX,castbox.fm
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cdn.angruo.com
-DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
@@ -124,7 +122,6 @@ DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getfoxyproxy.org

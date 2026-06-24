@@ -1,6 +1,6 @@
 # Cloud/AmazonCloud
 # Policy: Proxy
-# Total: 1827 rules
+# Total: 1825 rules
 #
 IP-CIDR,104.255.57.0/24
 IP-CIDR,104.255.58.0/23
@@ -1766,7 +1766,6 @@ IP-CIDR6,2a05:d050:e080::/44
 IP-CIDR6,2a05:d050:e0c0::/44
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,9w2zed1szg.execute-api.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,d11bdev7tcn7wh.cloudfront.net
 DOMAIN-SUFFIX,d169bbxks24g2u.cloudfront.net
 DOMAIN-SUFFIX,d1733r3id7jrw5.cloudfront.net
@@ -1828,4 +1827,3 @@ DOMAIN-SUFFIX,dy2xcjk8s1dbz.cloudfront.net
 DOMAIN-SUFFIX,dzgwautxzdtn9.cloudfront.net
 DOMAIN-SUFFIX,ecommstats.s3.amazonaws.com
 DOMAIN-SUFFIX,fkrkkmxsqeb5bj9r.s3.amazonaws.com
-DOMAIN-SUFFIX,nitrous-analytics.s3.amazonaws.com

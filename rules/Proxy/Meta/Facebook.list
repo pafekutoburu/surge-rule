@@ -1,6 +1,6 @@
 # Facebook
 # Policy: Proxy
-# Total: 651 rules
+# Total: 650 rules
 #
 DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,aboutfacebook.com
@@ -269,7 +269,6 @@ DOMAIN-SUFFIX,facewbook.co
 DOMAIN-SUFFIX,facewook.com
 DOMAIN-SUFFIX,facfacebook.com
 DOMAIN-SUFFIX,facfebook.com
-DOMAIN-SUFFIX,faciometrics.com
 DOMAIN-SUFFIX,fackebook.com
 DOMAIN-SUFFIX,facnbook.com
 DOMAIN-SUFFIX,facrbook.com

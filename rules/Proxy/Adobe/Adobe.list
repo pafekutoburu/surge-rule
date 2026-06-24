@@ -1,6 +1,6 @@
 # Adobe
 # Policy: Proxy
-# Total: 241 rules
+# Total: 236 rules
 #
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN-KEYWORD,adobe
@@ -157,9 +157,7 @@ DOMAIN-SUFFIX,adobe.sukoonglobalhealth.com
 DOMAIN-SUFFIX,adobe.toridoll.com
 DOMAIN-SUFFIX,adobe.truckscout24.com
 DOMAIN-SUFFIX,adobe.wacoal.jp
-DOMAIN-SUFFIX,analytics.adobe.ly
 DOMAIN-SUFFIX,anapp.adobe.com
-DOMAIN-SUFFIX,atsmetrics.adobe.com
 DOMAIN-SUFFIX,b2binsider.adobe.com
 DOMAIN-SUFFIX,data.aem-sites-internal.adobe.com
 DOMAIN-SUFFIX,data.b2bmail.adobe.com
@@ -229,10 +227,7 @@ DOMAIN-SUFFIX,lp.kkaufmansb.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lp.owarnersb.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lp.owarnersbdev.journeyusshared.adobe.com
 DOMAIN-SUFFIX,lptest.email-mobiledx.cjm.adobe.com
-DOMAIN-SUFFIX,metrics.adobe.nb.com
-DOMAIN-SUFFIX,metrics.adobe.nbprivatewealth.com
 DOMAIN-SUFFIX,newtest.wunderman-email.cjm.adobe.com
-DOMAIN-SUFFIX,sanalytics.adobe.tp.gskpro.com
 DOMAIN-SUFFIX,secureflashplayerfeedback.adobe.com
 DOMAIN-SUFFIX,sms.email-disney.cjm.adobe.com
 DOMAIN-SUFFIX,sms.email-mobiledx.cjm.adobe.com

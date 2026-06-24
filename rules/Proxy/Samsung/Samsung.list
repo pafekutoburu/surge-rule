@@ -1,6 +1,6 @@
 # Samsung
 # Policy: Proxy
-# Total: 28 rules
+# Total: 27 rules
 #
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,galaxyappstore.com
@@ -29,4 +29,3 @@ DOMAIN-SUFFIX,lp.apac.business.samsung.com
 DOMAIN-SUFFIX,lp.europe.business.samsung.com
 DOMAIN-SUFFIX,lp.smartbusiness.samsung.com
 DOMAIN-SUFFIX,seao.business.samsung.com
-DOMAIN-SUFFIX,smetrics.samsung.com.cn

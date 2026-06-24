@@ -1,6 +1,6 @@
 # Apple
 # Policy: Proxy
-# Total: 102 rules
+# Total: 100 rules
 #
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
@@ -82,8 +82,6 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,apple.www.letv.com
-DOMAIN-SUFFIX,securemetrics-z.v.aaplimg.com
-DOMAIN-SUFFIX,supportmetrics.apple.com
 IP-CIDR,17.87.244.0/22
 DOMAIN,init.ess.apple.com
 DOMAIN,smp-device-content.apple.com

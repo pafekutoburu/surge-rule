@@ -1,6 +1,6 @@
 # Google
 # Policy: Proxy
-# Total: 677 rules
+# Total: 674 rules
 #
 DOMAIN,voice.telephony.goog
 DOMAIN-KEYWORD,appspot
@@ -655,14 +655,11 @@ DOMAIN-SUFFIX,axislogger.appspot.com
 DOMAIN-SUFFIX,caspionlog.appspot.com
 DOMAIN-SUFFIX,cookie-guard-erdee.ey.r.appspot.com
 DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,csp-collector.appspot.com
 DOMAIN-SUFFIX,fourmtagservices.appspot.com
 DOMAIN-SUFFIX,green-griffin-860.appspot.com
 DOMAIN-SUFFIX,javascriptcounter.appspot.com
-DOMAIN-SUFFIX,literally-analytics.appspot.com
 DOMAIN-SUFFIX,ohm-dot-hackster-io.appspot.com
 DOMAIN-SUFFIX,optimeeze.appspot.com
-DOMAIN-SUFFIX,qubitanalytics.appspot.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
 DOMAIN,alt3-mtalk.google.com

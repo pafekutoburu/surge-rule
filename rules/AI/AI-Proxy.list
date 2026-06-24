@@ -171,7 +171,6 @@ DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN,civitai.com
-DOMAIN-SUFFIX,datadoghq.com
 DOMAIN,gateway.ai.cloudflare.com
 IP-CIDR,185.199.108.133/32
 DOMAIN-SUFFIX,api.jetbrains.ai

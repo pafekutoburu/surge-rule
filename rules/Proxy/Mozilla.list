@@ -1,6 +1,6 @@
 # Mozilla
 # Policy: Proxy
-# Total: 22 rules
+# Total: 21 rules
 #
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,crates.io
@@ -21,6 +21,5 @@ DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,seamonkey-project.org
-DOMAIN-SUFFIX,sentry.prod.mozaws.net
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN,addons.mozilla.org

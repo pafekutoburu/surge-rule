@@ -1,6 +1,6 @@
 # Disney
 # Policy: Proxy
-# Total: 180 rules
+# Total: 177 rules
 #
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,babyzone.com
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
-DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,disney-asia.com
@@ -53,7 +52,6 @@ DOMAIN-SUFFIX,disney.in
 DOMAIN-SUFFIX,disney.io
 DOMAIN-SUFFIX,disney.it
 DOMAIN-SUFFIX,disney.my
-DOMAIN-SUFFIX,disney.my.sentry.io
 DOMAIN-SUFFIX,disney.nl
 DOMAIN-SUFFIX,disney.no
 DOMAIN-SUFFIX,disney.ph
@@ -168,7 +166,6 @@ DOMAIN-SUFFIX,watchespn.com
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
 USER-AGENT,Disney+*
-DOMAIN-SUFFIX,analytics.disney.go.com
 DOMAIN-SUFFIX,sw88.disney.be
 DOMAIN-SUFFIX,sw88.disney.bg
 DOMAIN-SUFFIX,sw88.disney.co.il

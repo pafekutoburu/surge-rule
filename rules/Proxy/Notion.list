@@ -1,11 +1,10 @@
 # Notion
 # Policy: Proxy
-# Total: 7 rules
+# Total: 6 rules
 #
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,analytics.pgncs.notion.so
 DOMAIN-SUFFIX,exp.notion.so

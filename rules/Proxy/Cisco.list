@@ -1,6 +1,6 @@
 # Cisco
 # Policy: Proxy
-# Total: 128 rules
+# Total: 127 rules
 #
 DOMAIN-SUFFIX,academynetriders.com
 DOMAIN-SUFFIX,app-dynamics.com
@@ -122,7 +122,6 @@ DOMAIN-SUFFIX,wifi-mx.com
 DOMAIN-SUFFIX,youtubecisco.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,db.tt
-DOMAIN-SUFFIX,clnmetrics.cisco.com
 DOMAIN-SUFFIX,go.securitymsp.cisco.com
 DOMAIN-SUFFIX,images.response.cisco.com
 DOMAIN-SUFFIX,journey.cisco.com

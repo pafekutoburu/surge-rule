@@ -1,6 +1,6 @@
 # Yandex
 # Policy: Proxy
-# Total: 54 rules
+# Total: 53 rules
 #
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,ya.ru
@@ -50,7 +50,6 @@ IP-CIDR,93.158.128.0/18
 IP-CIDR,95.108.128.0/17
 IP-CIDR6,2620:10f:d000::/44
 IP-CIDR6,2a02:6b8::/29
-DOMAIN-SUFFIX,analytics.mobile.yandex.net
 DOMAIN-SUFFIX,awaps.yandex.net
 DOMAIN-SUFFIX,events.plus.yandex.net
 DOMAIN-SUFFIX,informer.yandex.ru

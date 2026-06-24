@@ -22,7 +22,7 @@
 | 规则集 | 规则集链接 | 规则数 |
 |--------|-----------|--------|
 | Hagezi-PRO-mini | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Hagezi-PRO-mini.list` | 77924 |
-|| AD-Fallback | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AD-Fallback.list` | 74 |
+|| AD-Fallback | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AD-Fallback.list` | 203 |
 | Addthis | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/Addthis.list` | 1 |
 | AddToAny | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AddToAny.list` | 1 |
 | AdGuardSDNSFilter | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AD-Blocked/AdGuardSDNSFilter.list` | 72070 |

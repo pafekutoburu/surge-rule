@@ -1,6 +1,6 @@
 # XiaoMi
 # Policy: DIRECT
-# Total: 169 rules
+# Total: 168 rules
 #
 DOMAIN-SUFFIX,408399.com
 DOMAIN-SUFFIX,408399.net
@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,aos-incentive.huami.com
 DOMAIN-SUFFIX,api-aos-cnbj6.huami.com
 DOMAIN-SUFFIX,api-mifit-cn.huami.com
 DOMAIN-SUFFIX,api-mifit.huami.com
-DOMAIN-SUFFIX,app-analytics-cn.huami.com
 DOMAIN-SUFFIX,duokanbox.com
 DOMAIN-SUFFIX,facephoto.com
 DOMAIN-SUFFIX,fe-cdn.huami.com

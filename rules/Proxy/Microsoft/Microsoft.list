@@ -1,6 +1,6 @@
 # Microsoft
 # Policy: Proxy
-# Total: 609 rules
+# Total: 604 rules
 #
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,1drv.com
@@ -139,7 +139,6 @@ DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,cortana.ai
-DOMAIN-SUFFIX,cortanaanalytics.com
 DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,cosmosdb.info
 DOMAIN-SUFFIX,cosmosdb.net
@@ -303,7 +302,6 @@ DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
 DOMAIN-SUFFIX,microsoftlatamaitour.com
 DOMAIN-SUFFIX,microsoftlatamholiday.com
 DOMAIN-SUFFIX,microsoftlinc.com
-DOMAIN-SUFFIX,microsoftmetrics.cn
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
 DOMAIN-SUFFIX,microsoftnews.cc
 DOMAIN-SUFFIX,microsoftnews.cn
@@ -442,7 +440,6 @@ DOMAIN-SUFFIX,officedev.cn
 DOMAIN-SUFFIX,officeplus.cn
 DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,officewebapps.cn
-DOMAIN-SUFFIX,onecollector.cloudapp.aria
 DOMAIN-SUFFIX,onedrive.co
 DOMAIN-SUFFIX,onedrive.co.uk
 DOMAIN-SUFFIX,onedrive.eu
@@ -454,7 +451,6 @@ DOMAIN-SUFFIX,onmicrosoft.com
 DOMAIN-SUFFIX,onmschina.cn
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,opticsforthecloud.net
-DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,osdinfra.net
 DOMAIN-SUFFIX,outingsapp.com
 DOMAIN-SUFFIX,outlook.cn
@@ -594,7 +590,6 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,analytics-consent-manager-v2-prod.azureedge.net
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,click360v2-ingest.azurewebsites.net
 DOMAIN-SUFFIX,connext-cdn.azureedge.net

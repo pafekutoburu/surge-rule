@@ -1,6 +1,6 @@
 # NetEaseMusic
 # Policy: DIRECT
-# Total: 19 rules
+# Total: 18 rules
 #
 DOMAIN-SUFFIX,api.iplay.163.com
 DOMAIN-SUFFIX,hz.netease.com
@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,netease.com
 DOMAIN,lofter.httpdns.c.163.com
 DOMAIN,music.httpdns.c.163.com
 DOMAIN-SUFFIX,da.netease.com
-DOMAIN-SUFFIX,h5.analytics.126.net
 DOMAIN-SUFFIX,stat.ws.126.net
 DOMAIN-SUFFIX,timejs.game.163.com
 DOMAIN-SUFFIX,music.126.net
