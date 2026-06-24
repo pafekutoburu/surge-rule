@@ -11,6 +11,12 @@
 | AI-Direct | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/AI-Direct.list` | 24 |
 | AI-Proxy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/AI/AI-Proxy.list` | 158 |
 
+## Mail
+
+| 规则集 | 规则集链接 | 规则数 |
+|--------|-----------|--------|
+| Mail-Proxy | `https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/rules/Mail/Mail-Proxy.list` | 86 |
+
 ## AD-Blocked
 
 | 规则集 | 规则集链接 | 规则数 |
