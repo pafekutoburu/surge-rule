@@ -1,0 +1,22 @@
+# DNS
+# Policy: REJECT
+# Total: 18 rules
+#
+DOMAIN,1dot1dot1dot1.cloudflare-dns.com
+DOMAIN,chrome.cloudflare-dns.com
+DOMAIN,cloudflare-dns.com
+DOMAIN,dns.alidns.com
+DOMAIN,dns.google
+DOMAIN,dns.twnic.tw
+DOMAIN,doh.pub
+DOMAIN,family.cloudflare-dns.com
+DOMAIN,mozilla.cloudflare-dns.com
+DOMAIN,opera.cloudflare-dns.com
+DOMAIN,ordns.he.net
+DOMAIN,security.cloudflare-dns.com
+DOMAIN,sm2.doh.pub
+IP-CIDR,101.101.101.101/32
+IP-CIDR,223.5.5.5/32
+IP-CIDR,223.6.6.6/32
+IP-CIDR,8.8.4.4/32
+IP-CIDR,8.8.8.8/32
