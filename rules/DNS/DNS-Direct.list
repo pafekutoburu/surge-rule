@@ -1,5 +1,5 @@
 # DNS
-# Policy: REJECT
+# Policy: Direct
 # Total: 18 rules
 #
 DOMAIN,1dot1dot1dot1.cloudflare-dns.com
