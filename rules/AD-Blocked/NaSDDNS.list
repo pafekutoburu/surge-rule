@@ -2,7 +2,6 @@
 # Policy: REJECT
 # Total: 43 rules
 #
-DOMAIN-KEYWORD,qcloud
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,account.synology.com
 DOMAIN-SUFFIX,aliyuncs.com
