@@ -5,5 +5,5 @@
 #
 DOMAIN,dns.alidns.com
 DOMAIN,doh.360.cn
-DOMAIN,doh.pub
+DOMAIN,doh.pub.cn
 IP-CIDR,1.12.12.12/32
