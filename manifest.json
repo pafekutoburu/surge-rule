@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "baseURL": "https://raw.githubusercontent.com/pafekutoburu/surge-rule/refs/heads/main/",
- "generatedAt": "2026-07-29T15:23:39Z",
+ "generatedAt": "2026-07-29T15:31:28Z",
  "entries": [
   {
    "path": "rules/AD-Blocked/AD-Fallback.list",
@@ -9088,7 +9088,7 @@
    ],
    "ruleCount": 6398,
    "layer": "authored",
-   "updatedAt": "2026-07-29T15:23:39Z"
+   "updatedAt": "2026-07-29T15:23:43Z"
   },
   {
    "path": "sets/region/cn-ipv4.list",
@@ -9100,7 +9100,7 @@
    ],
    "ruleCount": 8788,
    "layer": "authored",
-   "updatedAt": "2026-07-29T15:23:39Z"
+   "updatedAt": "2026-07-29T15:23:43Z"
   },
   {
    "path": "sets/region/cn-ipv6.list",
@@ -9112,7 +9112,7 @@
    ],
    "ruleCount": 2040,
    "layer": "authored",
-   "updatedAt": "2026-07-29T15:23:39Z"
+   "updatedAt": "2026-07-29T15:23:43Z"
   }
  ]
 }

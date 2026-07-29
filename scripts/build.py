@@ -89,6 +89,19 @@ def write_list(rel_path, title, source_note, lines):
     """
     path = os.path.join(REPO, rel_path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    # 🔴 **内容没变就不重写。** 表头里有生成时间,无脑重写会让每天的定时任务都产生
+    #    一条「只改了时间戳」的提交 —— 而 manifest 的 updatedAt 取的是 git 最后提交时间,
+    #    于是**每份清单都会永远显示「刚刚更新」**,新鲜度这个功能当场作废。
+    #    那等于把「这份东西半年没变过」说成「它天天在更新」,是同一类失真。
+    if os.path.exists(path):
+        with open(path, encoding="utf-8", errors="replace") as f:
+            existing = [s for s in (line.strip() for line in f)
+                        if s and not s.startswith("#")]
+        if existing == lines:
+            print(f"  {rel_path}: {len(lines)} 条(内容未变,保持原文件)")
+            return len(lines)
+
     body = "\n".join(lines)
     header = (
         f"# {title}\n"
@@ -255,9 +268,13 @@ def build_manifest(generated_counts):
                     "ruleCount": generated_counts.get(rel) or rule_count(full),
                     "layer": "authored" if is_authored else "mirrored",
                 }
-                stamp = NOW if is_authored else times.get(rel)
-                # ⚠️ 拿不到时间戳就**不写这个字段**,绝不用「现在」顶替 ——
-                #    那会把一份停更两年的清单显示成刚更新过。
+                # 🔴 **一律用 git 最后提交时间,自建的也不例外。**
+                #    早先这里给 sets/ 写的是「本次生成时间」—— 那样每天跑完都是「刚更新」,
+                #    哪怕 APNIC 半年没动过数据。**「跑过一次」不等于「内容变过」**,
+                #    而用户想知道的是后者。配合 write_list 的「内容没变不重写」,
+                #    git 时间才真正等于「这份内容上次变化的时间」。
+                # ⚠️ 拿不到就**不写这个字段**(全新文件尚未提交),绝不用「现在」顶替。
+                stamp = times.get(rel)
                 if stamp:
                     entry["updatedAt"] = stamp
                 upstream = upstream_for(rel)
