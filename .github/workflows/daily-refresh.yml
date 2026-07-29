@@ -1,42 +1,74 @@
+# 每日重建 sets/ 与 manifest.json。
+#
+# 🔴 这个 workflow 此前**从未成功运行过一次**(实测:40 次运行记录全部是 push 事件、
+#    全部失败、全部 0 秒;schedule 一次都没点着)。根因是上一版的 YAML **根本解析不了**:
+#
+#      run: |
+#        python3 -c "
+#      import urllib.request, os      ← 第 0 列!比块标量的缩进还浅
+#
+#    YAML 的 `|` 块标量以第一行非空内容确定缩进,遇到更浅的行就**终止块标量** ——
+#    于是 `import urllib.request, os` 掉到映射层变成语法垃圾,整份文件解析失败。
+#    GitHub 对解析不了的 workflow 会记一条 0 秒的 startup_failure 并挂在触发它的 push 上,
+#    **而 cron 永远不会触发一个解析不了的文件**。这就是「每天凌晨 3 点自动刷新」成为假话的全过程。
+#
+#    ⚠️ 上一版里那段 `$(for f in /tmp/rs_downloads/*.list; …)` 是**另一个**真实 bug
+#    (那是写文件时本该展开、却被原样提交的命令替换;runner 上没有这个目录,
+#    glob 不匹配时 bash 原样保留,下载全部失败后被 `except: pass` 吞掉 ⇒ 产出空文件),
+#    但它**不是**没跑起来的原因 —— 文件压根没走到执行那一步。两个 bug 都已消除。
+#
+#    第三处修补:补上 `permissions: contents: write` —— 旧文件没写,
+#    即便前两个问题都不存在,最后那步 git push 也会被拒。
+
 name: Daily Refresh
 
 on:
   schedule:
+    # 每日 02:00 UTC(= 北京时间 10:00)。
+    # ⚠️ README 里那句「每天凌晨 3 点」在这个文件里从来没有对应物,已一并改掉。
     - cron: '0 2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  refresh:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - name: Download upstream rules
+          # build.py 要读 git 历史算每个文件的最后改动时间(manifest 的 updatedAt)。
+          # 浅克隆拿不到历史 ⇒ 时间戳会集体缺失 ⇒ app 里所有清单都显示成「不知道多久没更新」。
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build sets/ and manifest.json
+        run: python3 scripts/build.py
+
+      - name: Verify rules/ stayed frozen
+        # 🔴 冻结不变式:rules/ 是历史镜像,生成器只准读、不准改。
+        #    这一步把「不准改」从注释变成一条会让 CI 变红的机器判据 ——
+        #    因为使用者的配置正引用着那 600 多个地址,悄悄改动它们就是在动别人的网络。
         run: |
-          python3 -c "
-import urllib.request, os
-urls = [
-$(for f in /tmp/rs_downloads/*.list; do echo "'$(basename $f)',"; done)
-]
-dl = '/tmp/surge-refresh'
-os.makedirs(dl, exist_ok=True)
-for u in urls:
-    try:
-        req = urllib.request.Request('https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/' + u.replace('.list','') + '/' + u)
-        resp = urllib.request.urlopen(req, timeout=15)
-        with open(os.path.join(dl, u), 'w') as f: f.write(resp.read().decode())
-    except: pass
-"
-      - name: Generate rules
+          if ! git diff --quiet -- rules/; then
+            echo "::error::rules/ 被改动了,它应当保持冻结。改动如下:"
+            git diff --stat -- rules/
+            exit 1
+          fi
+          echo "rules/ 未被触碰 ✓"
+
+      - name: Commit and push if changed
         run: |
-          python3 scripts/generate.py
-      - name: Commit & push
-        run: |
-          git config user.name 'succichang'
-          git config user.email 'succichang@users.noreply.github.com'
-          git add -A rules/ surge.conf
-          git diff --quiet && git diff --staged --quiet \
-            || (git commit -m 'auto-refresh $(date +%Y-%m-%d)' && git push)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add sets/ manifest.json
+          if git diff --staged --quiet; then
+            echo "无变化,不提交。"
+          else
+            git commit -m "auto: rebuild sets/ and manifest.json ($(date -u +%Y-%m-%d))"
+            git push
+          fi
