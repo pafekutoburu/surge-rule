@@ -1,7 +1,14 @@
 # AI-Proxy
 # Policy: Proxy
+# Last reviewed: 2026-10-07
+# Scope: international AI services, APIs, coding assistants and generators.
+# Mainland China AI providers belong in AI-Direct.list.
+# Shared infrastructure uses scoped domains or hosts, not cloud ASNs or IPs.
+# This is a routing list, not an exhaustive firewall allowlist.
 
-# Google / Gemini
+# Google / Gemini / NotebookLM / Jules / Antigravity / Stitch
+# https://antigravity.google/
+# https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-gemini-3/
 DOMAIN,accounts.google.com
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -9,6 +16,7 @@ DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,apis.google.com
+DOMAIN,colab.research.google.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,geller-pa.googleapis.com
 DOMAIN,jules.google.com
@@ -16,12 +24,11 @@ DOMAIN,oauth2.googleapis.com
 DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,ssl.gstatic.com
+DOMAIN,stitch.withgoogle.com
 DOMAIN,www.googleapis.com
 DOMAIN,www.gstatic.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
@@ -35,35 +42,41 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
-# OpenAI / ChatGPT
+# OpenAI / ChatGPT / Sora
+# https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
+DOMAIN,cdn.openaimerge.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,openaicom-api
+DOMAIN,rum.browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,sora.com
 
 # Microsoft / Copilot
-DOMAIN,api.githubcopilot.com
+# https://support.microsoft.com/en-us/Microsoft-Copilot/connecting-microsoft-copilot-to-other-services
+# https://learn.microsoft.com/copilot/overview
+# https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
 DOMAIN,assets.msn.com
-DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot.cloud.microsoft
 DOMAIN,copilot.microsoft.com
+DOMAIN,copilotstudio.microsoft.com
 DOMAIN,gateway.bingviz.microsoft.net
 DOMAIN,gateway.bingviz.microsoftapp.net
 DOMAIN,location.microsoft.com
+DOMAIN,m365.cloud.microsoft
 DOMAIN,odc.officeapps.live.com
 DOMAIN,r.bing.com
 DOMAIN,self.events.data.microsoft.com
@@ -71,15 +84,23 @@ DOMAIN,services.bingapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
-DOMAIN-SUFFIX,algolia.net
-DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,m365copilot.com
+
+# GitHub Copilot
+# https://docs.github.com/en/copilot/reference/copilot-allowlist-reference
+DOMAIN,api.github.com
+DOMAIN,avatars.githubusercontent.com
+DOMAIN,collector.github.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,default.exp-tas.com
+DOMAIN,github.com
+DOMAIN,github.githubassets.com
+DOMAIN,origin-tracker.githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
-IP-ASN,14061
-IP-ASN,20473
-IP-CIDR,24.199.123.28/32
-IP-CIDR,64.23.132.171/32
 
 # Anthropic / Claude
 DOMAIN,servd-anthropic-website.b-cdn.net
@@ -89,7 +110,12 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # xAI / Grok
+# Cursor shares these authentication hosts; avoid proxying all of spacex.ai.
+# https://cursor.com/help/troubleshooting/sign-in-domains
+DOMAIN,accounts.spacex.ai
+DOMAIN,auth.grokipedia.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokusercontent.com
 DOMAIN-SUFFIX,x.ai
 
 # Meta AI
@@ -100,13 +126,20 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
 
 # Hugging Face
+# https://huggingface.co/docs/hub/spaces-embed
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 
 # AI Cloud & Platforms
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ai21.com
 DOMAIN-SUFFIX,anyscale.com
+DOMAIN-SUFFIX,arena.ai
+DOMAIN-SUFFIX,assemblyai.com
 DOMAIN-SUFFIX,beautiful.ai
 DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,cartesia.ai
 DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,clipdrop.co
@@ -116,21 +149,30 @@ DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,consensus.app
 DOMAIN-SUFFIX,copy.ai
 DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,deepgram.com
+DOMAIN-SUFFIX,deepinfra.com
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,elicit.com
 DOMAIN-SUFFIX,fireworks.ai
 DOMAIN-SUFFIX,gamma.app
+DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,ideogram.ai
 DOMAIN-SUFFIX,inflection.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,krea.ai
 DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,lovable.dev
 DOMAIN-SUFFIX,luma.ai
 DOMAIN-SUFFIX,lumalabs.ai
+DOMAIN-SUFFIX,manus.ai
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,openart.ai
@@ -139,12 +181,13 @@ DOMAIN-SUFFIX,phind.com
 DOMAIN-SUFFIX,pi.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,quillbot.com
+DOMAIN-SUFFIX,recraft.ai
+DOMAIN-SUFFIX,reka.ai
 DOMAIN-SUFFIX,replicate.com
 DOMAIN-SUFFIX,replit.com
 DOMAIN-SUFFIX,runwayml.com
 DOMAIN-SUFFIX,scite.ai
 DOMAIN-SUFFIX,seaart.ai
-DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,speechify.com
 DOMAIN-SUFFIX,stability.ai
 DOMAIN-SUFFIX,suno.ai
@@ -152,25 +195,55 @@ DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,together.ai
 DOMAIN-SUFFIX,together.xyz
 DOMAIN-SUFFIX,udio.com
+DOMAIN-SUFFIX,v0.app
 DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,writer.com
 DOMAIN-SUFFIX,writesonic.com
 DOMAIN-SUFFIX,you.com
 
-# Utilities & SDK
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
+# Added provider references (the suffix rules above include their APIs):
+# https://www.ai21.com/
+# https://help.arena.ai/articles/2669202654-lmarena-how-to
+# https://www.assemblyai.com/docs/guides/custom-topic-tags
+# https://www.cartesia.ai/blog/multilingual-voices
+# https://cursor.com/help/troubleshooting/network
+# https://developers.deepgram.com/trust-security/your-data
+# https://docs.nvidia.com/openshell/dev/how-it-works/providers/overview
+# https://blog.genspark.ai/
+# https://manus.im/
+# https://www.recraft.ai/docs
+# https://docs.reka.ai/quickstart
+# https://v0.app/docs/quickstart
+
+# Black Forest Labs / FLUX
+# https://docs.bfl.ai/quick_start/introduction
+DOMAIN-SUFFIX,bfl.ai
+
+# fal: web, inference API and generated media
+# https://fal.ai/models/fal-ai/patina
+DOMAIN-SUFFIX,fal.ai
+DOMAIN-SUFFIX,fal.media
+DOMAIN-SUFFIX,fal.run
+
+# NVIDIA API Catalog / NIM (keep other NVIDIA services on their normal policy)
+# https://docs.nvidia.com/nemo/evaluator/nightly/get-started/quickstart
+DOMAIN,build.nvidia.com
+DOMAIN,integrate.api.nvidia.com
+
+# Utilities & SDK / documented shared ChatGPT dependencies
+# https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
+DOMAIN,cdn.workos.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,forwarder.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,js.intercomcdn.com
+DOMAIN,js.stripe.com
+DOMAIN,setup.workos.com
+DOMAIN,workos.imgix.net
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,observeit.net
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
-DOMAIN,civitai.com
+DOMAIN-SUFFIX,civitai.com
 DOMAIN,gateway.ai.cloudflare.com
-IP-CIDR,185.199.108.133/32
 DOMAIN-SUFFIX,api.jetbrains.ai
