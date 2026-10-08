@@ -102,12 +102,42 @@ DOMAIN,github.githubassets.com
 DOMAIN,origin-tracker.githubusercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
 
-# Anthropic / Claude
+# Anthropic / Claude / Claude Code / Cowork / MCP Apps
+# Core suffixes include API, Console, OAuth, docs, support, updates and assets.
+# https://code.claude.com/docs/en/desktop#network-access-requirements
+# https://claude.com/docs/connectors/building/mcp-apps/getting-started
+# https://claude.com/docs/claude-science/network-requirements
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+
+# Short links: https://github.com/anthropics/claude-plugins-community
+# Developer site: https://claude.dev/
+# Artifact links: Claude Code 2.1.292 artifact-URL classifier.
+# MCP client frame: https://claude.site/ Content-Security-Policy; registrar
+# RDAP lists Anthropic PBC: https://rdap.markmonitor.com/rdap/domain/CLAUDEMCPCLIENT.COM
+# Binary cross-check: https://downloads.claude.ai/claude-code-releases/2.1.292/manifest.json
+
+# Anthropic-specific production endpoints on partner infrastructure.
+# https://claude.com/docs/government/deploy-desktop/configure
+# https://docs.cloud.google.com/organization-policy/reference/restrict-services-supported-services
+# https://platform.claude.com/docs/en/build-with-claude/claude-platform-on-aws
+# The two Government hosts are also in Claude Code 2.1.292's gateway allowlist.
+DOMAIN,claude.googleapis.com
+DOMAIN-SUFFIX,claude.fedstart.com
+DOMAIN-SUFFIX,claude.palantirfedstart.com
+DOMAIN-WILDCARD,aws-external-anthropic.*.api.aws
+
+# Claude Code feature flags: exact shared host from the verified 2.1.292 binary.
+DOMAIN,cdn.growthbook.io
 
 # xAI / Grok
 # Cursor shares these authentication hosts; avoid proxying all of spacex.ai.
