@@ -1,38 +1,29 @@
 # OpenAI-Proxy
 # Policy: Proxy
-# Extracted from AI-Proxy.list: OpenAI / ChatGPT / Sora and shared dependencies.
+# Last reviewed: 2026-10-18
+# Scope: OpenAI / ChatGPT / Sora domains and OpenAI-specific hosted endpoints.
+# Shared third-party hosts are intentionally excluded; route them separately.
 # This is a routing list, not an exhaustive firewall allowlist.
 
-# OpenAI / ChatGPT / Sora
+# OpenAI domains
 # https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
 DOMAIN,cdn.openaimerge.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+
+# OpenAI-specific CDN, storage, verification and voice endpoints
+# https://github.com/v2fly/domain-list-community/blob/master/data/openai
+# https://developer.arkoselabs.com/docs/standard-setup
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
-DOMAIN,rum.browser-intake-datadoghq.com
-DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaistatsig.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
-DOMAIN-SUFFIX,sora.com
-
-# Documented shared ChatGPT dependencies
-# https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
-DOMAIN,cdn.workos.com
-DOMAIN,challenges.cloudflare.com
-DOMAIN,forwarder.workos.com
-DOMAIN,images.workoscdn.com
-DOMAIN,js.intercomcdn.com
-DOMAIN,js.stripe.com
-DOMAIN,setup.workos.com
-DOMAIN,workos.imgix.net
-DOMAIN-SUFFIX,host.livekit.cloud
-DOMAIN-SUFFIX,turn.livekit.cloud
