@@ -1,11 +1,13 @@
 # OpenAI-Proxy
 # Policy: Proxy
 # Last reviewed: 2026-10-18
-# Scope: OpenAI / ChatGPT / Sora domains and OpenAI-specific hosted endpoints.
+# Scope: OpenAI services, official demos and OpenAI-specific hosted endpoints.
 # Shared third-party hosts are intentionally excluded; route them separately.
+# Domain rules cannot cover direct-IP voice traffic or arbitrary external apps.
 # This is a routing list, not an exhaustive firewall allowlist.
 
-# OpenAI domains
+# OpenAI / ChatGPT / API / Codex / Sora
+# Suffixes cover auth, API, WebSocket, downloads, assets and user-content hosts.
 # https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
 DOMAIN,cdn.openaimerge.com
 DOMAIN-SUFFIX,chat.com
@@ -16,14 +18,58 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
 
-# OpenAI-specific CDN, storage, verification and voice endpoints
-# https://github.com/v2fly/domain-list-community/blob/master/data/openai
+# ChatGPT Sites: OpenAI-owned hosting domain (including published subdomains).
+# https://openai.com/policies/chatgpt-sites-terms/
+DOMAIN-SUFFIX,chatgpt.site
+
+# Prism / acquired Crixet platform.
+# https://openai.com/index/introducing-prism/
+DOMAIN-SUFFIX,crixet.com
+
+# OpenAI's additional API/auth domain, also recognized by the official Codex CLI.
+# https://github.com/openai/codex/blob/main/codex-rs/login/src/success_page.rs
+# https://github.com/v2fly/domain-list-community/commit/5b1678867da0afc35854f481c1749a39048952df
+DOMAIN-SUFFIX,openai.org
+
+# OpenAI-specific CDN, storage, verification and voice endpoints.
+# Keep provider-wide Cloudflare, Azure, Arkose and LiveKit domains out of this set.
+# https://github.com/v2fly/domain-list-community/blob/5b1678867da0afc35854f481c1749a39048952df/data/openai
 # https://developer.arkoselabs.com/docs/standard-setup
-DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+
+# Dynamic ChatGPT Azure Web PubSub hosts: match only the OpenAI naming prefix.
+# https://github.com/v2fly/domain-list-community/blob/5b1678867da0afc35854f481c1749a39048952df/data/openai
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-*.webpubsub.azure.com
+
+# OpenAI project-specific diagnostics and survey hosts; not whole vendor domains.
+# https://help.openai.com/en/articles/9247338-network-recommendations-for-chatgpt-errors-on-web-and-apps
+# https://github.com/v2fly/domain-list-community/blob/5b1678867da0afc35854f481c1749a39048952df/data/openai
+DOMAIN,o207216.ingest.sentry.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
+
+# DALL-E image results, Whisper models and tiktoken tokenizer downloads.
+# https://github.com/openai/openai-cookbook/blob/main/examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb
+# https://github.com/openai/whisper/blob/main/whisper/__init__.py
+# https://github.com/openai/tiktoken/blob/main/tiktoken_ext/openai_public.py
+DOMAIN,oaidalleapiprodscus.blob.core.windows.net
+DOMAIN,openaipublic.azureedge.net
+DOMAIN,openaipublic.blob.core.windows.net
+
+# Official OpenAI interactive API demos; exact hosts for shared Vercel hosting.
+# https://developers.openai.com/showcase/openai-fm
+# https://developers.openai.com/showcase/chatkit-world
+# https://developers.openai.com/showcase/openai-imagegen-demo
+# https://developers.openai.com/showcase/solar-system-demo
+DOMAIN-SUFFIX,openai.fm
+DOMAIN-SUFFIX,chatkit.world
+DOMAIN,openai-photobooth-demo.vercel.app
+DOMAIN,openai-realtime-solar-system-demo.vercel.app
