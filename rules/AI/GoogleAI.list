@@ -1,16 +1,16 @@
 # GoogleAI
 # Policy: Proxy
 # Last reviewed: 2026-10-22
-# Scope: Google AI surfaces — Gemini app/API, AI Studio, Gemini Code Assist, NotebookLM,
-# Jules, Antigravity, Stitch and DeepMind.
-# Every rule here is copied verbatim from the Google section of AI-Proxy.list;
-# AI-Proxy.list still carries all of them, nothing was moved or deleted.
+# Scope: Google AI surfaces — Gemini app/API, AI Studio, Gemini Notebook (NotebookLM),
+# Jules, Antigravity, Stitch, Flow, Opal, Google Labs, Code Assist, Vertex AI, DeepMind.
 # Shared Google hosts (auth, API frontends, gstatic) are included only because the
 # AI clients need them; they are not Google-AI-exclusive.
 # This is a routing list, not an exhaustive firewall allowlist.
 
 # Gemini app / Gemini API
-# https://ai.google.dev/gemini-api/docs
+# https://gemini.google.com/  https://ai.google.dev/gemini-api/docs
+DOMAIN,geminiweb-pa.clients6.google.com
+DOMAIN,gemini.gstatic.com
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
@@ -19,12 +19,21 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 
 # Google AI Studio / MakerSuite
+# https://aistudio.google.com/
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,cloudconsole-pa.clients6.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 
-# Gemini Code Assist / Cloud Code agent backend
+# Gemini Notebook (formerly NotebookLM)
+# notebooklm.google.com 301s to the current host notebook.google.com
+DOMAIN-SUFFIX,notebook.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Gemini Code Assist / Gemini CLI / Cloud Code agent backend
+# https://codeassist.google/  https://github.com/google-gemini/gemini-cli
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,geller-pa.googleapis.com
@@ -32,17 +41,41 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN,aida.googleapis.com
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,codeassist.google
 
-# NotebookLM
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-
-# Jules / Antigravity / Stitch
-# https://antigravity.google/
-# https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-gemini-3/
+# Jules
+# https://jules.google.com/
 DOMAIN,jules.google.com
+
+# Antigravity (desktop + web Remote Control)
+# https://antigravity.google/  https://antigravity.google.com/
 DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
+
+# Stitch
+# https://stitch.google.com/ (canonical)  https://stitch.withgoogle.com/ (still serving)
+DOMAIN-SUFFIX,stitch.google.com
 DOMAIN,stitch.withgoogle.com
+
+# Flow / Flow Music (Absorbed Whisk and ImageFX)
+# labs.google/fx/tools/flow 308s to flow.google.com; flowmusic.google 301s to flowmusic.app
+DOMAIN-SUFFIX,flow.google.com
+DOMAIN-SUFFIX,flowmusic.app
+
+# Opal
+# opal.withgoogle.com 301s to opal.google
+DOMAIN-SUFFIX,opal.google
+DOMAIN,appcatalyst.pa.googleapis.com
+
+# Google Labs (Whisk, Mixboard, Pomelli, Project Genie, AI Test Kitchen)
+# labs.google.com 301s to labs.google
+DOMAIN-SUFFIX,labs.google
+
+# Vertex AI / Gemini API on Google Cloud
+# Regional endpoints are <region>-aiplatform.googleapis.com, e.g. us-central1-aiplatform.googleapis.com
+DOMAIN,aiplatform.googleapis.com
+DOMAIN-WILDCARD,*-aiplatform.googleapis.com
 
 # DeepMind
 DOMAIN-SUFFIX,deepmind.com
@@ -51,12 +84,14 @@ DOMAIN-SUFFIX,deepmind.google
 # Gemini in Colab
 DOMAIN,colab.research.google.com
 
-# Shared Google infrastructure (sign-in, API frontends, static assets, safe browsing)
+# Shared Google infrastructure (sign-in, API frontends, static assets, storage, safe browsing)
 # Also used by non-AI Google services; keep only if the AI clients need them.
 DOMAIN,accounts.google.com
 DOMAIN,oauth2.googleapis.com
 DOMAIN,apis.google.com
 DOMAIN,www.googleapis.com
 DOMAIN,safebrowsing.googleapis.com
+# Antigravity installers / public AI assets are served from GCS buckets
+DOMAIN,storage.googleapis.com
 DOMAIN,ssl.gstatic.com
 DOMAIN,www.gstatic.com
