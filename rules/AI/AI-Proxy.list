@@ -1,47 +1,13 @@
 # AI-Proxy
 # Policy: Proxy
-# Last reviewed: 2026-10-18
+# Last reviewed: 2026-10-22
 # Scope: international AI services, APIs, coding assistants and generators.
 # OpenAI-specific rules are maintained separately in OpenAI-Proxy.list.
+# Google AI rules (Gemini, AI Studio, NotebookLM, Jules, Antigravity, Stitch, DeepMind)
+# are maintained separately in GoogleAI.list.
 # Mainland China AI providers belong in AI-Direct.list.
 # Shared infrastructure uses scoped domains or hosts, not cloud ASNs or IPs.
 # This is a routing list, not an exhaustive firewall allowlist.
-
-# Google / Gemini / NotebookLM / Jules / Antigravity / Stitch
-# https://antigravity.google/
-# https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-gemini-3/
-DOMAIN,accounts.google.com
-DOMAIN,ai.google.dev
-DOMAIN,aida.googleapis.com
-DOMAIN,aisandbox-pa.googleapis.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,apis.google.com
-DOMAIN,colab.research.google.com
-DOMAIN,daily-cloudcode-pa.googleapis.com
-DOMAIN,geller-pa.googleapis.com
-DOMAIN,jules.google.com
-DOMAIN,oauth2.googleapis.com
-DOMAIN,robinfrontend-pa.googleapis.com
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,ssl.gstatic.com
-DOMAIN,stitch.withgoogle.com
-DOMAIN,www.googleapis.com
-DOMAIN,www.gstatic.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # Microsoft / Copilot
 # https://support.microsoft.com/en-us/Microsoft-Copilot/connecting-microsoft-copilot-to-other-services
